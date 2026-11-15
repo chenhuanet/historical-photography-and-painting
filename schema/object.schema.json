@@ -1,0 +1,31 @@
+{
+  "title": "尘画 · 器物与文书",
+  "type": "object",
+  "required": [
+    "id",
+    "collection",
+    "content_type",
+    "type_evidence",
+    "title",
+    "year",
+    "medium",
+    "topic",
+    "image",
+    "evidence",
+    "audit"
+  ],
+  "allowed_collections": [
+    "objects"
+  ],
+  "allowed_content_types": [
+    "object",
+    "document",
+    "postcard"
+  ],
+  "allowed_mediums": [
+    "纸品实物",
+    "器物",
+    "文书",
+    "明信片"
+  ]
+}

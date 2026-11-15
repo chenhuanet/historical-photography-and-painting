@@ -1,0 +1,34 @@
+{
+  "title": "尘画 · 专题",
+  "type": "object",
+  "required": [
+    "id",
+    "collection",
+    "title",
+    "subtitle",
+    "status",
+    "cover",
+    "chapters"
+  ],
+  "allowed_status": [
+    "draft",
+    "published",
+    "archived"
+  ],
+  "chapter_fields": [
+    "title",
+    "text",
+    "items"
+  ],
+  "item_fields": [
+    "id",
+    "caption"
+  ],
+  "rules": [
+    "cover 必须出现在某一章的 items 中",
+    "item.id 必须存在于对应 collection，且审核状态为 accepted",
+    "一张图可以属于多个专题；照片记录不写 stories 字段",
+    "专题是精选 + 论点，不是标签页；集合页是全量 + 筛选",
+    "含 U4 的专题必须标注仅非商用"
+  ]
+}

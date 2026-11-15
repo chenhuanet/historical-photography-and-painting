@@ -1,0 +1,33 @@
+{
+  "title": "尘画 · 绘画与版画",
+  "type": "object",
+  "required": [
+    "id",
+    "collection",
+    "content_type",
+    "type_evidence",
+    "title",
+    "year",
+    "medium",
+    "topic",
+    "license",
+    "image",
+    "evidence",
+    "audit"
+  ],
+  "allowed_collections": [
+    "paintings"
+  ],
+  "allowed_content_types": [
+    "painting",
+    "print",
+    "drawing"
+  ],
+  "allowed_mediums": [
+    "油画",
+    "水彩",
+    "绘画",
+    "版画",
+    "素描"
+  ]
+}

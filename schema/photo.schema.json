@@ -1,0 +1,237 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "尘画 · 内容条目 (Markdown frontmatter)",
+  "description": "一条已核验许可的影像记录。本文件同时是 validate.py 的规则源：required / allowed_* / blocked_license_patterns 由脚本直接读取。",
+  "type": "object",
+  "required": [
+    "id",
+    "collection",
+    "content_type",
+    "type_evidence",
+    "review_status",
+    "year",
+    "date_label",
+    "era",
+    "kind",
+    "topic",
+    "place",
+    "title",
+    "source_short",
+    "source_url",
+    "license",
+    "license_url",
+    "tier",
+    "image",
+    "fetched_at",
+    "upstream",
+    "license_snapshot",
+    "theme",
+    "region",
+    "medium",
+    "period",
+    "evidence",
+    "audit",
+    "page_url",
+    "page_url_basis",
+    "rights_status",
+    "commercial_ok",
+    "creator_status"
+  ],
+  "allowed_tiers": [
+    "L0",
+    "L1",
+    "L2",
+    "LU"
+  ],
+  "allowed_rights": [
+    "PD",
+    "CC0",
+    "CC-BY",
+    "CC-BY-SA",
+    "NKCR",
+    "INC"
+  ],
+  "allowed_eras": [
+    "18世纪",
+    "19世纪",
+    "20世纪",
+    "21世纪"
+  ],
+  "allowed_kinds": [
+    "大事件",
+    "尘世",
+    "当代"
+  ],
+  "allowed_upstream": [
+    "commons",
+    "open-museums"
+  ],
+  "allowed_themes": [
+    "人间",
+    "世事",
+    "天地",
+    "技艺"
+  ],
+  "allowed_topics": [
+    "面孔",
+    "街巷",
+    "劳作",
+    "战火",
+    "灾变",
+    "权利",
+    "远方",
+    "风景",
+    "痕迹",
+    "馆藏"
+  ],
+  "allowed_regions": [
+    "中国",
+    "东亚",
+    "东南亚",
+    "南亚",
+    "中亚",
+    "西亚·北非",
+    "撒哈拉以南非洲",
+    "欧洲",
+    "北美",
+    "中南美",
+    "大洋洲",
+    "极地",
+    "太空",
+    "跨地域"
+  ],
+  "allowed_mediums": [
+    "印刷品",
+    "器物",
+    "官方档案",
+    "彩色印刷",
+    "文书",
+    "无图外链",
+    "素描",
+    "明信片",
+    "水彩",
+    "油画",
+    "版画",
+    "盐纸",
+    "纪实照片",
+    "纸品实物",
+    "绘画",
+    "航天影像",
+    "蛋白印相",
+    "银版",
+    "锡版"
+  ],
+  "theme_topic_map": {
+    "人间": [
+      "面孔",
+      "街巷",
+      "劳作"
+    ],
+    "世事": [
+      "战火",
+      "灾变",
+      "权利"
+    ],
+    "天地": [
+      "远方",
+      "风景"
+    ],
+    "技艺": [
+      "痕迹",
+      "馆藏"
+    ]
+  },
+  "evidence_required": [
+    "claim",
+    "basis",
+    "catalog_id",
+    "reference_url",
+    "checked_at",
+    "status"
+  ],
+  "audit_required": [
+    "run_id",
+    "reviewer",
+    "human_review",
+    "checked_at",
+    "status",
+    "rules_version"
+  ],
+  "blocked_license_patterns": [
+    "BY-NC",
+    "NC-SA",
+    "NC-ND",
+    "-ND",
+    "NonCommercial",
+    "NoDerivatives",
+    "All rights reserved",
+    "not evaluated",
+    "未评估",
+    "权利保留"
+  ],
+  "link_required": [
+    "id",
+    "title",
+    "tier",
+    "license",
+    "license_url",
+    "source_short",
+    "source_url",
+    "isLink",
+    "theme",
+    "topic",
+    "region",
+    "medium",
+    "period",
+    "evidence",
+    "audit",
+    "rights_status",
+    "commercial_ok",
+    "creator_status"
+  ],
+  "link_allowed_tiers": [
+    "L3",
+    "L4"
+  ],
+  "fields": {
+    "id": "唯一标识，同时是图片文件名与策展笔记文件名",
+    "year": "用于时间轴排序的整数年份",
+    "date_label": "展示用日期，可写「约 1900」「1945-02-23」",
+    "tier": "L0/L1/L2 才可落地图片；L3/L4 只能出现在 content/links/",
+    "license_snapshot": "抓取时的原始权利信息快照，构成可追溯证据链",
+    "image": "世纪图片站上的展示图 URL；二进制不进内容仓",
+    "image_original_sha256": "压缩前原图 sha256，用于溯源",
+    "image_processing": "展示图处理规则，如 long-edge-1600-q82",
+    "theme / topic": "主题大类与细类，须符合 theme_topic_map；分类法见 taxonomy.json",
+    "region / medium / period": "地域、影像介质、十年标签，共同构成多维筛选",
+    "evidence": "史实依据台账条目：核心史实陈述、依据、馆藏编号、可核查链接、核验日期与状态",
+    "collection": "photos / paintings / objects / links",
+    "content_type": "photograph / painting / print / postcard / object / document / link",
+    "type_evidence": "类型判定的源站依据；不确定时配合 review_status: needs_review",
+    "review_status": "clean / needs_review",
+    "source_image": "原始上游图片 URL，保留用于重新抓取与审计",
+    "title_original": "题名被清理/补全前的原始值",
+    "title_note": "题名清理依据",
+    "title_truncated": "源站题名在采集时截断，未补全"
+  },
+  "allowed_collections": [
+    "photos",
+    "paintings",
+    "objects",
+    "links"
+  ],
+  "allowed_content_types": [
+    "photograph",
+    "painting",
+    "print",
+    "drawing",
+    "postcard",
+    "object",
+    "document",
+    "link"
+  ],
+  "allowed_review_status": [
+    "clean",
+    "needs_review"
+  ]
+}

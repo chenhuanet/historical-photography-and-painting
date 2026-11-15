@@ -1,0 +1,83 @@
+---
+id: auto-344c1abb
+collection: photos
+content_type: photograph
+type_evidence: 原分类为摄影影像
+review_status: clean
+title: James Webb Space Telescope Second Prim
+year: 2022
+date_label: '2022'
+era: 21世纪
+kind: 尘世
+theme: 天地
+topic: 远方
+region: 太空
+medium: 航天影像
+period: 2020s
+place: 太空
+china: false
+creator: Bill Ingalls
+creator_status: named
+source: Wikimedia Commons
+source_short: 维基共享资源
+source_url: https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Second_Primary_Mirror_Deployment_(NHQ202201080010).jpg
+page_url: https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Second_Primary_Mirror_Deployment_(NHQ202201080010).jpg
+page_url_basis: 维基共享资源文件页
+license: Public domain
+license_raw: null
+license_url: https://commons.wikimedia.org/wiki/Commons:Licensing
+tier: L0
+rights_status: PD
+commercial_ok: true
+usage_code: U1
+fetched_at: '2026-11-09T11:28:54'
+upstream: commons
+classification: heuristic（按检索词与题名推断，可校正）
+license_snapshot:
+  fetched_at: '2026-11-09T11:28:54'
+  raw_license: Public domain
+  credit: Bill Ingalls
+  description: James Webb Space Telescope Second Primary Mirror Deployment (NHQ202201080010)
+    | NASA James Webb Space Telescope Ground Systems Engineer Carl Reis at NASA’s
+    James Webb Space Telescope Mission Operations Center at the Space Telescope Science
+    Institute in Baltimore monitors the progress as the observatory’s second primary
+    mirror wing rotates into position, Saturday, Jan. 8, 2022. Webb, an infrared telescope
+    with a 21.3-foot (6.5-meter) primary mirror, was folded up for launch and underwent
+    an unprecedented deployment process to unfold in space. As NASA's next flagship
+    observatory, Webb will study
+  date_original: '2022'
+  source_ref: File:James Webb Space Telescope Second Primary Mirror Deployment (NHQ202201080010).jpg
+  file_or_record: File:James Webb Space Telescope Second Primary Mirror Deployment
+    (NHQ202201080010).jpg
+evidence:
+  claim: 2022 《James Webb Space Telescope Second Prim》，维基共享资源 文件页著录
+  basis: Wikimedia Commons 文件页著录（题名、年代、许可逐项核对）
+  catalog_id: File:James Webb Space Telescope Second Primary Mirror Deployment (NHQ202201080010).jpg
+  reference_url: https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Second_Primary_Mirror_Deployment_(NHQ202201080010).jpg
+  checked_at: '2026-11-08'
+  status: 已核对源站著录
+audit:
+  run_id: review-20261109-124008
+  reviewer: AI 自动审核 v0.1（无人工复核）
+  human_review: false
+  checked_at: '2026-11-09T12:40:12'
+  status: accepted
+  rules_version: chenhua-audit-rules/1.3
+  reason: 全部适用的交叉校验通过（10 项）
+  checks_passed: 10
+  checks_applicable: 10
+image: https://21century.chenhua.net/photos/2020s/auto-344c1abb-c0272527.jpg
+source_image: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/James_Webb_Space_Telescope_Second_Primary_Mirror_Deployment_%28NHQ202201080010%29.jpg/960px-James_Webb_Space_Telescope_Second_Primary_Mirror_Deployment_%28NHQ202201080010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+image_sha256: c71e213222750c38ac1cd0deae91206a5ee390af5dad9bdf58e7b0ee6a8dc680
+image_width: 960
+image_height: 752
+image_bytes: 132619
+image_century: 21century
+image_repo: 21century
+image_original_sha256: c0272527e063f0d52d21696425c2f4b0bfe4a48299dfd733cca8f02cfe76665e
+image_processing: long-edge-1600-q82
+---
+
+![James Webb Space Telescope Second Prim](https://21century.chenhua.net/photos/2020s/auto-344c1abb-c0272527.jpg)
+
+2022，太空。Bill Ingalls；来源：维基共享资源，馆藏编号 File:James Webb Space Telescope Second Primary Mirror Deployment (NHQ202201080010).jpg。这是一张航天影像。
