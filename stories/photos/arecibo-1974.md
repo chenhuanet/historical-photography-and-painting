@@ -1,13 +1,9 @@
 ---
 id: arecibo-1974
 collection: photos
-type: 事件
 title: 给宇宙的一封信
 subtitle: 1974 年 11 月 16 日，人类把 1679 位电报发向 M13
 status: published
-date: "1974-11-16"
-date_label: "1974-11-16"
-place: Arecibo, Puerto Rico
 cover: auto-b5409a29
 themes: [太空, 技艺]
 sources:
