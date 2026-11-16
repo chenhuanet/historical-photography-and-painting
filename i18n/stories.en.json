@@ -1,0 +1,626 @@
+{
+ "apollo-11-1969": {
+  "title": "20 July 1969: the lunar surface",
+  "subtitle": "The first time humans stood on another world",
+  "type_en": "Event",
+  "intro": "On 20 July 1969 (UTC), Apollo 11's Eagle lunar module landed at Tranquility Base. Armstrong and Aldrin walked on the Moon; Collins stayed in lunar orbit.\n\nThis story follows departure, the surface, traces and the look back, separating the landing, surface activity, the objects left behind and the return. Dates use UTC; some surface photographs were taken on 21 July UTC.",
+  "chapters": {
+   "0": {
+    "title": "Departure",
+    "text": "On 16 July 1969, Saturn V lifted off from Kennedy Space Center. Neil Armstrong, Buzz Aldrin and Michael Collins flew toward the Moon. On 20 July, Eagle landed at Tranquility Base."
+   },
+   "1": {
+    "title": "The surface",
+    "text": "Armstrong stepped out first: “That's one small step for man, one giant leap for mankind.” Aldrin followed. They spent about two and a half hours outside, setting up instruments and collecting rock and soil samples."
+   },
+   "2": {
+    "title": "Traces",
+    "text": "There is no wind on the Moon; footprints and equipment remain for a long time. They left a plaque, a flag, a seismometer and a laser reflector — physical evidence that humans had reached another world."
+   },
+   "3": {
+    "title": "Looking back",
+    "text": "Collins stayed in the Columbia command module in lunar orbit. After Apollo 11 returned, humans had for the first time a complete image of Earth seen from another world."
+   }
+  }
+ },
+ "apollo-soyuz-1975": {
+  "title": "1975: handshake in orbit",
+  "subtitle": "17 July: Apollo and Soyuz dock",
+  "type_en": "Event",
+  "intro": "On 17 July 1975, Apollo and Soyuz 19 docked in low Earth orbit. Two days later Stafford and Leonov shook hands at the hatch — the first time the two space programmes of the Cold War were joined in space.\n\nThis story follows training, rendezvous, the handshake and the return, while keeping the docking module and the artificial solar eclipse in view.",
+  "chapters": {
+   "0": {
+    "title": "From rivalry to docking",
+    "text": "In May 1972 the United States and the Soviet Union signed an agreement to dock Apollo and Soyuz on a joint mission. The American crew was Thomas Stafford, Vance Brand and Donald Slayton; the Soviet crew was Alexei Leonov and Valery Kubasov. They trained repeatedly in Moscow and Houston, and designed a docking module as the passage between two very different spacecraft."
+   },
+   "1": {
+    "title": "Meeting in orbit",
+    "text": "On 15 July 1975 the two spacecraft lifted off one after the other. On 17 July, Apollo and Soyuz 19 docked in low Earth orbit. The module joined two different atmospheres, interfaces and communications systems. The crews photographed each other's ships, and captured Soyuz silhouetted against the Sun."
+   },
+   "2": {
+    "title": "The handshake",
+    "text": "Hours after docking, the hatch opened. Stafford and Leonov shook hands at the docking module — the first face-to-face meeting of the two countries' astronauts in space. They exchanged gifts, visited each other's spacecraft and greeted one another in English and Russian."
+   },
+   "3": {
+    "title": "Return",
+    "text": "The two spacecraft flew docked for about 44 hours, then separated. Soyuz 19 returned on 21 July; Apollo splashed down in the Pacific on 24 July. The mission did not end the Cold War, but it proved that two completely different space systems could work together in orbit."
+   }
+  }
+ },
+ "arecibo-1974": {
+  "title": "A letter to the universe",
+  "subtitle": "16 November 1974: 1,679 bits sent toward M13",
+  "type_en": "Long read",
+  "intro": "On 16 November 1974, the Arecibo telescope in Puerto Rico sent a 1,679-bit radio message toward M13. It carried not photographs but a binary self-introduction: numbers, DNA, the human figure, the solar system and the telescope itself. Travelling at the speed of light, it will take about 20,000 years to reach M13.\n\nThis was less a real interstellar conversation than a technical demonstration. But it handed the universe the first carefully written answer to “who we are”.\n\nThis story uses images of Earth seen from space in the same period to place the message in its time. The Arecibo telescope itself is not in this archive; the relationship between each image and the event is explained in its caption.",
+  "chapters": {
+   "0": {
+    "title": "Leaving the surface",
+    "text": "In 1957 Sputnik put the first artificial satellite in orbit; in 1961 Gagarin and Shepard entered space; in 1965 White opened the hatch of Gemini 4. For the first time humans were no longer only looking up from the ground — they had begun to see themselves from outside."
+   },
+   "1": {
+    "title": "Seeing Earth for the first time",
+    "text": "In 1968 Apollo 8 photographed “Earthrise” while orbiting the Moon; in 1969 Apollo 11 put people on the lunar surface; in 1972 Apollo 17 took the full “Blue Marble”. Earth had become a portrait that could be framed."
+   },
+   "2": {
+    "title": "1974: Earth written as a telegram",
+    "text": "On 16 November 1974, the Arecibo telescope in Puerto Rico sent a 1,679-bit radio message toward the globular cluster M13. In binary it described numbers, the elemental makeup of DNA, the human figure, the solar system and the telescope itself. At the speed of light, the message needs about 20,000 years to arrive. It was more a technical demonstration than a true interstellar dialogue. This archive holds no image of Arecibo itself; this chapter uses photographs of Earth from space taken in the same period to set the scene."
+   },
+   "3": {
+    "title": "After the message",
+    "text": "In 1977 Voyager 1 and 2 lifted off carrying the Golden Record: greetings, music and the sounds of Earth. Arecibo's message was sent once; the Voyager records are travelling farther. No one knows whether anyone will receive them, but both wrote “we are here” into the universe."
+   }
+  }
+ },
+ "armistice-1918": {
+  "title": "11 November 1918: eleven o'clock",
+  "subtitle": "The Western Front falls silent; cities begin to celebrate",
+  "type_en": "Event",
+  "intro": "At 11 a.m. on 11 November 1918, the armistice on the Western Front took effect. The main fighting of the First World War ended, and cities across Europe began to celebrate.\n\nThis story sets armistice, city and army side by side: the agreement ended the fighting, but did not immediately end the casualties, displacement and reconstruction. Formal peace had to wait for the Treaty of Versailles in 1919.",
+  "chapters": {
+   "0": {
+    "title": "Eleven o'clock",
+    "text": "At 11 a.m. on 11 November 1918, the armistice on the Western Front took effect. Germany and the Allies signed the agreement, and the main fighting of the First World War ended. The armistice was not formal peace; the peace treaty was not signed until Versailles in 1919."
+   },
+   "1": {
+    "title": "The city",
+    "text": "When the news spread, crowds appeared in London, Paris, New York and Brisbane. People poured into the streets; soldiers, civilians and vehicles mixed together. The cities in these photographs do not look carefree so much as suddenly released after a long exhaustion."
+   },
+   "2": {
+    "title": "The army",
+    "text": "After the ceasefire, some German units began to withdraw from occupied territory, while American regiments celebrated. Silence at the front did not mean everything immediately returned to normal: casualties, disability, hunger and the rebuilding of order would continue for years."
+   }
+  }
+ },
+ "berlin-airlift-1948": {
+  "title": "1948: the Berlin Airlift",
+  "subtitle": "24 June: the city is blockaded, aircraft begin to land",
+  "type_en": "Event",
+  "intro": "On 24 June 1948, the Soviet Union blockaded West Berlin. The Western Allies flew in food, coal and medicine to keep the city running. In May 1949 the blockade was lifted; the airlift continued until September to ensure West Berlin had enough reserves.\n\nThis story follows blockade, airlift and winter, showing that the Berlin Airlift was not a single flight but a logistics system run for months, measured in minutes.",
+  "chapters": {
+   "0": {
+    "title": "Blockade",
+    "text": "On 24 June 1948, the Soviet Union cut the land and water routes into West Berlin. The city was surrounded inside the Soviet zone, dependent on outside supplies of food, coal and medicine. The Western Allies decided to keep the city running by air."
+   },
+   "1": {
+    "title": "Airlift",
+    "text": "From late June, British, American and other transport aircraft flew into West Berlin continuously, carrying flour, coal, medicine and machine parts. At its busiest, an aircraft landed every few minutes."
+   },
+   "2": {
+    "title": "Winter",
+    "text": "The winter of 1948–49 was especially hard. Coal, food and electricity depended on the airlift and strict rationing. Berliners watched the transports come in overhead and called them “raisin bombers”."
+   }
+  }
+ },
+ "brooklyn-bridge-1883": {
+  "title": "1883: the Brooklyn Bridge opens",
+  "subtitle": "24 May: two cities joined by one bridge",
+  "type_en": "Event",
+  "intro": "On 24 May 1883, the Brooklyn Bridge officially opened, giving New York and Brooklyn a fixed land route for the first time. The project began with John Roebling's design and was carried through by his family and a succession of engineers.\n\nThis story follows idea, construction, opening and aftermath, including the crush six days after the opening. The plates and photographs are not only engineering records but scenes of nineteenth-century city life.",
+  "chapters": {
+   "0": {
+    "title": "The idea of a bridge",
+    "text": "At the start of the nineteenth century, New York and Brooklyn faced each other across the East River and depended on ferries. John Roebling proposed a suspension bridge: two granite towers, steel cables carrying the deck, a main span of about 486 metres. No bridge of that span had been built."
+   },
+   "1": {
+    "title": "Construction",
+    "text": "Work began around 1869. John Roebling injured his foot during a survey and died soon after; his son Washington took over, then suffered decompression sickness from caisson work and was bedridden. Emily Warren Roebling relayed instructions between her husband and the site. Towers, cables and deck were joined piece by piece over more than a decade."
+   },
+   "2": {
+    "title": "Opening",
+    "text": "On 24 May 1883 the bridge opened. President Chester Arthur and New York mayor Franklin Edson walked across; Emily Warren Roebling crossed that day too. Fireworks were set off at night and ships sounded their horns. Commuting and freight across the East River no longer depended only on ferries."
+   },
+   "3": {
+    "title": "Afterward",
+    "text": "Six days later, on 30 May, a crush occurred on the bridge. Someone fell on the stairs, a shout went up that the bridge was collapsing, and 12 people died and dozens were injured. The following year P.T. Barnum walked a herd of elephants across to prove the bridge could bear the load. The Brooklyn Bridge remained a symbol of New York."
+   }
+  }
+ },
+ "challenger-1986": {
+  "title": "1986: seventy-three seconds",
+  "subtitle": "28 January: a seal changed the shuttle programme",
+  "type_en": "Event",
+  "intro": "On 28 January 1986, Challenger lifted off from Kennedy Space Center and broke apart 73 seconds later, killing all seven crew members. It was the first time the shuttle programme lost an orbiter and a crew in flight.\n\nThis story follows crew, launch, breakup and aftermath, setting out the timeline and the investigation, and recording the grounding and return to flight that followed. War and disaster need no embellishment; the facts are heavy enough.",
+  "chapters": {
+   "0": {
+    "title": "A teacher in space",
+    "text": "STS-51-L had seven crew members: Francis Scobee, Michael Smith, Ronald McNair, Ellison Onizuka, Judith Resnik, Gregory Jarvis and Christa McAuliffe, a high-school teacher from New Hampshire. She was selected through the Teacher in Space programme and was to teach students across the country from orbit."
+   },
+   "1": {
+    "title": "Launch",
+    "text": "At 11:38 a.m. on 28 January 1986, Challenger lifted off from pad 39B. The temperature in Florida was near freezing. Before launch, engineers at the solid-rocket-booster contractor had raised concerns about the O-rings in cold weather, but the launch went ahead as scheduled."
+   },
+   "2": {
+    "title": "Breakup",
+    "text": "About 73 seconds after liftoff, flame escaped from a joint on the right solid rocket booster, the external tank failed, and the shuttle broke apart under extreme aerodynamic loads. All seven crew members died. Ground cameras and television recorded the whole sequence. The Rogers Commission later found that the cold had robbed the O-rings of their resilience, the direct cause of the accident."
+   },
+   "3": {
+    "title": "Afterward",
+    "text": "The shuttle fleet was grounded for 32 months. Large amounts of debris were recovered for the investigation. In September 1988 Discovery flew STS-26 and the shuttle returned to flight. Challenger changed launch decision-making, safety oversight and engineering communication, and altered the public's imagination of human spaceflight."
+   }
+  }
+ },
+ "china-1850-1930": {
+  "title": "China, 1850–1930",
+  "subtitle": "China through the lens — and where the lens stood",
+  "type_en": "Long read",
+  "intro": "China was not “discovered”. From the 1860s it was recorded again and again by lenses in different positions: Chinese photographers, and foreigners accompanying armies, missions and trade.\n\nLooking at these photographs means seeing both the China inside the frame and where the camera stood. This story selects 12 images, from the Taku Forts to Nanjing Road, putting “China photographed” and “the photographer's position” on the same page.",
+  "chapters": {
+   "0": {
+    "title": "Treaty ports",
+    "text": "In 1860 the Taku Forts were stormed; the same year, commercial streets in Guangzhou and Shanghai had already appeared on film. War and daily life were not two separate things; they happened on the same coastline."
+   },
+   "1": {
+    "title": "Walls and bridges",
+    "text": "From the Great Wall and the Jade Belt Bridge to Chaoyangmen, photographers recorded not only buildings but the way they entered China: with armies, missions, trade and travel. The position of the lens decided who could stand in the middle of the frame."
+   },
+   "2": {
+    "title": "The city",
+    "text": "In the 1920s and 1930s, the Bund and Nanjing Road in Shanghai became shopwindows of the modern city; photographs were printed as postcards and entered the market. China was no longer only an object of recording; it was part of the image economy."
+   }
+  }
+ },
+ "columbian-exposition-1893": {
+  "title": "1893: Chicago's White City",
+  "subtitle": "1 May: the World's Columbian Exposition opens",
+  "type_en": "Event",
+  "intro": "On 1 May 1893 the World's Columbian Exposition opened in Chicago. The “White City” displayed industry, architecture and electricity; the Midway displayed people and villages from around the world. After the fair most of the white buildings were demolished, and some burned in a fire in 1894.\n\nThis story covers both the architecture and technology of the fair and its human displays. Those photographs do not look neutral today: they record how the colonial era turned different peoples into exhibits.",
+  "chapters": {
+   "0": {
+    "title": "Opening",
+    "text": "On 1 May 1893 the World's Columbian Exposition opened in Chicago, marking four hundred years since Columbus reached the Americas. It ran until October, showing industry, transport, architecture and exhibits from around the world."
+   },
+   "1": {
+    "title": "The White City",
+    "text": "The main buildings were grouped in the “White City”, built largely of white stucco with classical columns and lit by electric light at night. It presented an idealised image of a city, along with the novelty of electricity and machinery."
+   },
+   "2": {
+    "title": "Midway and human display",
+    "text": "The fair's Midway showed villages and peoples from different regions. Samoans, Alaska Natives and others were placed in enclosures for visitors to watch. This was part of the colonial-era “human display” and is a side of the fair that cannot be ignored."
+   }
+  }
+ },
+ "dday-1944": {
+  "title": "6 June 1944: Normandy",
+  "subtitle": "One of the largest amphibious landings in history",
+  "type_en": "Event",
+  "intro": "On 6 June 1944 the Allies landed in Normandy. The operation was supported by thousands of ships, tens of thousands of aircraft and hundreds of thousands of personnel, and became one of the decisive turning points on the Western Front.\n\nThis story follows preparation, crossing, landing and supply, showing that D-Day was not a battle finished in a day but a long supply line running from British ports to the French beaches.",
+  "chapters": {
+   "0": {
+    "title": "Preparation",
+    "text": "Before the landing, the Allies gathered ships, vehicles and people in southern England, and used dummy landing craft and camps to mislead the Germans about the direction of attack. The real build-up was larger still: thousands of ships, tens of thousands of aircraft and hundreds of thousands of personnel took part in Operation Overlord."
+   },
+   "1": {
+    "title": "Crossing",
+    "text": "In the early hours of 6 June the Allied fleet crossed the English Channel. The landing beaches, west to east, were Utah, Omaha, Gold, Juno and Sword. The weather was far from ideal, but the operation could not be postponed again."
+   },
+   "2": {
+    "title": "Landing",
+    "text": "The first troops came ashore at dawn. Fighting on Omaha was especially severe, and the other beaches saw continuous fire. By the end of the day the Allies had established a bridgehead on the French coast, at high cost."
+   },
+   "3": {
+    "title": "Supply",
+    "text": "The landing was only the beginning. The Allies towed artificial “Mulberry” harbours into place off the beaches and landed vehicles, fuel and supplies continuously. Normandy became the starting point of the campaign across western Europe."
+   }
+  }
+ },
+ "earth-to-moon": {
+  "title": "From Earth to the lunar surface",
+  "subtitle": "After leaving the ground, we looked back for the first time",
+  "type_en": "Long read",
+  "intro": "The most moving thing about space photography is not how far we went, but that we had a chance to look back at Earth.\n\nFrom a suborbital flight in 1961 to the “Earthset” seen from Orion in 2026, humans carried cameras out of the atmosphere over sixty-five years, turning “Earth” from a word on the ground into a visible sphere. This story has three chapters — leaving the surface, the first look back, the far nearby — and eleven images. They are scientific records, and also ways of understanding “home” again.",
+  "chapters": {
+   "0": {
+    "title": "Leaving the surface",
+    "text": "In 1961 Ham returned from space and reached for an apple; the same year Shepard waited in Freedom 7 for launch. In 1965 White stepped outside the capsule. Humans first learned to survive in vacuum, then learned to see themselves from a distance."
+   },
+   "1": {
+    "title": "The first look back",
+    "text": "In 1968 Apollo 8 rounded the far side of the Moon and Earth rose above the lunar horizon. A year later humans stood on another world; later still, the whole Earth was fitted into a single photograph. The camera of the space race ended up photographing “home”."
+   },
+   "2": {
+    "title": "The far nearby",
+    "text": "Space stations made “leaving the surface” ordinary; telescopes pushed the view farther. The nebulae and galaxies we see are light emitted billions of years ago; every look back at Earth is the present. In space photography, the far and the near came this close for the first time."
+   }
+  }
+ },
+ "eiffel-1889": {
+  "title": "1889: the tower is topped out",
+  "subtitle": "31 March: Paris gains a 300-metre tower",
+  "type_en": "Event",
+  "intro": "On 31 March 1889 the main structure of the Eiffel Tower was completed. Built for the next world's fair, it was accepted by Paris despite controversy and became the city's most recognisable outline.\n\nThis story follows controversy, construction and topping out, using construction photographs and fair images from the period to show how the tower rose floor by floor.",
+  "chapters": {
+   "0": {
+    "title": "Controversy and foundations",
+    "text": "In 1887 Paris began building a 300-metre tower for the 1889 world's fair. The design came from Gustave Eiffel's engineering firm. More than three hundred writers, painters and architects protested that it would ruin the Paris skyline. Work went ahead as planned, with the foundations driven into the soil beside the Seine."
+   },
+   "1": {
+    "title": "Floor by floor",
+    "text": "The tower was made of more than eighteen thousand iron parts and about 2.5 million rivets. Without large cranes, workers hoisted the pieces one by one. Four inclined legs converged upward and were joined at each platform. Photographs record it growing taller through 1888."
+   },
+   "2": {
+    "title": "Topping out and opening",
+    "text": "On 31 March 1889 the main structure was finished. In May the world's fair opened and the tower was opened to the public. It was originally meant to stand for only twenty years; the radio antenna at the top gave it military and communications value, and it was kept."
+   }
+  }
+ },
+ "first-fifty-years": {
+  "title": "The first fifty years of photography",
+  "subtitle": "From daguerreotype to snapshot: how light learned to keep detail",
+  "type_en": "Long read",
+  "intro": "In the first fifty years of photography, what really changed was not the technology but who was allowed to be seen.\n\nIn 1839 Daguerre announced the daguerreotype; in 1889 the world's fair beneath the Eiffel Tower became a showcase of photography and urban modernity. In those fifty years photography moved from a craft requiring chemists, carpenters and long sittings to an image that could be consumed in the city. First it let faces stay; then it put the world on paper; finally it prepared the conditions for “just taking a picture”.\n\nThis is not a history of inventions. It asks who entered the studio, who was brought before the lens, who stood behind it, and whether a photograph can still find its way back to its source fifty years later.",
+  "chapters": {
+   "0": {
+    "title": "Letting the face stay",
+    "text": "After 1839 daguerreotype studios appeared in cities across Europe and America. Exposure took tens of seconds; the sitter had to quiet their breath and fix their eyes on a point that did not exist. The first people to enter the studio were not only princes and writers but priests, soldiers, ordinary women, and people brought before the lens by colonial power."
+   },
+   "1": {
+    "title": "Putting the world on paper",
+    "text": "A daguerreotype existed in one copy; a paper negative could be reproduced. Salt prints and albumen prints took photography out of the studio and into archaeology, engineering, war and colonial sites. The camera was not neutral: who stood before it and who stood behind it was often decided by the power relations of the time."
+   },
+   "2": {
+    "title": "Before the snapshot",
+    "text": "In the 1880s dry plates, portable cameras and industrial printing made photography faster and cheaper. City streets, railways, construction sites and colonial ports all entered the frame. In 1888 Kodak introduced a portable camera loaded with film, and photography began to move from the studio to the amateur; the snapshot age had not quite arrived, but the conditions for “just taking a picture” were ready."
+   }
+  }
+ },
+ "gemini-4-1965": {
+  "title": "1965: America's first spacewalk",
+  "subtitle": "3 June: White spends twenty-one minutes outside",
+  "type_en": "Event",
+  "intro": "On 3 June 1965 Gemini 4 lifted off. That afternoon Edward White opened the hatch and spent about 21 minutes outside, becoming the first American to walk in space.\n\nThis story follows crew, launch, the spacewalk and return, including the hatch that was hard to close and the rendezvous that was not fully achieved.",
+  "chapters": {
+   "0": {
+    "title": "Two-man crew",
+    "text": "Gemini 4 was commanded by James McDivitt with Edward White as pilot. The mission was planned for four days, to test long-duration flight, attempt a rendezvous with the spent rocket stage and carry out a spacewalk."
+   },
+   "1": {
+    "title": "Launch",
+    "text": "On the morning of 3 June 1965, Gemini-Titan 4 lifted off from pad 19 at Cape Canaveral. It was the second crewed Gemini flight and the first American mission to put a spacewalk on the schedule."
+   },
+   "2": {
+    "title": "The spacewalk",
+    "text": "That afternoon White opened the hatch and left the cabin. Tethered by about 7.6 metres of line, he moved around the spacecraft with a handheld gas thruster and stayed outside for about 21 minutes. McDivitt photographed him and assisted from inside. Leonov had made the first human spacewalk in March; White was the first American. At the hatch, closing it proved difficult, and the two men pulled it shut together."
+   },
+   "3": {
+    "title": "Return",
+    "text": "Gemini 4 flew for about four days and splashed down in the Pacific on 7 June, where the crew was recovered by the carrier Hornet. The planned rendezvous with the rocket stage was not fully achieved, but the long flight and the spacewalk prepared the later Gemini missions and Apollo."
+   }
+  }
+ },
+ "golden-gate-1937": {
+  "title": "1937: the Golden Gate Bridge opens",
+  "subtitle": "27 May: the ferry era ends",
+  "type_en": "Event",
+  "intro": "On 27 May 1937 the Golden Gate Bridge opened, giving San Francisco and Marin County a direct road link for the first time. Ferries faded, and the bridge became the city's new entrance.\n\nThis story follows strait, construction and opening, covering the scale of the work, the accidents during construction and the arrangements on opening day.",
+  "chapters": {
+   "0": {
+    "title": "The strait",
+    "text": "The Golden Gate separates the San Francisco peninsula from Marin County. Before the bridge, the two shores depended mainly on ferries. Work began in January 1933. Engineer Joseph Strauss led the project; Irving Morrow shaped the Art Deco towers."
+   },
+   "1": {
+    "title": "Construction",
+    "text": "The towers stood on either side of the strait, with a main span of about 1,280 metres. Workers laboured in strong wind and thick fog as the cables were drawn from shore to shore. In February 1937 a section of scaffolding fell into the strait, killing ten workers; eleven died on the project in all. A safety net below the bridge saved nineteen lives."
+   },
+   "2": {
+    "title": "Opening",
+    "text": "On 27 May 1937 the bridge opened. Pedestrians crossed first, motor vehicles the next day. President Roosevelt pressed a key in Washington as the opening signal. The bridge was painted “International Orange” so it would be easier to see in San Francisco's fog."
+   }
+  }
+ },
+ "hands-at-work": {
+  "title": "Hands at work",
+  "subtitle": "Photographs kept the gesture but often not the name",
+  "type_en": "Long read",
+  "intro": "Labour is the part of history most easily left out. Photographs kept the gestures — carrying, weaving, picking, digging, pouring — but often not the names.\n\nThis story selects twelve images, from a porcelain works in 1851 to a steel mill in 1949. It does not try to write biographies of workers; it only wants to put “work” itself back at the centre of the frame.",
+  "chapters": {
+   "0": {
+    "title": "Workshop and field",
+    "text": "By the 1850s photography could enter workshops and fields, but exposure times still required people to stop. The earliest images of labour therefore carry a strange stillness: the hands are working, the body is fixed beside the machine."
+   },
+   "1": {
+    "title": "Children's hands",
+    "text": "Photographs of child labour were not “poor thing” material; they were investigative evidence. Lewis Hine took a camera into factories and photographed children beside machines, making “it doesn't happen” hard to say."
+   },
+   "2": {
+    "title": "Steel and the assembly line",
+    "text": "From the 1910s to the 1940s, labour was organised into ever larger systems: mines, canals, arsenals, steelworks. In the photographs the gestures grow smaller and the machines larger."
+   }
+  }
+ },
+ "hindenburg-1937": {
+  "title": "1937: the last minute of the Hindenburg",
+  "subtitle": "6 May, Lakehurst",
+  "type_en": "Event",
+  "intro": "In the evening of 6 May 1937, the Hindenburg arrived at Lakehurst, New Jersey, to moor. Minutes later fire broke out at the tail and spread rapidly through the airship. Of the 97 people aboard, 35 died; with one ground crew member, the toll was 36.\n\nThis story follows arrival, fire, wreck and aftermath, setting out the time, place and consequences, and keeping the historical argument over the cause open rather than declaring one account final.",
+  "chapters": {
+   "0": {
+    "title": "Arrival",
+    "text": "In the evening of 6 May 1937, the Hindenburg arrived at the naval air station at Lakehurst, New Jersey. It had just completed a passenger crossing of the Atlantic and was preparing to moor. Ground crew and reporters were waiting for it to land."
+   },
+   "1": {
+    "title": "Fire",
+    "text": "At about 7:25 p.m. fire broke out at the tail of the gas cells and engulfed the airship within seconds. There were 97 people aboard; including one ground crew member, 36 died. A radio reporter's live account became one of the earliest disaster broadcasts."
+   },
+   "2": {
+    "title": "Wreck",
+    "text": "When the fire died down, only the metal frame and burned skin remained. Investigations proposed several possible causes, including static electricity, leaking hydrogen and a flammable outer coating; the argument continues."
+   },
+   "3": {
+    "title": "Afterward",
+    "text": "The Hindenburg disaster was recorded on film and radio and became one of the most famous disaster images of the twentieth century. It also brought the era of large passenger airships to a rapid end, and fixed-wing aircraft became the main means of crossing the Atlantic."
+   }
+  }
+ },
+ "hoover-dam-1935": {
+  "title": "1935: Hoover Dam completed",
+  "subtitle": "30 September: the Colorado River is stopped",
+  "type_en": "Event",
+  "intro": "On 30 September 1935 Hoover Dam was dedicated. A 221-metre concrete arch dam blocked the Colorado River, and Lake Mead began to fill.\n\nThis story follows site, pouring, dedication and aftermath, covering the scale of the dam and the parts that cannot be left out: the workers, racial segregation and the ecological cost.",
+  "chapters": {
+   "0": {
+    "title": "The site in the canyon",
+    "text": "In 1931 a consortium of six companies began work in Black Canyon. During the Depression thousands of workers came to Nevada and settled in the new town of Boulder City. The workforce included Native American workers, Black labourers and white skilled workers, separated by race in jobs and housing. Official records list 96 worker deaths during construction."
+   },
+   "1": {
+    "title": "Pouring",
+    "text": "The dam is a concrete arch, about 221 metres high, built from some 3.25 million cubic yards of concrete poured in blocks, with cooling pipes carrying away the heat inside to prevent cracking. In 1933 the first bucket of concrete went into the foundation."
+   },
+   "2": {
+    "title": "Dedication",
+    "text": "On 30 September 1935 President Roosevelt spoke at the dedication. The reservoir, Lake Mead, was then among the largest artificial lakes in the world. The dam was completed in March 1936 and began to provide flood control, irrigation and power."
+   },
+   "3": {
+    "title": "Afterward",
+    "text": "Hoover Dam controlled floods on the lower Colorado and supplied water and electricity to Los Angeles, Las Vegas and surrounding farmland. At the same time, the reservoir drowned canyons and Native American land, and less water reached the sea; the ecological cost continues."
+   }
+  }
+ },
+ "hubble-1990": {
+  "title": "1990: Hubble leaves the bay",
+  "subtitle": "24 April: a mirror placed in orbit",
+  "type_en": "Event",
+  "intro": "On 24 April 1990 Discovery lifted off from Kennedy Space Center, carrying the Hubble Space Telescope into low Earth orbit. The next day Hubble was released and began flying on its own.\n\nThis story follows the mirror, launch, release and aftermath, covering how Hubble left the payload bay, the mirror defect found after launch, and the 1993 servicing mission that repaired it.",
+  "chapters": {
+   "0": {
+    "title": "A mirror",
+    "text": "Hubble's primary mirror is 2.4 metres across. The telescope was proposed in the 1970s, built in the 1980s and originally planned for launch in 1986, delayed by the Challenger accident. Its purpose was to place a telescope above the atmosphere, away from air turbulence, to see farther and more clearly."
+   },
+   "1": {
+    "title": "Launch",
+    "text": "On the morning of 24 April 1990, Discovery lifted off from pad 39B on STS-31. The crew of five was Loren Shriver, Charles Bolden, Bruce McCandless, Kathryn Sullivan and Steven Hawley. Hubble was secured in the payload bay and carried into low Earth orbit."
+   },
+   "2": {
+    "title": "Release",
+    "text": "On 25 April the crew completed pre-release checks in the bay. The robotic arm lifted Hubble out, the solar arrays unfolded, and the telescope was released to fly on its own. Clear of the shuttle's shadow, it was exposed to space in its complete form for the first time."
+   },
+   "3": {
+    "title": "Afterward",
+    "text": "On 29 April Discovery landed at Edwards Air Force Base, ending STS-31. Hubble soon returned its first images, but the primary mirror had spherical aberration — its edge was about 2.2 micrometres too flat. In December 1993 the first servicing mission installed corrective optics, and Hubble began its real work."
+   }
+  }
+ },
+ "iss-1998": {
+  "title": "1998: the first piece of the space station",
+  "subtitle": "20 November: Zarya lifts off",
+  "type_en": "Event",
+  "intro": "On 20 November 1998 Zarya lifted off from Baikonur and assembly of the International Space Station began. Three weeks later Endeavour delivered Unity, and the two modules docked in orbit.\n\nThis story follows the first module, Unity, assembly and aftermath, showing how the station began with just two pieces.",
+  "chapters": {
+   "0": {
+    "title": "The first module",
+    "text": "On 20 November 1998 the Zarya functional cargo block lifted off from Baikonur. It was the first module of the station, built by Russia with American funding, providing early power, propulsion, guidance and communications. Without it, later modules had nothing to dock to and no power."
+   },
+   "1": {
+    "title": "Unity",
+    "text": "On 4 December 1998 Endeavour lifted off on STS-88 carrying the Unity node in its payload bay. The crew was Robert Cabana, Frederick Sturckow, Jerry Ross, James Newman, Nancy Currie and Sergei Krikalev."
+   },
+   "2": {
+    "title": "Assembly in orbit",
+    "text": "On 6 December the crew used the robotic arm to dock Unity with Zarya. Ross and Newman then made three spacewalks to connect power and data lines. For the first time the station had two modules, and “assembly” became a thing."
+   },
+   "3": {
+    "title": "Afterward",
+    "text": "In July 2000 the Zvezda service module joined; in November the first long-duration crew arrived and the station became continuously inhabited. Over the next two decades modules and experiments from many countries docked, and the ISS became the largest human-made structure in low Earth orbit."
+   }
+  }
+ },
+ "panama-canal-1914": {
+  "title": "1914: the Panama Canal opens",
+  "subtitle": "15 August: two oceans joined by a waterway",
+  "type_en": "Event",
+  "intro": "On 15 August 1914 the Panama Canal officially opened. Ships entered the locks from the Atlantic, were lifted to Gatun Lake and lowered into the Pacific, no longer needing to sail around Cape Horn.\n\nThis story follows the two currents, the Gatun Locks, the 1914 opening and aftermath, explaining the engineering and the long disputes over the French failure, the American takeover and Panama's sovereignty.",
+  "chapters": {
+   "0": {
+    "title": "Between two currents",
+    "text": "The Panama Canal connects the Atlantic and Pacific, sparing ships the voyage around Cape Horn at the southern tip of South America. France attempted the cutting in the 1880s and failed through disease, engineering difficulties and money; the United States took over in 1904."
+   },
+   "1": {
+    "title": "The Gatun Locks",
+    "text": "The canal raises ships through a series of locks to Gatun Lake and lowers them back to sea level. The Gatun Locks were the core of the work; the concrete, gates and machinery were gigantic engineering for the time."
+   },
+   "2": {
+    "title": "The 1914 opening",
+    "text": "On 15 August 1914 the canal officially opened. The first ship formally through was SS Ancon. The canal cut thousands of nautical miles from the New York–San Francisco route and changed global shipping lanes."
+   },
+   "3": {
+    "title": "Afterward",
+    "text": "The canal opened in 1914, the year the First World War began. It became a key route for global trade and military transport, and a long-running point of dispute between Panama and the United States."
+   }
+  }
+ },
+ "san-francisco-1906": {
+  "title": "1906: San Francisco shakes and burns",
+  "subtitle": "18 April, early morning: the city changes in seconds",
+  "type_en": "Event",
+  "intro": "In the early morning of 18 April 1906, a powerful earthquake struck San Francisco. Water mains broke, buildings collapsed, and fires burned for days, destroying much of the city centre.\n\nThis story follows morning, fire, ruins and the view from air and ground, separating the earthquake from the fires that followed and placing early aerial photography, rescue work and reconstruction on one timeline. Estimates of the death toll still differ; the text uses “about” and leaves exact figures to the sources.",
+  "chapters": {
+   "0": {
+    "title": "Early morning",
+    "text": "At 5:12 a.m. on 18 April 1906, a powerful earthquake struck San Francisco. Modern estimates put it at about magnitude 7.9. Water mains, streets and buildings were destroyed within seconds, and fires broke out in several places."
+   },
+   "1": {
+    "title": "Fire",
+    "text": "The earthquake wrecked the water system, making it hard for firefighters to control the flames. The fires burned for days and consumed large parts of the city centre. Many buildings were destroyed not by the quake but by the fire that followed."
+   },
+   "2": {
+    "title": "Ruins",
+    "text": "City Hall, the courts and the commercial district were badly damaged. The ruins in these photographs are the most direct testimony of the disaster; at the same time, records of the death toll and losses were revised for years afterward."
+   },
+   "3": {
+    "title": "Air and ground",
+    "text": "The disaster also left early aerial images. Someone photographed the ruins from a tethered airship; on the ground, soldiers and relief workers kept order and distributed supplies among the rubble. The city then began to rebuild."
+   }
+  }
+ },
+ "street-a-day": {
+  "title": "A day on the street corner",
+  "subtitle": "The same street can be a market, a city, a battlefield and a stage",
+  "type_en": "Long read",
+  "intro": "A street is not a backdrop. It is where history first gathered people together: buying and selling happened here, strangers passed here, and celebrations and conflicts left their marks here.\n\nThis story selects eleven images, from Guangzhou and Shanghai in the 1860s to Nanjing Road in the 1930s and the Berlin Wall in 1989. They are not a history of streets, but several versions of the same street at different times.",
+  "chapters": {
+   "0": {
+    "title": "The street as market",
+    "text": "Before it became a “city”, the street was first a place of exchange. Buying, greeting, waiting and watching all happened along the same edge. In Guangzhou and Shanghai in the 1860s, the camera already recorded those gestures."
+   },
+   "1": {
+    "title": "The street as city",
+    "text": "After the 1880s, streets were organised by trams, post, department stores and street lighting. The city was no longer just a collection of houses but a system for strangers to pass one another."
+   },
+   "2": {
+    "title": "The street as scene",
+    "text": "The street is also where history happens. Barricades, celebrations and walls temporarily rewrite the same road into something else. What the photographs leave is not a “background” but how people came together."
+   }
+  }
+ },
+ "sts-1-1981": {
+  "title": "1981: Columbia's first flight",
+  "subtitle": "12 April: the shuttle era begins",
+  "type_en": "Event",
+  "intro": "On 12 April 1981 Columbia lifted off from Kennedy Space Center with John Young and Robert Crippen on STS-1. It flew for about 54 hours and landed at Edwards Air Force Base on 14 April.\n\nThis was the first orbital flight of the shuttle and a test flight. It proved the basic capability of a reusable spacecraft and opened the way for Hubble servicing and the International Space Station.",
+  "chapters": {
+   "0": {
+    "title": "A new spacecraft",
+    "text": "The shuttle was the world's first reusable orbital vehicle. Columbia was the first to fly, its body covered with tens of thousands of thermal tiles. STS-1 was its first orbital test flight."
+   },
+   "1": {
+    "title": "Liftoff",
+    "text": "On 12 April 1981 Columbia lifted off from Kennedy Space Center with John Young and Robert Crippen aboard. It was the shuttle's first flight into orbit and a high-risk test."
+   },
+   "2": {
+    "title": "Flight",
+    "text": "Columbia flew for about 54 hours and circled Earth 37 times. It proved the shuttle's launch, on-orbit and return capabilities, and exposed problems with the thermal tiles and control systems."
+   },
+   "3": {
+    "title": "Landing",
+    "text": "On 14 April Columbia landed on the dry lakebed at Edwards Air Force Base. The shuttle era began; over the next three decades it deployed satellites, serviced Hubble and helped build the International Space Station."
+   }
+  }
+ },
+ "suez-1869": {
+  "title": "1869: the Suez Canal opens",
+  "subtitle": "17 November: the Mediterranean meets the Red Sea",
+  "type_en": "Event",
+  "intro": "On 17 November 1869 the Suez Canal officially opened. The Mediterranean and the Red Sea were joined by a 164-kilometre artificial waterway, and the route from Europe to Asia no longer had to go around the Cape of Good Hope.\n\nThis story follows the waterway, excavation, opening and aftermath, covering the engineering and the later chapters: labourers' deaths, the sale of shares and the 1956 nationalisation.",
+  "chapters": {
+   "0": {
+    "title": "A waterway",
+    "text": "The Isthmus of Suez joins the Mediterranean and the Red Sea. In 1859 the Suez Canal Company, led by Ferdinand de Lesseps, began work on a sea-level canal without locks. The canal runs about 164 kilometres through desert, salt lakes and low ground."
+   },
+   "1": {
+    "title": "Excavation",
+    "text": "Early earthwork was largely manual; steam excavators and railways were introduced later. Workers laboured in extreme heat, with little water, disease and forced labour, and many died; exact figures remain disputed. Construction photographs along the route record the process."
+   },
+   "2": {
+    "title": "Opening",
+    "text": "On 17 November 1869 the canal was inaugurated at Port Said. Empress Eugénie of France attended. Ships no longer had to sail around the southern tip of Africa, and the route from Europe to Asia was greatly shortened."
+   },
+   "3": {
+    "title": "Afterward",
+    "text": "After the canal opened, Britain bought Egypt's shares in 1875, and the 1888 Convention of Constantinople declared the canal open to ships of all nations. In 1956 Egypt nationalised the canal, triggering the Suez Crisis. It remains one of the world's busiest shipping routes."
+   }
+  }
+ },
+ "titanic-1912": {
+  "title": "Titanic: leaving Southampton",
+  "subtitle": "10 April 1912: an “unsinkable” ship begins her first voyage",
+  "type_en": "Event",
+  "intro": "On 10 April 1912 Titanic sailed from Southampton. She was the largest passenger liner in the world, carrying wealthy passengers alongside a large crew and many emigrants. Four days later she struck an iceberg in the North Atlantic and sank in the early hours of 15 April.\n\nCarpathia rescued about seven hundred survivors. After the disaster, lifeboats, radio watches and maritime safety rules were all re-examined. This story follows departure, iceberg, rescue and aftermath, tracing the ship's brief first voyage.",
+  "chapters": {
+   "0": {
+    "title": "Departure",
+    "text": "On 10 April 1912 Titanic sailed from Southampton, called at Cherbourg in France and Queenstown in Ireland, then crossed the Atlantic. She was the largest passenger liner in the world and the pride of the White Star Line."
+   },
+   "1": {
+    "title": "The iceberg",
+    "text": "Late on 14 April Titanic struck an iceberg in the North Atlantic. Her hull was opened in several places on the starboard side, and she sank in the early hours of 15 April. Arguments later arose over her design, lookouts, lifeboats and radio; what is certain is that there were not enough lifeboats for everyone aboard."
+   },
+   "2": {
+    "title": "Rescue",
+    "text": "Carpathia received the distress call and came from some distance, rescuing about seven hundred survivors. They were taken to New York; hospitals, lifeboats and life jackets became the physical evidence of the disaster."
+   },
+   "3": {
+    "title": "Afterward",
+    "text": "After the disaster, maritime safety rules, lifeboat standards and radio watch requirements changed. Titanic never completed her first voyage, but her name remained in the memory of twentieth-century shipwrecks."
+   }
+  }
+ },
+ "unnamed-faces": {
+  "title": "The people without names",
+  "subtitle": "Twelve portraits, and twelve names never written down",
+  "type_en": "Long read",
+  "intro": "History is used to keeping names for important people. Yet most people in photographs left no name: only a pose, clothes, a hairstyle, a child in their arms, a dog beside them.\n\nThis story does not invent names for them, nor treat “unidentified” as a failure. It simply places twelve portraits side by side, to see how people can still be seen where there is no name.",
+  "chapters": {
+   "0": {
+    "title": "Names not written down",
+    "text": "In the earliest daguerreotype portraits, names were often written on the bill, not on the back of the plate. What the archive can confirm is occupation, pose and clothing, often not a name. So we see how a person sat and held their breath, without knowing what they were called."
+   },
+   "1": {
+    "title": "The lens names them",
+    "text": "When photographs entered the market, the colonies and anthropology, titles began to “name” the sitter: tribe, ethnicity, region, occupation. These words were not names, yet they decided how later people would find them."
+   },
+   "2": {
+    "title": "Unidentified",
+    "text": "“Unidentified” is not a blank; it is a historical position. The people in these photographs are neatly dressed and looking at the camera, clearly aware they are being photographed. What we can do is write down “we do not know” honestly, rather than fill it with imagination."
+   }
+  }
+ },
+ "wright-1903": {
+  "title": "Twelve seconds: the Wright brothers' first powered flight",
+  "subtitle": "17 December 1903, Kitty Hawk",
+  "type_en": "Event",
+  "intro": "On 17 December 1903 Orville Wright flew the Flyer off the ground at Kitty Hawk for about 12 seconds and 120 feet. They made four flights that day; the last lasted about 59 seconds.\n\nThis was not a spectacular show for the world but the result of a decade of gliding, wind-tunnel experiments and control tests. This story links bicycle makers, twelve seconds, four flights and aftermath, to show what the first powered flight really changed.",
+  "chapters": {
+   "0": {
+    "title": "Bicycle makers",
+    "text": "Orville and Wilbur Wright ran a bicycle shop in Dayton, Ohio. They were not the first to build aircraft, but they broke flight into three testable problems: lift, control and power. They tested gliders repeatedly, built their own wind tunnel and designed their own propellers."
+   },
+   "1": {
+    "title": "Twelve seconds",
+    "text": "On the morning of 17 December 1903 Orville made the first powered flight in the Flyer. The aircraft stayed airborne for about 12 seconds and travelled about 120 feet. They flew four times that day; the last, piloted by Wilbur, lasted about 59 seconds."
+   },
+   "2": {
+    "title": "Four flights",
+    "text": "None of the flights went far, but they proved that powered flight could be controlled. The aircraft did not change the world at once; the real change came over the next decade, as flight became performance, a military tool and an industry."
+   }
+  }
+ }
+}
