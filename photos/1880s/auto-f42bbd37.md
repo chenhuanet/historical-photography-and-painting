@@ -61,10 +61,10 @@ audit:
   checks_applicable: 4
 image: https://19century.chenhua.net/photos/1880s/auto-f42bbd37-2bf8cdd6.png
 source_image: https://upload.wikimedia.org/wikipedia/commons/a/a8/The_Deadly_Stampede_on_the_Brooklyn_Bridge.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-image_sha256: b13e6ea72324eb36484f0dfdf3140b56533286d1622670a8d971fcd967d25c3e
+image_sha256: 01757e7b4b027a2623e57cf5141a31c18f5d239236c1a547d3cd602bfffefdcf
 image_width: 608
 image_height: 707
-image_bytes: 529208
+image_bytes: 523726
 image_century: 19century
 image_repo: 19century
 image_original_sha256: 2bf8cdd6ae136a7b7fc6786893554bea076f1111524dabd8f244053fa60d6282
