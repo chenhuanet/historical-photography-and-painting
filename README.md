@@ -26,7 +26,7 @@
 - [paintings/](paintings/)：绘画与版画
 - [objects/](objects/)：器物与文书
 - [links/](links/)：仅外链卡
-- [stories/](stories/)：主题（已刊 20 篇，含 13 个历史上的今天事件）
+- [stories/](stories/)：主题（已刊 22 篇，含 15 个历史上的今天事件）
 - [schema/](schema/)：字段规则
 
 ## 整理说明
