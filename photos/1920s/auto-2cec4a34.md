@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Daniel Breen (1894-1969) and Brigid Ma
+title: "Daniel Breen (1894-1969) and Brigid Mary Malone (1900-1984) wedding on 12 June 1921 in County Tipperary, Ireland"
+title_original: "Daniel Breen (1894-1969) and Brigid Ma"
+title_note: 按源站题名补全
 year: 1921
 date_label: '1921'
 era: 20世纪

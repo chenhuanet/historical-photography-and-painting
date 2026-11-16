@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Curiosity Self-Portrait at 'Big Sky' D
+title: "Curiosity Self-Portrait at 'Big Sky' Drilling Site"
+title_original: "Curiosity Self-Portrait at 'Big Sky' D"
+title_note: 按源站题名补全
 year: 2015
 date_label: '2015'
 era: 21世纪

@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: The Space Shuttle Columbia on Rogers D
+title: "The Space Shuttle Columbia on Rogers Dry lakebed at Edwards AFB after landing to complete its first orbital mission on April 14, 1981 (ECN-14697)"
+title_original: "The Space Shuttle Columbia on Rogers D"
+title_note: 按源站题名补全
 year: 1981
 date_label: '1981'
 era: 20世纪

@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Exterior view of the first custom hous
+title: "Exterior view of the first custom house in California, an adobe structure in Monterey, ca.1890 (CHS-322)"
+title_original: "Exterior view of the first custom hous"
+title_note: 按源站题名补全
 year: 1890
 date_label: '1890'
 era: 19世纪

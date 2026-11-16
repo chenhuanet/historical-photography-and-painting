@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Christian woman in a wedding dress, Pa
+title: "Christian woman in a wedding dress, Palestine, 1936"
+title_original: "Christian woman in a wedding dress, Pa"
+title_note: 按源站题名补全
 year: 1936
 date_label: '1936'
 era: 20世纪

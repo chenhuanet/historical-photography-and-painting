@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Gezicht op de Taj Mahal in Agra Agra-T
+title: "Gezicht op de Taj Mahal in Agra Agra-Taj-Mahal front view"
+title_original: "Gezicht op de Taj Mahal in Agra Agra-T"
+title_note: 按源站题名补全
 year: 1850
 date_label: '1850'
 era: 19世纪

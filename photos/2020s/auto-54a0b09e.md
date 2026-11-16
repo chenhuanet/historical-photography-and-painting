@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: James Webb Space Telescope Alignment I
+title: "James Webb Space Telescope Alignment Image (NHQ202202070003)"
+title_original: "James Webb Space Telescope Alignment I"
+title_note: 按源站题名补全
 year: 2022
 date_label: '2022'
 era: 21世纪

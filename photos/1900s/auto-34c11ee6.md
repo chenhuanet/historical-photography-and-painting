@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: View of interior of grocery store, fro
+title: "View of interior of grocery store, from outside, Guayaquil, Ecuador"
+title_original: "View of interior of grocery store, fro"
+title_note: 按源站题名补全
 year: 1907
 date_label: '1907'
 era: 20世纪

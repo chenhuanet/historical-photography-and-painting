@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Telegraph Station, Pointe-a-Pitre, Gua
+title: "Telegraph Station, Pointe-a-Pitre, Guadeloupe 3307226191"
+title_original: "Telegraph Station, Pointe-a-Pitre, Gua"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

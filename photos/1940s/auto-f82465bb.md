@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Avro Tudor - Airflight at Wunstorf - T
+title: "Avro Tudor - Airflight at Wunstorf - The Berlin Airlift 1948 - 1949 HU98411"
+title_original: "Avro Tudor - Airflight at Wunstorf - T"
+title_note: 按源站题名补全
 year: 1948
 date_label: '1948'
 era: 20世纪

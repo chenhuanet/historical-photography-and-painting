@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: In farthest Burma - the record of an a
+title: "In farthest Burma - the record of an arduous journey of exploration and research through the unknown frontier territory of Burma and Tibet (1921)"
+title_original: "In farthest Burma - the record of an a"
+title_note: 按源站题名补全
 year: 1921
 date_label: '1921'
 era: 20世纪

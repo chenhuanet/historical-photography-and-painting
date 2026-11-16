@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Great Exhibition, Agricutlural Impleme
+title: "Great Exhibition, Agricutlural Implements, HF Talbot, 1851"
+title_original: "Great Exhibition, Agricutlural Impleme"
+title_note: 按源站题名补全
 year: 1851
 date_label: '1851'
 era: 19世纪

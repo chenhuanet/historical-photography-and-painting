@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Camille du Gast (Rol, 1930-04-30) crop
+title: "Camille du Gast (Rol, 1930-04-30) cropped"
+title_original: "Camille du Gast (Rol, 1930-04-30) crop"
+title_note: 按源站题名补全
 year: 1930
 date_label: '1930'
 era: 20世纪

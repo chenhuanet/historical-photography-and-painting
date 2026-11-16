@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Life of a Marshall plan Secretary in P
+title: "Life of a Marshall plan Secretary in Paris - DPLA - 6a90c6144687164ee7d970e82411d00c"
+title_original: "Life of a Marshall plan Secretary in P"
+title_note: 按源站题名补全
 year: 1948
 date_label: '1948'
 era: 20世纪

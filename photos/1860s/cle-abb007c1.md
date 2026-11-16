@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Delhi. Tomb of the Emperor Shums ooo deen Allomsh, Builder of the Koot
+title: "Delhi. Tomb of the Emperor Shums ooo deen Allomsh, Builder of the Kootub Minar in the Ruins of Old Delhi"
+title_original: "Delhi. Tomb of the Emperor Shums ooo deen Allomsh, Builder of the Koot"
+title_note: 按源站题名补全
 year: 1863
 date_label: 1863–70
 era: 19世纪

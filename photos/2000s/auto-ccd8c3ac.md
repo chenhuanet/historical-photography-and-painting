@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Red Aurora as Seen from the Space Stat
+title: "Red Aurora as Seen from the Space Station"
+title_original: "Red Aurora as Seen from the Space Stat"
+title_note: 按源站题名补全
 year: 2001
 date_label: '2001'
 era: 21世纪

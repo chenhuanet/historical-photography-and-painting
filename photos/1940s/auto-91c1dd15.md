@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: U. S. Farmers in Europe) - (American F
+title: "U. S. Farmers in Europe) - (American Farmers Visit Marshall Plan Countries - DPLA - f0fa78457e1dd580df0a08be0addd5cd"
+title_original: "U. S. Farmers in Europe) - (American F"
+title_note: 按源站题名补全
 year: 1948
 date_label: '1948'
 era: 20世纪

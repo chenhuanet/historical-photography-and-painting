@@ -4,7 +4,9 @@ collection: objects
 content_type: object
 type_evidence: '原分类 medium: 纸品实物'
 review_status: clean
-title: Stereoscope, Richard Verascope, ca. 19
+title: "Stereoscope, Richard Verascope, ca. 1900 (CH 18392047)"
+title_original: "Stereoscope, Richard Verascope, ca. 19"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

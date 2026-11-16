@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Spinner in Vivian Cotton Mills. Been a
+title: "Spinner in Vivian Cotton Mills. Been at it 2 years. Where will her good looks be in 10 years^ Cherryville, N.C. - NARA - 523111"
+title_original: "Spinner in Vivian Cotton Mills. Been a"
+title_note: 按源站题名补全
 year: 1908
 date_label: '1908'
 era: 20世纪

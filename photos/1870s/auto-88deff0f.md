@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Werkende olifanten in een timmerwerkpl
+title: "Werkende olifanten in een timmerwerkplaats, Rangoon, unie van Myanmar (vroeger Birma)"
+title_original: "Werkende olifanten in een timmerwerkpl"
+title_note: 按源站题名补全
 year: 1870
 date_label: '1870'
 era: 19世纪

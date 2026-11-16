@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Premiers essais avec l'auto laboratoir
+title: "Premiers essais avec l'auto laboratoire de l'hélicoptère parachute de Mr Damblanc - btv1b90378803"
+title_original: "Premiers essais avec l'auto laboratoir"
+title_note: 按源站题名补全
 year: 1920
 date_label: '1920'
 era: 20世纪

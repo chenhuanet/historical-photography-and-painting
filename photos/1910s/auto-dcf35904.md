@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Airplanes - Historical - Wright Brothe
+title: "Airplanes - Historical - Wright Brothers' 1903 Aeroplane (\"Kitty Hawk\") in first flight, December 17, 1903 at Kitty Hawk, N.C. Orville Wright at controls. Wilbur Wright standing at right. (First flight was 12 sec(...) - NARA - 17338962"
+title_original: "Airplanes - Historical - Wright Brothe"
+title_note: 按源站题名补全
 year: 1917
 date_label: '1917'
 era: 20世纪

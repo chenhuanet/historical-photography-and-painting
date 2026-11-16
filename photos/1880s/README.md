@@ -8,10 +8,10 @@
 | 1880 | [Edmond Hébert Reutlinger BNF Gallica](auto-ee0d5151.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
 | 1880 | [Femmes musulmanes Syriennes à Beyrouth, Costume de Ville (Man on a Donkey)](cle-6f6b304c.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1880 | [Ginza in 1880s](auto-14b0f8a3.md) | photograph | 街巷 | 东亚 | 维基共享资源 |
-| 1880 | [Grafkamers rond de Grote Pagode, Rango](auto-3b3b6b3c.md) | photograph | 街巷 | 东南亚 | 维基共享资源 |
+| 1880 | [Grafkamers rond de Grote Pagode, Rangoon, Myanmar](auto-3b3b6b3c.md) | photograph | 街巷 | 东南亚 | 维基共享资源 |
 | 1880 | [Hell's Half Acre, Prismatic Springs](cle-2da3ab71.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1880 | [Miami and Erie Canal Lock photographs - DPLA - 02d6f9c193ca64978e408b5e50a34a5d (page 2)](auto-cbf75041.md) | photograph | 劳作 | 北美 | 维基共享资源 |
-| 1880 | [Photograph of the San Francisco Mint S](auto-24509e70.md) | photograph | 劳作 | 北美 | 维基共享资源 |
+| 1880 | [Photograph of the San Francisco Mint Superintendent in his office. - NARA - 296544](auto-24509e70.md) | photograph | 劳作 | 北美 | 维基共享资源 |
 | 1880 | [Portrait of Ernestine Nadar, the artist's wife, wearing fur stole](cle-2a244329.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1880 | [Portrait of a Man and His Dog](cle-6560a3f1.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1880 | [Portret van een jongeman in uniform, R](auto-3a9da375.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
@@ -52,16 +52,16 @@
 | 1882 | [Dr. Morris and party, Jhansi (recto); Mr. MacNull, Jhansi (verso)](cle-7246ce82.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1882 | [Elephant Battery on March at Jhansi](cle-2f8a21aa.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1882 | [Grave of Dr. Falwasser, Neemuch (recto, left)](cle-e5adc921.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
-| 1882 | [Green Cape Lighthouse, repairs to ligh](auto-75192f2f.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
+| 1882 | [Green Cape Lighthouse, repairs to light keepers quarters, 1900](auto-75192f2f.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
 | 1882 | [High Class Students and Teachers at Bishop Cotton School, Shimla (verso)](cle-fbd9e0a8.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1882 | [Indian Lady 250 BC (verso, right)](cle-e3b074f4.md) | photograph | 面孔 | 南亚 | 克利夫兰艺术博物馆 |
 | 1882 | [Interior of Church, Neemuch (recto, right)](cle-4bfaa838.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
-| 1882 | [Interior of Church, Neemuch (recto, right); Grave of Dr. Falwasser, Ne](cle-dcf9dc74.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
+| 1882 | [Interior of Church, Neemuch (recto, right); Grave of Dr. Falwasser, Neemuch (recto, left); Indian Lady 250 BC (verso, right)](cle-dcf9dc74.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1882 | [Judging at the Horseshow at Jhansi](cle-418cac02.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1882 | [Lord William Beresford's horses](cle-135636fd.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1882 | [Maharaja of Scindia, nobles, and high officials, Gwalior](cle-054846d2.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1882 | [Major Creagh's home, Mhon (verso)](cle-d3ba3ce5.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1882 | [Managing staff of Meprs. Glover & Co. at Sindh Bridge (recto, top); Un](cle-17cdb015.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
+| 1882 | [Managing staff of Meprs. Glover & Co. at Sindh Bridge (recto, top); Untitled: Woman on horse (verso, right)](cle-17cdb015.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1882 | [Men of Elephant Battery, Jhansi (verso)](cle-b4e82722.md) | photograph | 面孔 | 南亚 | 克利夫兰艺术博物馆 |
 | 1882 | [Middle Class Students and Staff, Bishop Cotton School, Shimla (verso)](cle-79c5a0d4.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1882 | [Mowhri Rahman Alli Khan family, Rewa (recto, bottom)](cle-4e0e6959.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
@@ -71,11 +71,11 @@
 | 1882 | [Mr. William's House, Jhansi (verso)](cle-e8ebaf33.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1882 | [Officers of Elephant Battery, Jhansi (recto)](cle-9acb554d.md) | photograph | 劳作 | 南亚 | 克利夫兰艺术博物馆 |
 | 1882 | [Officers of Elephant Battery, Jhansi (recto); Men of Elephant Battery, Jhansi (verso)](cle-fa875560.md) | photograph | 面孔 | 南亚 | 克利夫兰艺术博物馆 |
-| 1882 | [Primary Class Bishop Cotton School, Shimla (recto); High Class Student](cle-05ef7aa3.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
+| 1882 | [Primary Class Bishop Cotton School, Shimla (recto); High Class Students and Teachers at Bishop Cotton School, Shimla (verso)](cle-05ef7aa3.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1882 | [Primary Class, Bishop Cotton School, Shimla (recto)](cle-5e703484.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1882 | [Principal and Teachers of Bishop Cotton School, Shimla (recto); Middle](cle-35693fc1.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1882 | [Ramkishore Singh, Rewa (recto, top)](cle-8b12ffa3.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1882 | [Ramkishore Singh, Rewa (recto, top); Mowhri Rahman Alli Khan family, R](cle-6c314e4b.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
+| 1882 | [Ramkishore Singh, Rewa (recto, top); Mowhri Rahman Alli Khan family, Rewa (recto, bottom)](cle-6c314e4b.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1882 | [Reverend Holcomb's Bungalow (verso, top)](cle-859995dd.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1882 | [Servants of His Honor the Gov. of Punjab](cle-918e38c8.md) | photograph | 劳作 | 南亚 | 克利夫兰艺术博物馆 |
 | 1882 | [Staff of Messrs. Glover & Co., Sindh Bridge (verso)](cle-b5089777.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
@@ -102,11 +102,11 @@
 | 1887 | [Miss Lyall, Shimla](cle-4a89ed43.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1887 | [Mrs. and Miss Lyall, Shimla](cle-74a7224f.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1887 | [Portrait of a Gentleman](cle-51c58299.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1887 | [Shimla 17th May 1887: Viceregal party. Lord William Beresford, Militar](cle-5f7dcee1.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
+| 1887 | [Shimla 17th May 1887: Viceregal party. Lord William Beresford, Military Secretary, Captain Leonard Gordon A.D.C., Mademoiselle Clerc, The Honorable Basit Blackwood, Major F.R. Hamilton A.D.C., Mr. Oglivie Grant, Sir Donald Mackenzie Wallace K.C.E., Private Secretary, Dr. J. Findlay, Mrs. F.R. Hamilton, Master G. Hamilton, Lady Victoria Blackwood, H.E. The Countess of Dufferin, H.E. The Earl of Dufferin, Lady Hermione Blackwood, Lord Herbrand Russell, A.D.C. (recto); Viceregal Party Shimla (verso)](cle-5f7dcee1.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1887 | [Viceregal Party Shimla (verso)](cle-6134d956.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1888 | [Frances Benjamin Johnston on a balcony](auto-a97cba5d.md) | photograph | 战火 | 跨地域 | 维基共享资源 |
-| 1888 | [Interior of the café in the opera hous](auto-c4c32260.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
+| 1888 | [Interior of the café in the opera house, T'bilisi, Georgia (Republic)](auto-c4c32260.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
 | 1888 | [铁塔长到一半的时候](1888-eiffel-construction.md) | photograph | 劳作 | 欧洲 | 维基共享资源 |
-| 1889 | [Eiffel Tower and Exposition Universell](auto-283d03c3.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
+| 1889 | [Eiffel Tower and Exposition Universelle at night, Paris, 1889](auto-283d03c3.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
 | 1889 | [Eiffel tower at Exposition Universelle](auto-fd19f903.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
 | 1889 | [Italy](cle-229c7f87.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |

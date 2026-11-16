@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: StateLibQld 2 201815 Three children pl
+title: "StateLibQld 2 201815 Three children playing with their toys in the backyard, 1890-1900"
+title_original: "StateLibQld 2 201815 Three children pl"
+title_note: 按源站题名补全
 year: 1890
 date_label: '1890'
 era: 19世纪

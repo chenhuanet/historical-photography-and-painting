@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Primary Class Bishop Cotton School, Shimla (recto); High Class Student
+title: "Primary Class Bishop Cotton School, Shimla (recto); High Class Students and Teachers at Bishop Cotton School, Shimla (verso)"
+title_original: "Primary Class Bishop Cotton School, Shimla (recto); High Class Student"
+title_note: 按源站题名补全
 year: 1882
 date_label: c. 1882–87
 era: 19世纪

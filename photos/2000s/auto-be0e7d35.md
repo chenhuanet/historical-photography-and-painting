@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: ISS001-E-5011 - First Image of Earth f
+title: "ISS001-E-5011 - First Image of Earth from the International Space Station"
+title_original: "ISS001-E-5011 - First Image of Earth f"
+title_note: 按源站题名补全
 year: 2000
 date_label: '2000'
 era: 21世纪

@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: An incident in March soon after comple
+title: "An incident in March soon after completion of the hut, Adelie Land Australasian Antarctic Expedition, 1911-1914"
+title_original: "An incident in March soon after comple"
+title_note: 按源站题名补全
 year: 1911
 date_label: '1911'
 era: 20世纪

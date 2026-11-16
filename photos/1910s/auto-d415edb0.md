@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Armistice Day in London, 11 November 1
+title: "Armistice Day in London, 11 November 1918 Q47852"
+title_original: "Armistice Day in London, 11 November 1"
+title_note: 按源站题名补全
 year: 1918
 date_label: '1918'
 era: 20世纪

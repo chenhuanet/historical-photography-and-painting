@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Charles Proteus Steinmetz by an uniden
+title: "Charles Proteus Steinmetz by an unidentified artist, c. 1920, gelatin silver print, from the National Portrait Gallery - NPG-NPG 95 88Steinmetz-000001"
+title_original: "Charles Proteus Steinmetz by an uniden"
+title_note: 按源站题名补全
 year: 1920
 date_label: '1920'
 era: 20世纪

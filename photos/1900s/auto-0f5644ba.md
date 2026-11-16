@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Photograph, Sarah Bernhardt as the Duk
+title: "Photograph, Sarah Bernhardt as the Duke of Reichstadt (later King of Rome), ca. 1900 (CH 18397285) (cropped)"
+title_original: "Photograph, Sarah Bernhardt as the Duk"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

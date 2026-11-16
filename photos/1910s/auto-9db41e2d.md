@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Captain Robert F. Scott's party "at th
+title: "Captain Robert F. Scott's party \"at the south pole\", 1911 (exbt-iceberg-46)"
+title_original: "Captain Robert F. Scott's party \"at th"
+title_note: 按源站题名补全
 year: 1911
 date_label: '1911'
 era: 20世纪

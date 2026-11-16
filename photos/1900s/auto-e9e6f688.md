@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Boy at warping machine in Newton Cotto
+title: "Boy at warping machine in Newton Cotton Mill. Been there 2 years. Newton, N.C. - NARA - 523143"
+title_original: "Boy at warping machine in Newton Cotto"
+title_note: 按源站题名补全
 year: 1908
 date_label: '1908'
 era: 20世纪

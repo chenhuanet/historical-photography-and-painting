@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Interior of Church, Neemuch (recto, right); Grave of Dr. Falwasser, Ne
+title: "Interior of Church, Neemuch (recto, right); Grave of Dr. Falwasser, Neemuch (recto, left); Indian Lady 250 BC (verso, right)"
+title_original: "Interior of Church, Neemuch (recto, right); Grave of Dr. Falwasser, Ne"
+title_note: 按源站题名补全
 year: 1882
 date_label: c. 1882–87
 era: 19世纪

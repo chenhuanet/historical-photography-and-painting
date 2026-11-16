@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Nastop cicibanov v vrtcu v Ribiški uli
+title: "Nastop cicibanov v vrtcu v Ribiški ulici - zaključna prireditev 1960"
+title_original: "Nastop cicibanov v vrtcu v Ribiški uli"
+title_note: 按源站题名补全
 year: 1960
 date_label: '1960'
 era: 20世纪

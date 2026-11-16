@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Admiralty Chart No 2082 Africa south c
+title: "Admiralty Chart No 2082 Africa south coast Table Bay to Cape Agulhas, Published 1867"
+title_original: "Admiralty Chart No 2082 Africa south c"
+title_note: 按源站题名补全
 year: 1867
 date_label: '1867'
 era: 19世纪

@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Exterior view of the A. C. Freeman res
+title: "Exterior view of the A. C. Freeman residence, Los Angeles, ca.1890-1920 (CHS-5658)"
+title_original: "Exterior view of the A. C. Freeman res"
+title_note: 按源站题名补全
 year: 1890
 date_label: '1890'
 era: 19世纪

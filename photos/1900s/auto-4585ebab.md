@@ -4,7 +4,9 @@ collection: photos
 content_type: print
 type_evidence: 来源/描述：Photochrom 彩色印刷
 review_status: clean
-title: South Branch of the Chicago River at 1
+title: "South Branch of the Chicago River at 14th Street 1900 photochrom"
+title_original: "South Branch of the Chicago River at 1"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

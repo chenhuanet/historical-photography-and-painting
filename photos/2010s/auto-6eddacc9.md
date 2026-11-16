@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: ISS-44 Night Earth Observation of an A
+title: "ISS-44 Night Earth Observation of an Aurora Australis"
+title_original: "ISS-44 Night Earth Observation of an A"
+title_note: 按源站题名补全
 year: 2015
 date_label: '2015'
 era: 21世纪

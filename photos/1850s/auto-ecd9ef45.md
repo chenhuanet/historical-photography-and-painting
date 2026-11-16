@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Basis van Shwedagon stoepa in Yangon R
+title: "Basis van Shwedagon stoepa in Yangon Rangoon-Shway-Dagon Pagoda-Part of Base"
+title_original: "Basis van Shwedagon stoepa in Yangon R"
+title_note: 按源站题名补全
 year: 1850
 date_label: '1850'
 era: 19世纪

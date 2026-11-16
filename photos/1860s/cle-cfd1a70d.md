@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: 'La Belle Jardinère: le magasin de la rue de la Cité pendant sa demolit'
+title: "La Belle Jardinère: le magasin de la rue de la Cité pendant sa demolition, Paris"
+title_original: "La Belle Jardinère: le magasin de la rue de la Cité pendant sa demolit"
+title_note: 按源站题名补全
 year: 1864
 date_label: 1864–66
 era: 19世纪

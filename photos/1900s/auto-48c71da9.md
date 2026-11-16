@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Group portrait of Ballard schoolchildr
+title: "Group portrait of Ballard schoolchildren, ca. 1900 - DPLA - 2f9d027c0ac3e61b732018616f777e3a"
+title_original: "Group portrait of Ballard schoolchildr"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Prince William - Crown Prince, King Sw
+title: "Prince William - Crown Prince, King Sweden at Olympic games"
+title_original: "Prince William - Crown Prince, King Sw"
+title_note: 按源站题名补全
 year: 1912
 date_label: '1912'
 era: 20世纪

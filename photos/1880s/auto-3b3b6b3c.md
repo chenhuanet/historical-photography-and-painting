@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Grafkamers rond de Grote Pagode, Rango
+title: "Grafkamers rond de Grote Pagode, Rangoon, Myanmar"
+title_original: "Grafkamers rond de Grote Pagode, Rango"
+title_note: 按源站题名补全
 year: 1880
 date_label: '1880'
 era: 19世纪

@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Soldiers in San Francisco 1906 ruins D
+title: "Soldiers in San Francisco 1906 ruins DA-SN-03-00962"
+title_original: "Soldiers in San Francisco 1906 ruins D"
+title_note: 按源站题名补全
 year: 1906
 date_label: '1906'
 era: 20世纪

@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Liberation de paris - 26 aout 1944 - p
+title: "Liberation de paris - 26 aout 1944 - portrait du general jacques-philippe leclerc de hautecl 427563"
+title_original: "Liberation de paris - 26 aout 1944 - p"
+title_note: 按源站题名补全
 year: 1944
 date_label: '1944'
 era: 20世纪

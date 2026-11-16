@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Photograph with caption "Lock 3, Found
+title: "Photograph with caption \"Lock 3, Foundation. June (18)95.\" - NARA - 282353"
+title_original: "Photograph with caption \"Lock 3, Found"
+title_note: 按源站题名补全
 year: 1895
 date_label: '1895'
 era: 19世纪

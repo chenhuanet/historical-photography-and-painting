@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Midnight sun, over the Ross Sea, Antar
+title: "Midnight sun, over the Ross Sea, Antarctic, December 1910"
+title_original: "Midnight sun, over the Ross Sea, Antar"
+title_note: 按源站题名补全
 year: 1910
 date_label: '1910'
 era: 20世纪

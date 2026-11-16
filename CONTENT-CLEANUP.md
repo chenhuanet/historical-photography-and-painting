@@ -6,8 +6,8 @@
 
 | 项 | 数量 |
 | --- | --- |
-| 总记录 | 1763 |
-| photos | 1721 |
+| 总记录 | 1749 |
+| photos | 1707 |
 | paintings | 23 |
 | objects | 16 |
 | links | 3 |
@@ -17,7 +17,7 @@
 
 | 类型 | photos | paintings | objects | links |
 | --- | --- | --- | --- | --- |
-| photograph | 1664 | 0 | 0 | 0 |
+| photograph | 1650 | 0 | 0 | 0 |
 | postcard | 34 | 0 | 2 | 0 |
 | print | 22 | 4 | 0 | 0 |
 | drawing | 0 | 1 | 0 | 0 |
@@ -47,6 +47,15 @@
 - 补扫移入 4 件：3 件油画（Žabota、Arnesen ×2）进 paintings；1 件书页绘画复制品进 objects。
 - 当前：photos 1721、paintings 23、objects 16、links 3；0 待核、0 截断、0 缺快照。
 - 主题复盘的完整说明见 [`TOPIC-AUDIT.md`](TOPIC-AUDIT.md)。
+
+## 第五轮：重复清理与题名补全（2026-11-16）
+
+- 精确重复：0 组；同对象页重复：0 组；同图近似重复：16 组。
+- 删除 14 条同图记录（保留质量更高、释文更全或权利更清晰的一条），照片 1721 → 1707，总记录 1763 → 1749。
+- 删除对应 14 张展示图；`preview-images.json` 同步更新；图片清单重建。
+- 559 条在 38/70 字符处被机械截断的题名按源站题名补全，并保留 `title_original`。
+- 4 组近似但不同的影像保留：1871 巴黎街垒两张、巴达维亚 Hotel des Indes 两张、First flight 2/3、1906 旧金山火灾两张。
+- 质检：0 缺来源、0 缺许可、0 缺署名、0 张 U5 带图；`archive/originals` 只保留 1746 张在用原图。
 
 ## 移出照片的条目
 

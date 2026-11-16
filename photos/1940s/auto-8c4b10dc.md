@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Holland House library after an air rai
+title: "Holland House library after an air raid"
+title_original: "Holland House library after an air rai"
+title_note: 按源站题名补全
 year: 1940
 date_label: '1940'
 era: 20世纪

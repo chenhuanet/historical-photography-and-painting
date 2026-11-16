@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Charlie Lott a thirteen year old doffe
+title: "Charlie Lott a thirteen year old doffer in cotton mill at West. His Family Record says born March 12, 1900. Has been working for a year in the mill at Laurel, Miss. Came here recently and LOC cph.3b21320"
+title_original: "Charlie Lott a thirteen year old doffe"
+title_note: 按源站题名补全
 year: 1913
 date_label: '1913'
 era: 20世纪

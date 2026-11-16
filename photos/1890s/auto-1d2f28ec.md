@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Blinde vrouwelijke straatmuzikant A Bl
+title: "Blinde vrouwelijke straatmuzikant A Blind Street Musician"
+title_original: "Blinde vrouwelijke straatmuzikant A Bl"
+title_note: 按源站题名补全
 year: 1895
 date_label: '1895'
 era: 19世纪

@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: StateLibQld 1 203576 Shop girls applau
+title: "StateLibQld 1 203576 Shop girls applauding RAAF recruits marching along Queen Street, Brisbane, 1940"
+title_original: "StateLibQld 1 203576 Shop girls applau"
+title_note: 按源站题名补全
 year: 1940
 date_label: '1940'
 era: 20世纪

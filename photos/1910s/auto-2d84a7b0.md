@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Demonstration at the Red Cross Emergen
+title: "Demonstration at the Red Cross Emergency Ambulance Station in Washington, D.C., during the influenza pandemic of 1918 LCCN2016844533 (cropped)"
+title_original: "Demonstration at the Red Cross Emergen"
+title_note: 按源站题名补全
 year: 1918
 date_label: '1918'
 era: 20世纪

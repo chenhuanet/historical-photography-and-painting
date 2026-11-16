@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Train wreck at Hammond Circus Train Wr
+title: "Train wreck at Hammond Circus Train Wreck, at Hammond, Indiana June 22, 1918"
+title_original: "Train wreck at Hammond Circus Train Wr"
+title_note: 按源站题名补全
 year: 1918
 date_label: '1918'
 era: 20世纪

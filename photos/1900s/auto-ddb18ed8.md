@@ -4,7 +4,9 @@ collection: photos
 content_type: postcard
 type_evidence: 源站描述/题名：明信片或照相印刷
 review_status: clean
-title: Buenos Aires Paseo de Julio c. 1900-19
+title: "Buenos Aires Paseo de Julio c. 1900-1905"
+title_original: "Buenos Aires Paseo de Julio c. 1900-19"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: 'Shimla 17th May 1887: Viceregal party. Lord William Beresford, Militar'
+title: "Shimla 17th May 1887: Viceregal party. Lord William Beresford, Military Secretary, Captain Leonard Gordon A.D.C., Mademoiselle Clerc, The Honorable Basit Blackwood, Major F.R. Hamilton A.D.C., Mr. Oglivie Grant, Sir Donald Mackenzie Wallace K.C.E., Private Secretary, Dr. J. Findlay, Mrs. F.R. Hamilton, Master G. Hamilton, Lady Victoria Blackwood, H.E. The Countess of Dufferin, H.E. The Earl of Dufferin, Lady Hermione Blackwood, Lord Herbrand Russell, A.D.C. (recto); Viceregal Party Shimla (verso)"
+title_original: "Shimla 17th May 1887: Viceregal party. Lord William Beresford, Militar"
+title_note: 按源站题名补全
 year: 1887
 date_label: '1887'
 era: 19世纪

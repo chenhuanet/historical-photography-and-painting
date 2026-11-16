@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: StateLibQld 1 43355 Bride and bridesma
+title: "StateLibQld 1 43355 Bride and bridesmaids, 1900-1910"
+title_original: "StateLibQld 1 43355 Bride and bridesma"
+title_note: 按源站题名补全
 year: 1910
 date_label: '1910'
 era: 20世纪

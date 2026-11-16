@@ -4,7 +4,9 @@ collection: photos
 content_type: postcard
 type_evidence: 源站描述/题名：明信片或照相印刷
 review_status: clean
-title: Young man carrying fruit of a breadfru
+title: "Young man carrying fruit of a breadfruit tree, Fiji, ca.1900-1930"
+title_original: "Young man carrying fruit of a breadfru"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

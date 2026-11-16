@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: View of E Street, N.W., North side, lo
+title: "View of E Street, N.W., North side, looking East from 13th Street with barber shop on the corner with other nearby businesses"
+title_original: "View of E Street, N.W., North side, lo"
+title_note: 按源站题名补全
 year: 1901
 date_label: '1901'
 era: 20世纪

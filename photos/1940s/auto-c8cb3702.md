@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Stanley Kubrick - Steelworker with mol
+title: "Stanley Kubrick - Steelworker with molten steel cph.3d02358"
+title_original: "Stanley Kubrick - Steelworker with mol"
+title_note: 按源站题名补全
 year: 1949
 date_label: '1949'
 era: 20世纪

@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Agra. View of the Taj in Front of Nootkan (The Light of the World), Wi
+title: "Agra. View of the Taj in Front of Nootkan (The Light of the World), Wife of the Emperor Akbar, View from the River"
+title_original: "Agra. View of the Taj in Front of Nootkan (The Light of the World), Wi"
+title_note: 按源站题名补全
 year: 1863
 date_label: 1863–70
 era: 19世纪

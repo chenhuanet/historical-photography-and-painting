@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Broke, baby sick, and car trouble! - D
+title: "Broke, baby sick, and car trouble! - Dorothea Langes photo of a Missouri family of five in the vicinity of Tracy, California"
+title_original: "Broke, baby sick, and car trouble! - D"
+title_note: 按源站题名补全
 year: 1937
 date_label: '1937'
 era: 20世纪

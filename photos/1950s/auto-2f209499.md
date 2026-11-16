@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Kastrup Airport CPH, Copenhagen. Fligh
+title: "Kastrup Airport CPH, Copenhagen. Flight kitchen 1950s, 1960s"
+title_original: "Kastrup Airport CPH, Copenhagen. Fligh"
+title_note: 按源站题名补全
 year: 1950
 date_label: '1950'
 era: 20世纪

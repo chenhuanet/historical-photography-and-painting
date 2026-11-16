@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Workers on the day shift at the Richmo
+title: "Workers on the day shift at the Richmond, California shipyards leaving the ferry in San Francisco fsa8b08495u"
+title_original: "Workers on the day shift at the Richmo"
+title_note: 按源站题名补全
 year: 1943
 date_label: '1943'
 era: 20世纪

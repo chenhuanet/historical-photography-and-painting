@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Photo-TokyoAirRaids-1945-8-2-Hachiōji-
+title: "Photo-TokyoAirRaids-1945-8-2-Hachiōji-View-1"
+title_original: "Photo-TokyoAirRaids-1945-8-2-Hachiōji-"
+title_note: 按源站题名补全
 year: 1945
 date_label: '1945'
 era: 20世纪

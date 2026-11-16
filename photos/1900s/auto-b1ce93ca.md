@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Exterior view of the South Gate Masoni
+title: "Exterior view of the South Gate Masonic Temple building and the grocery store occupying the bottom floor, Los Angeles, ca.1900 (CHS-5287)"
+title_original: "Exterior view of the South Gate Masoni"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

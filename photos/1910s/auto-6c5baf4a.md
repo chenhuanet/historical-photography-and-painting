@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Wright biplane on the runway at the Do
+title: "Wright biplane on the runway at the Dominguez Hills Air Meet 1912 CHS-14212"
+title_original: "Wright biplane on the runway at the Do"
+title_note: 按源站题名补全
 year: 1912
 date_label: '1912'
 era: 20世纪

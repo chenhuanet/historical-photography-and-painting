@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Actresses travelling on the Klondike G
+title: "Actresses travelling on the Klondike Gold Rush"
+title_original: "Actresses travelling on the Klondike G"
+title_note: 按源站题名补全
 year: 1898
 date_label: '1898'
 era: 19世纪

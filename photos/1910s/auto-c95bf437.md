@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Blanche Scott in biplane over Domingue
+title: "Blanche Scott in biplane over Dominguez Field at the Air Meet 1912 CHS-11726"
+title_original: "Blanche Scott in biplane over Domingue"
+title_note: 按源站题名补全
 year: 1912
 date_label: '1912'
 era: 20世纪

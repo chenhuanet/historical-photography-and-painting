@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: La Rue des nations, Exposition Univers
+title: "La Rue des nations, Exposition Universelle 1900 (cropped). Pavillon royal de l'Espagne"
+title_original: "La Rue des nations, Exposition Univers"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

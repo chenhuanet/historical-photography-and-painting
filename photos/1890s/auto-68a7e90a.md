@@ -4,7 +4,9 @@ collection: photos
 content_type: print
 type_evidence: 来源/描述：Photochrom 彩色印刷
 review_status: clean
-title: The theatre, interior, Monte Carlo, Ri
+title: "The theatre, interior, Monte Carlo, Riviera"
+title_original: "The theatre, interior, Monte Carlo, Ri"
+title_note: 按源站题名补全
 year: 1890
 date_label: '1890'
 era: 19世纪

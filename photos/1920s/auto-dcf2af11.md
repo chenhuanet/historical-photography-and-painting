@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Venny Soldan-Brofeldt - Children Playi
+title: "Venny Soldan-Brofeldt - Children Playing with a Ball; Playing Children"
+title_original: "Venny Soldan-Brofeldt - Children Playi"
+title_note: 按源站题名补全
 year: 1920
 date_label: '1920'
 era: 20世纪

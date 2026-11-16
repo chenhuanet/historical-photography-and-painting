@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Prime Minister Tours Ruins of Berlin B
+title: "Prime Minister Tours Ruins of Berlin BU8953"
+title_original: "Prime Minister Tours Ruins of Berlin B"
+title_note: 按源站题名补全
 year: 1945
 date_label: '1945'
 era: 20世纪

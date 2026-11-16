@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: A room in the New England Cabin - Chic
+title: "A room in the New England Cabin - Chicago World's Fair 1893"
+title_original: "A room in the New England Cabin - Chic"
+title_note: 按源站题名补全
 year: 1893
 date_label: '1893'
 era: 19世纪

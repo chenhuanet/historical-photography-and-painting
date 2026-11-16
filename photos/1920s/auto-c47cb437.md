@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: John Francis McCormack by Arnold Genth
+title: "John Francis McCormack by Arnold Genthe, c. 1920, gelatin silver print, from the National Portrait Gallery - NPG-NPG 77 339"
+title_original: "John Francis McCormack by Arnold Genth"
+title_note: 按源站题名补全
 year: 1920
 date_label: '1920'
 era: 20世纪

@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: 80-G-285176- Normandy Invasion, Mulber
+title: "80-G-285176- Normandy Invasion, Mulberries, June 1944"
+title_original: "80-G-285176- Normandy Invasion, Mulber"
+title_note: 按源站题名补全
 year: 1944
 date_label: '1944'
 era: 20世纪

@@ -1,15 +1,15 @@
-# photos · 1860s · 190 条
+# photos · 1860s · 189 条
 
 | 年 | 标题 | 类型 | 主题 | 地域 | 来源 |
 | --- | --- | --- | --- | --- | --- |
-| 1860 | [Abraham Lincoln, candidate for U.S. pr](auto-622317c5.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
+| 1860 | [Abraham Lincoln, candidate for U.S. president. Half-length portrait, seated, facing front](auto-622317c5.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
 | 1860 | [Ambrose Burnside](auto-9d51e82c.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
 | 1860 | [Arc de Triomphe de l'Etoile, Paris](cle-d5b9bac4.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
 | 1860 | [Church with Round Tower, Pompeii, Italy](cle-1ee8f09d.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
 | 1860 | [Commercial Street, Canton (recto)](cle-62a7a7c2.md) | photograph | 街巷 | 中国 | 克利夫兰艺术博物馆 |
 | 1860 | [Commercial Street, Canton (recto); Untitled (man being carried in sedan chair, verso)](cle-c56cad85.md) | photograph | 街巷 | 中国 | 克利夫兰艺术博物馆 |
 | 1860 | [Corpus Christi Procession - Google Art](auto-58cdcbcb.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
-| 1860 | [Darimon, Alfred, Reutlinger, BNF Galli](auto-e0d4eca0.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
+| 1860 | [Darimon, Alfred, Reutlinger, BNF Gallica](auto-e0d4eca0.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
 | 1860 | [Face detail, Ambrose Burnside (cropped)](auto-fb7886e9.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
 | 1860 | [Face detail, from- Ambrose Burnside (cropped)](auto-65798bdf.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
 | 1860 | [Farnese Hercules, Museum of Naples, Italy](cle-a04e11d2.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
@@ -30,7 +30,7 @@
 | 1860 | [Portrait of a Woman](cle-a9c33715.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1860 | [Portrait of the Actor Pierre Bocage and Friend](cle-c1b2f953.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1860 | [Road in the Forest](cle-4d4741a1.md) | photograph | 风景 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1860 | [Rémusat, Charles de, Reutlinger, BNF G](auto-47d938c1.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
+| 1860 | [Rémusat, Charles de, Reutlinger, BNF Gallica](auto-47d938c1.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
 | 1860 | [Servants at Rhagatt, Corwen, North Wales](cle-a1ab6850.md) | photograph | 劳作 | 欧洲 | 克利夫兰艺术博物馆 |
 | 1860 | [St. Jean de Lateran, Rome](cle-a6aeb575.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
 | 1860 | [Streets and Shops in the Tartar city of Pekin](cle-2fc7fb34.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
@@ -40,7 +40,7 @@
 | 1860 | [Temple of Ramesses II, Abu Simbel](cle-35bbc577.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1860 | [The Small Cloister of the Monastery at Pavia](cle-84d91375.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1860 | [The photographic history of the Civil War - thousands of scenes photographed 1861-65, with text by many special authorities (1911) (14759502](auto-55b79d22.md) | photograph | 战火 | 跨地域 | 维基共享资源 |
-| 1860 | [Top of the Wall from Anting Gate, Pekin, taken possession by English a](cle-fb1963e9.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
+| 1860 | [Top of the Wall from Anting Gate, Pekin, taken possession by English and French Troops, October 21](cle-fb1963e9.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
 | 1860 | [Two Men Staging a Fight in a Studio](cle-149f37bb.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1860 | [Unknown Male Sitter](cle-625e8efe.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1860 | [Untitled (French Military Heroes and Political Leaders)](cle-d20de480.md) | photograph | 战火 | 欧洲 | 克利夫兰艺术博物馆 |
@@ -57,25 +57,25 @@
 | 1862 | [Ohio Civil War soldier Hanson J. Cochran with Colt revolver](cle-c5806cfd.md) | photograph | 战火 | 北美 | 克利夫兰艺术博物馆 |
 | 1862 | [Portrait of Victor Hugo on Guernsey](cle-8e7f27ad.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1862 | [Young Girl Seated on Straw, Leaning on a Basket](cle-4c514387.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1863 | ["Pine Cottage", Civil War soldiers win](auto-70c8121e.md) | photograph | 战火 | 北美 | 维基共享资源 |
+| 1863 | ["Pine Cottage", Civil War soldiers winter quarters](auto-70c8121e.md) | photograph | 战火 | 北美 | 维基共享资源 |
 | 1863 | [A Village Scene, Near Calcutta](cle-c163e933.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [Agra. The Gateway of the Gardens Surrounding the Taj](cle-4a06c04e.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [Agra. The Motee Hasjid in Pearl Mosque. View of the Entire Aisle](cle-09ea3bc0.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [Agra. The Taj, the Central of Principal City](cle-86a8ae35.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [Agra. View of the Taj from a Corner in the Quadrangle](cle-7aff57aa.md) | photograph | 风景 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [Agra. View of the Taj from the Garden](cle-26411205.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
-| 1863 | [Agra. View of the Taj in Front of Nootkan (The Light of the World), Wi](cle-89b25dc5.md) | photograph | 风景 | 南亚 | 克利夫兰艺术博物馆 |
+| 1863 | [Agra. View of the Taj in Front of Nootkan (The Light of the World), Wife of the Emperor Akbar, View from the River](cle-89b25dc5.md) | photograph | 风景 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [Calcutta. General View. Government House in the Foreground](cle-7f196e28.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [Calcutta. Old Court House Street](cle-fe8a5b75.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [Calcutta. The Custom House Landing Place. Shipping in the River Hoogly](cle-69c9b11c.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [Camp of Confederate Prisoners at Belle](auto-9373ce7f.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1863 | [Delhi. Gateway of Allahood Deen's Palace, Old Delhi](cle-1d5901cf.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
-| 1863 | [Delhi. Great Arch and Iron Pillar Near the Kootub Minar, Ruin of Old D](cle-3f249e7b.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
+| 1863 | [Delhi. Great Arch and Iron Pillar Near the Kootub Minar, Ruin of Old Delhi](cle-3f249e7b.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [Delhi. The Emperor's Palace. Interior of Dewani in Private Hall](cle-4704e9ef.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [Delhi. The Kashmire Gate. The Scene of Some Very Hard Fighting in 1857](cle-3997b704.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [Delhi. The Kootub Minar or Tower in the Ruined City of Old Delhi](cle-30d7dd5e.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
-| 1863 | [Delhi. Tomb of the Emperor Shums ooo deen Allomsh, Builder of the Koot](cle-abb007c1.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
-| 1863 | [Delhi. View of North Side of the Jamma Musjid in Principal Mabonedau P](cle-833d345e.md) | photograph | 风景 | 南亚 | 克利夫兰艺术博物馆 |
+| 1863 | [Delhi. Tomb of the Emperor Shums ooo deen Allomsh, Builder of the Kootub Minar in the Ruins of Old Delhi](cle-abb007c1.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
+| 1863 | [Delhi. View of North Side of the Jamma Musjid in Principal Mabonedau Place of Worship](cle-833d345e.md) | photograph | 风景 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [Fort of Futheypoor Sikre near Agra. The Residence of the Emperor Akbar](cle-a87238bb.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [Futheypoor Sikre Guard Gate of the Fort](cle-7d5c00da.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1863 | [Hyree Lake. Hill Station in the Himmalayahs. View of the Taj Lake with Assembly Rooms, Lhutse](cle-2e4f1ddc.md) | photograph | 风景 | 跨地域 | 克利夫兰艺术博物馆 |
@@ -101,20 +101,20 @@
 | 1863 | [The City of Benares, on the Ganges, View of the Great Mosque of A (?)](cle-fabc0a16.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [The City of Lahore. Another View Taken from Huzeer Khan's House](cle-ad2002b9.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [The Upper Himmalayahs. The Dodee Tal in Lake](cle-e6dd4e99.md) | photograph | 风景 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1863 | [The Upper Himmalayahs. View Near China Mountains. Deoders in the Foreg](cle-46ccd36c.md) | photograph | 风景 | 中国 | 克利夫兰艺术博物馆 |
+| 1863 | [The Upper Himmalayahs. View Near China Mountains. Deoders in the Foreground](cle-46ccd36c.md) | photograph | 风景 | 中国 | 克利夫兰艺术博物馆 |
 | 1863 | [The Upper Himmalayahs. View in the Buspa Valley from Sangla](cle-c0bee58c.md) | photograph | 风景 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1863 | [The Upper Himmalayahs. View in the Manga Valley](cle-6912c556.md) | photograph | 风景 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1863 | [The Upper Himmalayahs. View of Valley from Fallaldasa with Srikanta Pe](cle-677bec28.md) | photograph | 风景 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1863 | [The Upper Himmalayahs. View of the Mountain of Bunderpoonch with the J](cle-29a4f29c.md) | photograph | 风景 | 跨地域 | 克利夫兰艺术博物馆 |
+| 1863 | [The Upper Himmalayahs. View of Valley from Fallaldasa with Srikanta Peaks in the Distance](cle-677bec28.md) | photograph | 风景 | 跨地域 | 克利夫兰艺术博物馆 |
+| 1863 | [The Upper Himmalayahs. View of the Mountain of Bunderpoonch with the Jumnootri Peak, 20,458 above the Level of the Sea](cle-29a4f29c.md) | photograph | 风景 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1863 | [The Upper Himmalayahs. View on the New Road Near Rogi](cle-8e94a03a.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1863 | [The Upper Himmalayahs. View on the New Road between India and China. M](cle-8a1e2b00.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
-| 1863 | [The Upper Himmalayahs. Village of Harkundu with Traveller's Bungalow i](cle-1233d2c3.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1863 | [View of the City of Lahore Taken from the Roof of the Palace in the Fo](cle-d8aa10cc.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
+| 1863 | [The Upper Himmalayahs. View on the New Road between India and China. Mt. Pangi with the Snowy Peaks of China in the Distance](cle-8a1e2b00.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
+| 1863 | [The Upper Himmalayahs. Village of Harkundu with Traveller's Bungalow in Rest-House](cle-1233d2c3.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
+| 1863 | [View of the City of Lahore Taken from the Roof of the Palace in the Fort](cle-d8aa10cc.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1863 | [躺着的士兵](1863-soldier.md) | photograph | 战火 | 北美 | 史密森尼 美国艺术博物馆 |
 | 1864 | [Arab Musicians](cle-fe0afa4f.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1864 | [Bridge of Shops, Srinagar, Kashmir](cle-0399160d.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1864 | [Cathedral Rocks and Reflections, Yosemite](cle-2592a2fa.md) | photograph | 街巷 | 北美 | 克利夫兰艺术博物馆 |
-| 1864 | [La Belle Jardinère: le magasin de la rue de la Cité pendant sa demolit](cle-cfd1a70d.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
+| 1864 | [La Belle Jardinère: le magasin de la rue de la Cité pendant sa demolition, Paris](cle-cfd1a70d.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
 | 1864 | [Nowshera, Kashmir (number 1000)](cle-f15d4216.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1864 | [Temple at Naveshera, Kashmir, India](cle-ecebbcac.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1864 | [The d’Orléans Family during a Fête Champêtre at Orléans House](cle-6dbb6e2b.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
@@ -165,7 +165,7 @@
 | 1865 | [Vue prise du Couvent des Dominicains, Chalais (Isère), France](cle-a772c784.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
 | 1865 | [Yosemite Valley from Mariposa Trail](cle-f6b7c787.md) | photograph | 风景 | 北美 | 克利夫兰艺术博物馆 |
 | 1865 | [安迪·威尔逊的锡版照](1860s-tintype.md) | photograph | 面孔 | 北美 | 史密森尼 非裔美国人历史文化馆 |
-| 1866 | [Disfranchised! Melbourne Punch comic 1](auto-b25fd0c9.md) | photograph | 街巷 | 大洋洲 | 维基共享资源 |
+| 1866 | [Disfranchised! Melbourne Punch comic 1866](auto-b25fd0c9.md) | photograph | 街巷 | 大洋洲 | 维基共享资源 |
 | 1866 | [Futtypore Sikri—Two of the Marbled Screens in the Tomb of Sheik Selim](cle-c0fafc86.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1866 | [Mosaique: The Imperial Court of Napoleon III](cle-cdf6856d.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1866 | [Taming of the Shrew](auto-2cd4d23f.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
@@ -174,21 +174,20 @@
 | 1866 | [Untitled (Hong Kong, St. John’s Cathedral, from the Parade Ground, H.M. Regiment on Parade)](cle-117289d5.md) | photograph | 街巷 | 中国 | 克利夫兰艺术博物馆 |
 | 1866 | [Untitled (River, Hong Kong or Macau, China)](cle-1e6bf358.md) | photograph | 风景 | 中国 | 克利夫兰艺术博物馆 |
 | 1866 | [Untitled (View on the Praya, looking east, Hong Kong)](cle-1148e103.md) | photograph | 街巷 | 中国 | 克利夫兰艺术博物馆 |
-| 1867 | [Admiralty Chart No 2082 Africa south c](auto-586fd8e6.md) | photograph | 风景 | 撒哈拉以南非洲 | 维基共享资源 |
+| 1867 | [Admiralty Chart No 2082 Africa south coast Table Bay to Cape Agulhas, Published 1867](auto-586fd8e6.md) | photograph | 风景 | 撒哈拉以南非洲 | 维基共享资源 |
 | 1867 | [Femmes musulmanes Syriennes à Beyrouth, Costume de Ville](cle-2ecf085c.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1867 | [Julia Jackson](cle-275ae049.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1867 | [Julia Jackson Duckworth (1846-1895)](cle-16358f89.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1867 | [Trophy of the Hunt](cle-60890c83.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1868 | [Chinese butcher shop, San Francisco, C](auto-448810d8.md) | photograph | 街巷 | 北美 | 维基共享资源 |
-| 1868 | [Chinese butcher shop, San Francisco, C](auto-892f185f.md) | photograph | 街巷 | 北美 | 维基共享资源 |
+| 1868 | [Chinese butcher shop, San Francisco, Cal, from Robert N. Dennis collection of stereoscopic views](auto-448810d8.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1868 | [East Humboldt Mountains, Utah](cle-e045b1b9.md) | photograph | 风景 | 北美 | 克利夫兰艺术博物馆 |
 | 1868 | [Gaucho1868b](auto-edf40d26.md) | photograph | 劳作 | 中南美 | 维基共享资源 |
 | 1868 | [Matra Reinhard](cle-943653c1.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1869 | [East and West Shaking hands at the lay](auto-d7ba2ffe.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
+| 1869 | [East and West Shaking hands at the laying of last rail Union Pacific Railroad - Restoration](auto-d7ba2ffe.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
 | 1869 | [First Transcontinental Rail](auto-d1c6b22e.md) | photograph | 街巷 | 北美 | 维基共享资源 |
-| 1869 | [Joining the tracks for the first trans](auto-103d1c49.md) | photograph | 街巷 | 北美 | 维基共享资源 |
-| 1869 | [L'inauguration du canal de Suez, 17 No](auto-45676751.md) | photograph | 劳作 | 西亚·北非 | 维基共享资源 |
+| 1869 | [Joining the tracks for the first transcontinental railroad, Promontory, Utah, Terr., 1869 - NARA - 513341](auto-103d1c49.md) | photograph | 街巷 | 北美 | 维基共享资源 |
+| 1869 | [L'inauguration du canal de Suez, 17 November 1869 Gal18 riou 001f](auto-45676751.md) | photograph | 劳作 | 西亚·北非 | 维基共享资源 |
 | 1869 | [Landscape with Tree and Three Men, India](cle-73b1a8f6.md) | photograph | 风景 | 南亚 | 克利夫兰艺术博物馆 |
 | 1869 | [Opening of the Suez Canal, Port Said, 1869](auto-40381ae4.md) | photograph | 劳作 | 西亚·北非 | 维基共享资源 |
-| 1869 | [PANA3815 A woman climbing a mountain w](auto-58a9b151.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
-| 1869 | [Railroad, near Devil's Slide, Utah - N](auto-6d276dd1.md) | photograph | 街巷 | 北美 | 维基共享资源 |
+| 1869 | [PANA3815 A woman climbing a mountain with a child (fragment View from the Karanai Mountains) 1869 Aivazovsky](auto-58a9b151.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
+| 1869 | [Railroad, near Devil's Slide, Utah - NARA - 519551](auto-6d276dd1.md) | photograph | 街巷 | 北美 | 维基共享资源 |

@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Cleveland City Hall, 1900-Interior, CP
+title: "Cleveland City Hall, 1900-Interior, CP00517 - DPLA - e2eea20d2b75114b5251054ec2e06271"
+title_original: "Cleveland City Hall, 1900-Interior, CP"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

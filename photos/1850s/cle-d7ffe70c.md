@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: 'Figure 45: Contraction électrique forte des triangulaires des lèvres e'
+title: "Figure 45: Contraction électrique forte des triangulaires des lèvres et des sourciliers: douleur et déspoir"
+title_original: "Figure 45: Contraction électrique forte des triangulaires des lèvres e"
+title_note: 按源站题名补全
 year: 1856
 date_label: c. 1856, printed 1862
 era: 19世纪

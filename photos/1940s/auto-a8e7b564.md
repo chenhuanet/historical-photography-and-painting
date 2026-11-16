@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Corn Shipment) - (Corn Feed Imported U
+title: "Corn Shipment) - (Corn Feed Imported Under the Marshall Plan - DPLA - 2256fac5e306cf09debe9667ce457298"
+title_original: "Corn Shipment) - (Corn Feed Imported U"
+title_note: 按源站题名补全
 year: 1948
 date_label: '1948'
 era: 20世纪

@@ -3,25 +3,25 @@
 | 年 | 标题 | 类型 | 主题 | 地域 | 来源 |
 | --- | --- | --- | --- | --- | --- |
 | 1850 | [Algerian Woman](cle-834d396b.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1850 | [Basis van Shwedagon stoepa in Yangon R](auto-ecd9ef45.md) | photograph | 街巷 | 东南亚 | 维基共享资源 |
-| 1850 | [Bewerkte marmeren kamerscherm in de Ta](auto-a7fceace.md) | photograph | 街巷 | 南亚 | 维基共享资源 |
-| 1850 | [Binnenpartij van de Taj Mahal Agra-Det](auto-b6765240.md) | photograph | 街巷 | 南亚 | 维基共享资源 |
+| 1850 | [Basis van Shwedagon stoepa in Yangon Rangoon-Shway-Dagon Pagoda-Part of Base](auto-ecd9ef45.md) | photograph | 街巷 | 东南亚 | 维基共享资源 |
+| 1850 | [Bewerkte marmeren kamerscherm in de Taj Mahal Agra-Marble screen round tombs in Taj-Mahal](auto-a7fceace.md) | photograph | 街巷 | 南亚 | 维基共享资源 |
+| 1850 | [Binnenpartij van de Taj Mahal Agra-Details of Interior. Taj Mahal](auto-b6765240.md) | photograph | 街巷 | 南亚 | 维基共享资源 |
 | 1850 | [Bookbinder's Fillet](auto-f432e0f9.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
 | 1850 | [Child with Drum](cle-8999b840.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1850 | [Elena Amerighi (1822-1904) - Daguerreo](auto-f1401665.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
+| 1850 | [Elena Amerighi (1822-1904) - Daguerreotype, ca. 1850](auto-f1401665.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
 | 1850 | [Fontaine du Jardin du Luxembourg (grotte de Marie de Médécis)](cle-d0fa0997.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
-| 1850 | [Gezicht op de Taj Mahal in Agra Agra-T](auto-e2f8e86c.md) | photograph | 街巷 | 南亚 | 维基共享资源 |
-| 1850 | [Gezicht op de Taj Mahal in Agra, gezie](auto-bc962c78.md) | photograph | 风景 | 南亚 | 维基共享资源 |
-| 1850 | [Gezicht op de Taj Mahal vanaf de zijka](auto-c32f9a86.md) | photograph | 街巷 | 南亚 | 维基共享资源 |
-| 1850 | [Gezicht op de achterzijde van de Taj M](auto-60cd6a39.md) | photograph | 街巷 | 南亚 | 维基共享资源 |
-| 1850 | [Gezicht op de zuid poort van de Taj Ma](auto-f0a5ba19.md) | photograph | 街巷 | 南亚 | 维基共享资源 |
+| 1850 | [Gezicht op de Taj Mahal in Agra Agra-Taj-Mahal front view](auto-e2f8e86c.md) | photograph | 街巷 | 南亚 | 维基共享资源 |
+| 1850 | [Gezicht op de Taj Mahal in Agra, gezien vanaf de Yamuna Agra-Taj-Mahal seen from river Gumna](auto-bc962c78.md) | photograph | 风景 | 南亚 | 维基共享资源 |
+| 1850 | [Gezicht op de Taj Mahal vanaf de zijkant in Agra Agra-Taj-Mahal side view](auto-c32f9a86.md) | photograph | 街巷 | 南亚 | 维基共享资源 |
+| 1850 | [Gezicht op de achterzijde van de Taj Mahal in Agra Agra-Taj-Mahal back view](auto-60cd6a39.md) | photograph | 街巷 | 南亚 | 维基共享资源 |
+| 1850 | [Gezicht op de zuid poort van de Taj Mahal in Agra, gezien vanuit de Taj Mahal Agra-Entrancegate to Taj-Mahal-seen from terrace of Taj](auto-f0a5ba19.md) | photograph | 街巷 | 南亚 | 维基共享资源 |
 | 1850 | [Grand Temple D’Isis, à Philoe (vue générale prise du nord), Nubie](cle-ede88dcd.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1850 | [Hunting Party with Badger, Loire Valley, France](cle-f490b9d0.md) | photograph | 风景 | 欧洲 | 克利夫兰艺术博物馆 |
 | 1850 | [Lorichon Daguerreotype ca. 1850](auto-b6af4fb2.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
 | 1850 | [Medallion Portrait of a Woman](cle-2ce68c61.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1850 | [Mr. Leroux in the Role of Alceste in Le Misanthrope](cle-0b506c6f.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1850 | [Nelly Power](auto-7413995f.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
-| 1850 | [Robert Louis Stevenson daguerreotype p](auto-6d0ec663.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
+| 1850 | [Robert Louis Stevenson daguerreotype portrait as a child](auto-6d0ec663.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
 | 1850 | [Silver, Sarah (born Sarah Fairfield), wife of Cleve Short Silver, daguerreotype circa 1850](auto-63faa2a2.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
 | 1850 | [Southern Portion of the Rock-cut Temple of Hathor, Abu Simbel](cle-7cde50d0.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1850 | [The Music Teacher](cle-eefd596a.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
@@ -31,10 +31,10 @@
 | 1850 | [Unidentified woman c1850 daguerreotype](auto-4c1be3bf.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
 | 1850 | [Untitled (Farm Animals)](cle-35c60fd3.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1851 | [A Bride and Her Bridesmaids](cle-9a2d9550.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1851 | [General View of Monuments Carved into Bedrock with Photographer's Daha](cle-3fd0b29d.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
+| 1851 | [General View of Monuments Carved into Bedrock with Photographer's Dahabieh. Abu Simbel](cle-3fd0b29d.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1851 | [Gorge de la Nouvelle Route des Eaux-Chaudes](cle-7c9d7d4a.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1851 | [Great Exhibition, Agricutlural Impleme](auto-6b6f71a7.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
-| 1851 | [Great Exhibition, Vacuum Sugar Apparat](auto-4eb1f6bf.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
+| 1851 | [Great Exhibition, Agricutlural Implements, HF Talbot, 1851](auto-6b6f71a7.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
+| 1851 | [Great Exhibition, Vacuum Sugar Apparatus, HF Talbot, 1851](auto-4eb1f6bf.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
 | 1851 | [Portico of the Château d'Anet, now at the École des Beaux-Arts, Paris](cle-0b1725cd.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
 | 1851 | [Sphinxes with a Human Head and with a Ram Head at Point Y. Karnak (Thebes)](cle-06a426ad.md) | photograph | 街巷 | 西亚·北非 | 克利夫兰艺术博物馆 |
 | 1851 | [The Royal Porcelain Factory at Sèvres](cle-7d0a5257.md) | photograph | 劳作 | 跨地域 | 克利夫兰艺术博物馆 |
@@ -44,7 +44,7 @@
 | 1852 | [Henriette Robert](cle-dd3b4a27.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1852 | [Jean Auguste Dominique Ingres](cle-d3fcf7df.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1852 | [Notre-Dame, Paris](cle-3a851a99.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
-| 1852 | [Portrait of Paul Chenavard, from the series "Histoire des Artistes Viv](cle-74c94d95.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
+| 1852 | [Portrait of Paul Chenavard, from the series "Histoire des Artistes Vivants"](cle-74c94d95.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1852 | [Rocks at Livermead near Torquay (England)](cle-0c59af24.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
 | 1852 | [The King's Palace, Naples](cle-a7476d1d.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
 | 1852 | [帕拉尔达的桥](1852-bridge.md) | photograph | 风景 | 欧洲 | 克利夫兰艺术博物馆 |
@@ -82,7 +82,7 @@
 | 1855 | [Road to Eaux-Chaudes, Pyrenees (recto)](cle-eca4adf6.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1855 | [Young Woman in Pantalettes](cle-84339412.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1856 | [An Effect of the Sun, Normandy](cle-052cb0c2.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
-| 1856 | [Figure 45: Contraction électrique forte des triangulaires des lèvres e](cle-d7ffe70c.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
+| 1856 | [Figure 45: Contraction électrique forte des triangulaires des lèvres et des sourciliers: douleur et déspoir](cle-d7ffe70c.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1856 | [Gioachino Antonio Rossini](cle-01c605cf.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1856 | [Hoyshaleshvara Temple Sculpture, Halebidu (Halebeedu)](cle-4492d36e.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1856 | [Landscape](cle-041c9034.md) | photograph | 风景 | 跨地域 | 克利夫兰艺术博物馆 |
@@ -111,7 +111,7 @@
 | 1858 | [Entrance to the Minakshi Sundareshvara Temple, Madurai](cle-d37e61b1.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1858 | [Kom Ombo](cle-d7f53ee6.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1858 | [Perumal Temple Vimana from Corner of Court, Madurai](cle-1b4794c0.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1858 | [Pudhu Mandapa of Tirumal Nayak (r. 1623–59), Minakshi Sundareshvara Te](cle-ebf0564f.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
+| 1858 | [Pudhu Mandapa of Tirumal Nayak (r. 1623–59), Minakshi Sundareshvara Temple, Madurai](cle-ebf0564f.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1858 | [River Landscape, Scotland](cle-4103fc40.md) | photograph | 风景 | 欧洲 | 克利夫兰艺术博物馆 |
 | 1858 | [Small Mosque in the Kaiserbagh](cle-a93187a0.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1858 | [South Façade of the Quadrangle of the Nayak Darbar Hall, Thanjavur](cle-50596e01.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
@@ -120,7 +120,7 @@
 | 1858 | [The Taj Mahal](cle-cef046bc.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1858 | [View of the Small Grotto toward the Deer Pond, Bois de Boulogne](cle-1bb5c57f.md) | photograph | 战火 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1858 | [West and South Sides of the Vimana Walls, Great Temple (Brihadeshvara)](cle-d197bba4.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
-| 1858 | [Western Gateway (Gopuram) of the Minakshi Sundareshvara Temple, Madura](cle-ec870056.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
+| 1858 | [Western Gateway (Gopuram) of the Minakshi Sundareshvara Temple, Madurai](cle-ec870056.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1859 | [First Bank of the United States, Philadelphia](cle-a2c10c34.md) | photograph | 街巷 | 北美 | 克利夫兰艺术博物馆 |
 | 1859 | [Kaalat el Athlit, Syria, View from the Seaside](cle-b8adefa9.md) | photograph | 风景 | 西亚·北非 | 克利夫兰艺术博物馆 |
 | 1859 | [The Tiber, Tuileries Garden, Paris](cle-d41885e2.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |

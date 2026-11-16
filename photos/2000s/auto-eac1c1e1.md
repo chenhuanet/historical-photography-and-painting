@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: The International Space Station's Expe
+title: "The International Space Station's Expedition 1 crew"
+title_original: "The International Space Station's Expe"
+title_note: 按源站题名补全
 year: 2000
 date_label: '2000'
 era: 21世纪

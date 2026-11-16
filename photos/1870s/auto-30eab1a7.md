@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Menam-rivier in Bangkok met gebouwen e
+title: "Menam-rivier in Bangkok met gebouwen en boten, gezien vanaf de Royal Dock Yard Menam River from the Royal Dock Yard, B(..)ok"
+title_original: "Menam-rivier in Bangkok met gebouwen e"
+title_note: 按源站题名补全
 year: 1870
 date_label: '1870'
 era: 19世纪

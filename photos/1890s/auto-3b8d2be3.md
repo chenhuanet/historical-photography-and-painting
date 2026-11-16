@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Santa Casa da Misericórdia do Rio de J
+title: "Santa Casa da Misericórdia do Rio de Janeiro (007A6P3F03-020)"
+title_original: "Santa Casa da Misericórdia do Rio de J"
+title_note: 按源站题名补全
 year: 1890
 date_label: '1890'
 era: 19世纪

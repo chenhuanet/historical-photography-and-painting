@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Sunderland 201 Sqn on Havel during Ber
+title: "Sunderland 201 Sqn on Havel during Berlin Airlift 1948"
+title_original: "Sunderland 201 Sqn on Havel during Ber"
+title_note: 按源站题名补全
 year: 1948
 date_label: '1948'
 era: 20世纪

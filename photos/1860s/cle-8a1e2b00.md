@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: The Upper Himmalayahs. View on the New Road between India and China. M
+title: "The Upper Himmalayahs. View on the New Road between India and China. Mt. Pangi with the Snowy Peaks of China in the Distance"
+title_original: "The Upper Himmalayahs. View on the New Road between India and China. M"
+title_note: 按源站题名补全
 year: 1863
 date_label: 1863 or 1866
 era: 19世纪

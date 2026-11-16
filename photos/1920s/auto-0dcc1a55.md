@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Crowds gathering outside New York Stoc
+title: "Crowds gathering outside New York Stock Exchange"
+title_original: "Crowds gathering outside New York Stoc"
+title_note: 按源站题名补全
 year: 1929
 date_label: '1929'
 era: 20世纪

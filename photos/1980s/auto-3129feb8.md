@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Space Shuttle astronauts John Young an
+title: "Space Shuttle astronauts John Young and Robert Crippen (in tan space suits) are greeted by members of the ground crew after stepping off the Space Shuttle Columbia after STS-1 (EC81-15177)"
+title_original: "Space Shuttle astronauts John Young an"
+title_note: 按源站题名补全
 year: 1981
 date_label: '1981'
 era: 20世纪

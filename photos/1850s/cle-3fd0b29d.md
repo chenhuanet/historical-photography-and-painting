@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: General View of Monuments Carved into Bedrock with Photographer's Daha
+title: "General View of Monuments Carved into Bedrock with Photographer's Dahabieh. Abu Simbel"
+title_original: "General View of Monuments Carved into Bedrock with Photographer's Daha"
+title_note: 按源站题名补全
 year: 1851
 date_label: 1851–1852
 era: 19世纪

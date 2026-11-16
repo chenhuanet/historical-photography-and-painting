@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Torajirō Kasai, Wedding of Crown Princ
+title: "Torajirō Kasai, Wedding of Crown Prince Yoshihito and Princess Kujō Sadako, 1900"
+title_original: "Torajirō Kasai, Wedding of Crown Princ"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

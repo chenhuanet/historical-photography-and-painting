@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Broadcasting records over the radio, 1
+title: "Broadcasting records over the radio, 1940s"
+title_original: "Broadcasting records over the radio, 1"
+title_note: 按源站题名补全
 year: 1940
 date_label: '1940'
 era: 20世纪

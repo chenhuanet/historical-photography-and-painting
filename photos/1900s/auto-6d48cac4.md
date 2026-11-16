@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Hine, Lewis, Adolescent Girl, a Spinne
+title: "Hine, Lewis, Adolescent Girl, a Spinner, in a Carolina Cotton Mill, 1908"
+title_original: "Hine, Lewis, Adolescent Girl, a Spinne"
+title_note: 按源站题名补全
 year: 1908
 date_label: '1908'
 era: 20世纪

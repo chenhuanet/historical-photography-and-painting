@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: American Red Cross - Ambulances - Amer
+title: "American Red Cross - Ambulances - American Red Cross Ambulances on the way to the Italian Front. Here are seen some of the hundreds of Red Cross ambulances that were in Italy 1918, helping to bring back the wound(...) - NARA - 20803448"
+title_original: "American Red Cross - Ambulances - Amer"
+title_note: 按源站题名补全
 year: 1918
 date_label: '1918'
 era: 20世纪

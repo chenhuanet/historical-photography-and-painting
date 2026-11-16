@@ -4,7 +4,9 @@ collection: photos
 content_type: postcard
 type_evidence: 源站描述/题名：明信片或照相印刷
 review_status: clean
-title: Cuba - View of Havana from Cabañas For
+title: "Cuba - View of Havana from Cabañas Fort"
+title_original: "Cuba - View of Havana from Cabañas For"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

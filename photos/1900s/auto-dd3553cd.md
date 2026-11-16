@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: A little spinner in a Georgia Cotton M
+title: "A little spinner in a Georgia Cotton Mill. - NARA - 523157"
+title_original: "A little spinner in a Georgia Cotton M"
+title_note: 按源站题名补全
 year: 1909
 date_label: '1909'
 era: 20世纪

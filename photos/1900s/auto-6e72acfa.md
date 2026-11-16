@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Procession for the Fiesta de San Esteb
+title: "Procession for the Fiesta de San Esteban (Saint Stephen), Acoma Pueblo, ca.1900 (CHS-4522)"
+title_original: "Procession for the Fiesta de San Esteb"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

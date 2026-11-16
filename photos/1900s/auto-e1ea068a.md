@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Fire damage after San Francisco earthq
+title: "Fire damage after San Francisco earthquake 1906"
+title_original: "Fire damage after San Francisco earthq"
+title_note: 按源站题名补全
 year: 1906
 date_label: '1906'
 era: 20世纪

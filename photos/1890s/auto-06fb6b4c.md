@@ -4,7 +4,9 @@ collection: photos
 content_type: print
 type_evidence: 来源/描述：Photochrom 彩色印刷
 review_status: clean
-title: Bernese Alps, from Stanserhorn, Bernes
+title: "Bernese Alps, from Stanserhorn, Bernese Oberland, Switzerland"
+title_original: "Bernese Alps, from Stanserhorn, Bernes"
+title_note: 按源站题名补全
 year: 1890
 date_label: '1890'
 era: 19世纪

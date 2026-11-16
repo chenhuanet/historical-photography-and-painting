@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: DeLongpre residence on Hollywood Boule
+title: "DeLongpre residence on Hollywood Boulevard, ca.1890-1900 (CHS-2742)"
+title_original: "DeLongpre residence on Hollywood Boule"
+title_note: 按源站题名补全
 year: 1890
 date_label: '1890'
 era: 19世纪

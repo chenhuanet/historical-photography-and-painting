@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Photograph - Group Aboard Ship, Chines
+title: "Photograph - Group Aboard Ship, Chinese, circa 1930s-1940s"
+title_original: "Photograph - Group Aboard Ship, Chines"
+title_note: 按源站题名补全
 year: 1930
 date_label: '1930'
 era: 20世纪

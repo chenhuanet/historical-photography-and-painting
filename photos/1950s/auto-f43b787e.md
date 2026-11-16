@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Ernestine Anderson singing at Fort Law
+title: "Ernestine Anderson singing at Fort Lawton service club, February 14, 1950 - DPLA - 0a87fdfd90ebb44edd835db26cefd2b5"
+title_original: "Ernestine Anderson singing at Fort Law"
+title_note: 按源站题名补全
 year: 1950
 date_label: '1950'
 era: 20世纪

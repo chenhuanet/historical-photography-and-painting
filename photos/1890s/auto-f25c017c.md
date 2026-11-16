@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Photograph with caption "Lock 2, Formi
+title: "Photograph with caption \"Lock 2, Forming N. Wall, June 19, (18)95). - NARA - 282349"
+title_original: "Photograph with caption \"Lock 2, Formi"
+title_note: 按源站题名补全
 year: 1895
 date_label: '1895'
 era: 19世纪

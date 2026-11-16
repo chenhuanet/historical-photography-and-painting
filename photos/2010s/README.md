@@ -14,10 +14,10 @@
 | 2012 | [Photograph of Mars by NASA's Curiosity](auto-72fe0e22.md) | photograph | 远方 | 太空 | 维基共享资源 |
 | 2012 | [Photograph of Mars by NASA's Curiosity](auto-ba4b175c.md) | photograph | 远方 | 太空 | 维基共享资源 |
 | 2012 | [从国际空间站看下去](2012-earth.md) | photograph | 远方 | 太空 | NASA |
-| 2013 | [Top view of the rings of Saturn by Cas](auto-3d26286d.md) | photograph | 风景 | 太空 | 维基共享资源 |
+| 2013 | [Top view of the rings of Saturn by Cassini - October 10, 2013](auto-3d26286d.md) | photograph | 风景 | 太空 | 维基共享资源 |
 | 2014 | [Pillars of creation 2014 HST WFC3-UVIS](auto-e51085cd.md) | photograph | 街巷 | 太空 | 维基共享资源 |
-| 2015 | [Championnat de France de football USFS](auto-86f62749.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
-| 2015 | [Curiosity Self-Portrait at 'Big Sky' D](auto-abb31fcf.md) | photograph | 面孔 | 太空 | 维基共享资源 |
-| 2015 | [ISS-44 Night Earth Observation of an A](auto-6eddacc9.md) | photograph | 街巷 | 太空 | 维基共享资源 |
-| 2016 | [Curiosity rover selfie at Namib Dune S](auto-938fd1ad.md) | photograph | 远方 | 太空 | 维基共享资源 |
+| 2015 | [Championnat de France de football USFSA 1910](auto-86f62749.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
+| 2015 | [Curiosity Self-Portrait at 'Big Sky' Drilling Site](auto-abb31fcf.md) | photograph | 面孔 | 太空 | 维基共享资源 |
+| 2015 | [ISS-44 Night Earth Observation of an Aurora Australis](auto-6eddacc9.md) | photograph | 街巷 | 太空 | 维基共享资源 |
+| 2016 | [Curiosity rover selfie at Namib Dune Sol 1128](auto-938fd1ad.md) | photograph | 远方 | 太空 | 维基共享资源 |
 | 2017 | [2017 Total Solar Eclipse (NHQ201708210105)](auto-017471b8.md) | photograph | 远方 | 太空 | 维基共享资源 |

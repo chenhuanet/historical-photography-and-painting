@@ -4,7 +4,9 @@ collection: photos
 content_type: postcard
 type_evidence: 源站描述/题名：明信片或照相印刷
 review_status: clean
-title: Shanghai Bund seen from the French Con
+title: "Shanghai Bund seen from the French Concession"
+title_original: "Shanghai Bund seen from the French Con"
+title_note: 按源站题名补全
 year: 1934
 date_label: '1934'
 era: 20世纪

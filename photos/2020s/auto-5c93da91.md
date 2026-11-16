@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Sohag, Egypt, on the River Nile's fert
+title: "Sohag, Egypt, on the River Nile's fertile plain, pictured from the International Space Station (iss073e0134645)"
+title_original: "Sohag, Egypt, on the River Nile's fert"
+title_note: 按源站题名补全
 year: 2025
 date_label: '2025'
 era: 21世纪

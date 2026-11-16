@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Brands of the California ranches, ca.1
+title: "Brands of the California ranches, ca.1840-1900"
+title_original: "Brands of the California ranches, ca.1"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

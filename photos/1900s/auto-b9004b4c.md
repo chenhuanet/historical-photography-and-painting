@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Album photographique amateur de l'Expo
+title: "Album photographique amateur de l'Exposition Universelle de 1900 Maroc, Paris Musées 20230901200835"
+title_original: "Album photographique amateur de l'Expo"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

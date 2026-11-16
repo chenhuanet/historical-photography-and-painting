@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Wright brothers first successful fligh
+title: "Wright brothers first successful flight Kill Devil Hills North Carolina December 1903"
+title_original: "Wright brothers first successful fligh"
+title_note: 按源站题名补全
 year: 1903
 date_label: '1903'
 era: 20世纪

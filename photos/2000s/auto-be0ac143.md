@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Atlantis seen over the Mediterranean S
+title: "Atlantis seen over the Mediterranean Sea, near the Algerian coast"
+title_original: "Atlantis seen over the Mediterranean S"
+title_note: 按源站题名补全
 year: 2009
 date_label: '2009'
 era: 21世纪

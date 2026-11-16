@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Cattle grazing in the open near a smal
+title: "Cattle grazing in the open near a small stream on the Santa Margarita cattle ranch in San Diego County, 1900 (CHS-2358)"
+title_original: "Cattle grazing in the open near a smal"
+title_note: 按源站题名补全
 year: 1900
 date_label: '1900'
 era: 20世纪

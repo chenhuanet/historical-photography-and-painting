@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Marshall Plan Wives Fund - DPLA - 1e0c
+title: "Marshall Plan Wives Fund - DPLA - 1e0c523e634ca471d71eb889fe68d7f0"
+title_original: "Marshall Plan Wives Fund - DPLA - 1e0c"
+title_note: 按源站题名补全
 year: 1948
 date_label: '1948'
 era: 20世纪

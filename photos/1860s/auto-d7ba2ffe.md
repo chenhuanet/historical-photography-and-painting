@@ -4,7 +4,9 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: East and West Shaking hands at the lay
+title: "East and West Shaking hands at the laying of last rail Union Pacific Railroad - Restoration"
+title_original: "East and West Shaking hands at the lay"
+title_note: 按源站题名补全
 year: 1869
 date_label: '1869'
 era: 19世纪
