@@ -13,7 +13,7 @@ theme: 人间
 topic: 街巷
 region: 北美
 medium: 纪实照片
-period: 1880s
+period: 1870s
 place: New York, USA
 china: false
 creator: 佚名
@@ -60,7 +60,7 @@ audit:
   reason: 源站日期与公有领域许可逐项核对
   checks_passed: 4
   checks_applicable: 4
-image: https://19century.chenhua.net/photos/1880s/auto-f5c4b578-24c89773.jpg
+image: https://19century.chenhua.net/photos/1870s/auto-f5c4b578-24c89773.jpg
 source_image: https://upload.wikimedia.org/wikipedia/commons/0/0c/Brooklyn_Bridge_Under_Construction_1878.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 image_sha256: e2174379db8040f175eaddb862b2000d3b2fd21ce0bbbb29525e1ba7bee93082
 image_width: 876
@@ -72,6 +72,6 @@ image_original_sha256: 24c89773082a8205bcd42e84a2792ca5effa80a2248af67326228b7ec
 image_processing: long-edge-1600-q82
 ---
 
-![Brooklyn Bridge Under Construction 1878](https://19century.chenhua.net/photos/1880s/auto-f5c4b578-24c89773.jpg)
+![Brooklyn Bridge Under Construction 1878](https://19century.chenhua.net/photos/1870s/auto-f5c4b578-24c89773.jpg)
 
 1878，New York。佚名；来源：维基共享资源，馆藏编号 File:Brooklyn Bridge Under Construction 1878.jpg。

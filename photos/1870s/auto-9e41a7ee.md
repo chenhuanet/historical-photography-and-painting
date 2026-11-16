@@ -14,7 +14,7 @@ theme: 人间
 topic: 街巷
 region: 北美
 medium: 立体照片
-period: 1880s
+period: 1870s
 place: New York, USA
 china: false
 creator: 佚名
@@ -65,7 +65,7 @@ audit:
   reason: 源站日期与公有领域许可逐项核对
   checks_passed: 4
   checks_applicable: 4
-image: https://19century.chenhua.net/photos/1880s/auto-9e41a7ee-9e13d885.jpg
+image: https://19century.chenhua.net/photos/1870s/auto-9e41a7ee-9e13d885.jpg
 source_image: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Brooklyn_Bridge_tower_in_construction%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Brooklyn_Bridge_tower_in_construction%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 image_sha256: f3ced6c66c83d4bf6296419ced8dedd5130482a5f64c8c4200cd5a44693ca34d
 image_width: 1600
@@ -77,6 +77,6 @@ image_original_sha256: 9e13d885f7efcdd4a97f3df516e1bfc4337f9bdf7fcef94bdd91c6975
 image_processing: long-edge-1600-q82
 ---
 
-![Brooklyn Bridge tower in construction, from Robert N. Dennis collection of stereoscopic views](https://19century.chenhua.net/photos/1880s/auto-9e41a7ee-9e13d885.jpg)
+![Brooklyn Bridge tower in construction, from Robert N. Dennis collection of stereoscopic views](https://19century.chenhua.net/photos/1870s/auto-9e41a7ee-9e13d885.jpg)
 
 约 1870s，New York。佚名；来源：维基共享资源，馆藏编号 File:Brooklyn Bridge tower in construction, from Robert N. Dennis collection of stereoscopic views.jpg。

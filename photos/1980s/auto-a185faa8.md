@@ -13,7 +13,7 @@ theme: 天地
 topic: 远方
 region: 太空
 medium: 航天影像
-period: 1990s
+period: 1980s
 place: 低地球轨道 / 肯尼迪航天中心
 china: false
 creator: NASA
@@ -78,7 +78,7 @@ audit:
   reason: 源站日期与公有领域许可逐项核对
   checks_passed: 4
   checks_applicable: 4
-image: https://20century.chenhua.net/photos/1990s/auto-a185faa8-16ad3feb.jpg
+image: https://20century.chenhua.net/photos/1980s/auto-a185faa8-16ad3feb.jpg
 source_image: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Artist_concept_of_the_Hubble_Space_Telescope_%28HST%29_after_STS-31_deployment.jpg/1920px-Artist_concept_of_the_Hubble_Space_Telescope_%28HST%29_after_STS-31_deployment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 image_sha256: 313ac8c83695c529a8700fa2942ae3c13627bf39785a3afd131db892ea4c4502
 image_width: 1600
@@ -90,6 +90,6 @@ image_original_sha256: 16ad3feb62c21ba02f6d6b31fdfe454ed39b6e425eb454bfd904f95bd
 image_processing: long-edge-1600-q82
 ---
 
-![Artist concept of the Hubble Space Telescope (HST) after STS-31 deployment](https://20century.chenhua.net/photos/1990s/auto-a185faa8-16ad3feb.jpg)
+![Artist concept of the Hubble Space Telescope (HST) after STS-31 deployment](https://20century.chenhua.net/photos/1980s/auto-a185faa8-16ad3feb.jpg)
 
 1988-09-21，太空。NASA；来源：维基共享资源，馆藏编号 File:Artist concept of the Hubble Space Telescope (HST) after STS-31 deployment.jpg。这是一张航天影像。
