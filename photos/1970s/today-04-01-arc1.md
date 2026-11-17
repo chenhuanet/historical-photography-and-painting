@@ -1,0 +1,35 @@
+---
+id: today-04-01-arc1
+collection: photos
+content_type: photograph
+type_evidence: Wikimedia Commons file page
+review_status: clean
+title: 1976年4月1日：史蒂夫·乔布斯 · 影像档案 · 影像 1
+year: 1976
+date_label: '1976-04-01'
+era: 近现代
+kind: 历史影像
+theme: 历史
+topic: 事件
+region: 世界
+medium: 摄影
+place: ''
+creator: Sharon Farmer
+creator_status: 已知
+source: Wikimedia Commons
+source_short: Commons
+source_url: https://commons.wikimedia.org/wiki/File:A_Bug%27s_Life_crew_in_Oval_Office_1998.jpg
+page_url: https://commons.wikimedia.org/wiki/File:A_Bug%27s_Life_crew_in_Oval_Office_1998.jpg
+license: Public domain
+tier: L0
+rights_status: 公有领域
+commercial_ok: true
+image: https://upload.wikimedia.org/wikipedia/commons/4/41/A_Bug%27s_Life_crew_in_Oval_Office_1998.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+evidence:
+  source: Wikimedia Commons
+  file_page: https://commons.wikimedia.org/wiki/File:A_Bug%27s_Life_crew_in_Oval_Office_1998.jpg
+audit:
+  checked: '2026-11-16'
+---
+
+与「1976年4月1日：史蒂夫·乔布斯 · 影像档案」相关的历史影像。来源：Wikimedia Commons。第二视角：同一事件的不同取景。
