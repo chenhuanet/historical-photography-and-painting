@@ -4,18 +4,18 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: School for Aboriginal Children in Nanō
+title: School for Aboriginal Children in Nanō, Taiwan, China
 year: 1933
 date_label: '1933'
 era: 20世纪
 kind: 尘世
 theme: 人间
 topic: 面孔
-region: 大洋洲
+region: 中国台湾
 medium: 纪实照片
 period: 1930s
-place: 大洋洲
-china: false
+place: 中国台湾
+china: true
 creator: 作者不详（源站未著录）
 creator_status: unknown
 source: Wikimedia Commons
@@ -37,21 +37,14 @@ license_snapshot:
   fetched_at: '2026-11-09T12:20:40'
   raw_license: Public domain
   credit: Unknown author Unknown author
-  description: School for Aboriginal Children in Nanō, Formosa under Japanese rule
-    | "School for Young Savages" ( Bandō Kyōikusho ) in Nanō, Suō District, Taihoku
-    Prefecture, Formosa (Taiwan) under Japanese rule. The school was established for
-    the local Atayal children, and later became the Nan'ao Elementary School in present-day
-    Nan'ao Township, Yilan County. | 臺灣寫真大觀 | between 1933 and 1937 date QS:P,+1933-00-00T00:00:00Z/8,P1319,+1933-00-00T00:00:00Z/9,P1326,+1937-00-00T00:00:00Z/9
+  description: School for Aboriginal Children in Nanō, Taiwan, China under Japanese rule | "School for Young Savages" ( Bandō Kyōikusho ) in Nanō, Suō District, Taihoku Prefecture, Taiwan, China under Japanese rule. The school was established for the local Atayal children, and later became the Nan'ao Elementary School in present-day Nan'ao Township, Yilan County. | 中国台湾写真大观 | between 1933 and 1937 date QS:P,+1933-00-00T00:00:00Z/8,P1319,+1933-00-00T00:00:00Z/9,P1326,+1937-00-00T00:00:00Z/9
   date_original: '1933'
-  source_ref: File:School for Aboriginal Children in Nanō, Formosa under Japanese
-    rule.jpg
-  file_or_record: File:School for Aboriginal Children in Nanō, Formosa under Japanese
-    rule.jpg
+  source_ref: File:School for Aboriginal Children in Nanō, Taiwan, China under Japanese rule.jpg
+  file_or_record: File:School for Aboriginal Children in Nanō, Taiwan, China under Japanese rule.jpg
 evidence:
   claim: 1933 《School for Aboriginal Children in Nanō》，维基共享资源 文件页著录
   basis: Wikimedia Commons 文件页著录（题名、年代、许可逐项核对）
-  catalog_id: File:School for Aboriginal Children in Nanō, Formosa under Japanese
-    rule.jpg
+  catalog_id: File:School for Aboriginal Children in Nanō, Taiwan, China under Japanese rule.jpg
   reference_url: https://commons.wikimedia.org/wiki/File:School_for_Aboriginal_Children_in_Nan%C5%8D,_Formosa_under_Japanese_rule.jpg
   checked_at: '2026-11-08'
   status: 已核对源站著录
@@ -77,6 +70,10 @@ image_original_sha256: 492e8f331486a13dfe8741fe74908d15f75230cd8adb5eefe9bc855fb
 image_processing: long-edge-1600-q82
 ---
 
+
+
+
+
 ![School for Aboriginal Children in Nanō](https://20century.chenhua.net/photos/1930s/auto-f0880fcd-492e8f33.jpg)
 
-1933，大洋洲。作者不详（源站未著录）；来源：维基共享资源，馆藏编号 File:School for Aboriginal Children in Nanō, Formosa under Japanese rule.jpg。这是一张摄影影像。
+1933，中国。作者不详（源站未著录）；来源：维基共享资源，馆藏编号 File:School for Aboriginal Children in Nanō, Taiwan, China under Japanese rule.jpg。这是一张摄影影像。

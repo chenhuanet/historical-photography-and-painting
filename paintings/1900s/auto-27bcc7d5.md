@@ -5,6 +5,8 @@ content_type: painting
 type_evidence: 题名 Still Life；作者 Camille Pissarro 为画家；源站文件页
 review_status: clean
 title: Camille Pissarro, Still Life with a Coffeepot
+title_zh: 咖啡壶静物
+title_en: Still Life with a Coffeepot
 year: 1900
 date_label: '1900'
 era: 20世纪
@@ -18,15 +20,25 @@ place: 欧洲
 china: false
 creator: Camille Pissarro
 creator_status: named
+creator_zh: 卡米耶·毕沙罗
+creator_en: Camille Pissarro
+movement: 印象主义
+movement_en: Impressionism
+dimensions: 未著录
+dimensions_en: Not recorded
+holding: 未著录
+holding_en: Not recorded
 source: Wikimedia Commons
 source_short: 维基共享资源
 source_url: https://commons.wikimedia.org/wiki/File:Camille_Pissarro,_Still_Life_with_a_Coffeepot,_1900,_%D0%97%D0%9A%D0%A0%D1%81%D1%8D-527,_Hermitage_Museum.jpg
 page_url: https://commons.wikimedia.org/wiki/File:Camille_Pissarro,_Still_Life_with_a_Coffeepot,_1900,_%D0%97%D0%9A%D0%A0%D1%81%D1%8D-527,_Hermitage_Museum.jpg
 page_url_basis: 维基共享资源文件页
 license: Public domain
+license_status: pd
 license_raw: null
 license_url: https://commons.wikimedia.org/wiki/Commons:Licensing
 tier: L0
+curation_tier: extension
 rights_status: PD
 commercial_ok: true
 usage_code: U1
@@ -79,4 +91,4 @@ title_note: 题名按源站对象页清理
 
 ![Camille Pissarro, Still Life with a Coffeepot](https://20century.chenhua.net/paintings/1900s/auto-27bcc7d5-97a8dc7e.jpg)
 
-1900，欧洲。Camille Pissarro；来源：维基共享资源，馆藏编号 File:Camille Pissarro, Still Life with a Coffeepot, 1900, ЗКРсэ-527, Hermitage Museum.jpg。这是一幅绘画作品。
+《咖啡壶静物》是卡米耶·毕沙罗约1900年的印象主义作品，现藏信息待考。画面以“咖啡壶静物”为题，属于法国的绘画传统，可作为同时代绘画的参照。

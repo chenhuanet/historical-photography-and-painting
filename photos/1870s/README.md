@@ -1,4 +1,4 @@
-# photos · 1870s · 153 条
+# photos · 1870s · 155 条
 
 | 年 | 标题 | 类型 | 主题 | 地域 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -105,6 +105,8 @@
 | 1878 | [Bassaule, the Hill of Caves](cle-e3bc1a23.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1878 | [Bhuddist Temple at Ali Musjid](cle-39b9b5da.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1878 | [Birds Eye View of Jellalabad, from the Springs](cle-43ec2f26.md) | photograph | 风景 | 跨地域 | 克利夫兰艺术博物馆 |
+| 1878 | [Brooklyn Bridge Under Construction 1878](auto-f5c4b578.md) | photograph | 街巷 | 北美 | 维基共享资源 |
+| 1878 | [Brooklyn Bridge tower in construction, from Robert N. Dennis collection of stereoscopic views](auto-9e41a7ee.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1878 | [Cabulese](cle-afed50bc.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1878 | [Chinak, Looking Towards the Kurram River](cle-031a7d14.md) | photograph | 战火 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1878 | [Dakka Fort and Lalpura](cle-b4531eee.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |

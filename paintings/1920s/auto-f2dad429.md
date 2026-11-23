@@ -5,6 +5,8 @@ content_type: painting
 type_evidence: 画面为油画；题名/作者
 review_status: clean
 title: Lesser Ury - Nächtliche Strassenszene, Berlin (1920)
+title_zh: 柏林夜间街景
+title_en: Night Street Scene, Berlin
 year: 1920
 date_label: '1920'
 era: 20世纪
@@ -18,15 +20,25 @@ place: 欧洲
 china: false
 creator: Lesser Ury
 creator_status: named
+creator_zh: 莱塞·乌里
+creator_en: Lesser Ury
+movement: 印象主义
+movement_en: Impressionism
+dimensions: 未著录
+dimensions_en: Not recorded
+holding: 未著录
+holding_en: Not recorded
 source: Wikimedia Commons
 source_short: 维基共享资源
 source_url: https://commons.wikimedia.org/wiki/File:Lesser_Ury_-_N%C3%A4chtliche_Strassenszene,_Berlin_(1920).jpg
 page_url: https://commons.wikimedia.org/wiki/File:Lesser_Ury_-_N%C3%A4chtliche_Strassenszene,_Berlin_(1920).jpg
 page_url_basis: 维基共享资源文件页
 license: Public domain
+license_status: pd
 license_raw: null
 license_url: https://commons.wikimedia.org/wiki/Commons:Licensing
 tier: L0
+curation_tier: extension
 rights_status: PD
 commercial_ok: true
 usage_code: U1
@@ -76,4 +88,4 @@ title_note: 按源站文件名/题名补全
 
 ![Lesser Ury - Nächtliche Strassenszene, Berlin (1920)](https://20century.chenhua.net/paintings/1920s/auto-f2dad429-cb15b1d5.jpg)
 
-1920，欧洲。Lesser Ury；来源：维基共享资源，馆藏编号 File:Lesser Ury - Nächtliche Strassenszene, Berlin (1920).jpg。这是一张摄影影像。
+《柏林夜间街景》是莱塞·乌里约1920年的印象主义作品，现藏信息待考。画面以“柏林夜间街景”为题，属于柏林的油画传统，可作为同时代绘画的参照。

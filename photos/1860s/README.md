@@ -1,8 +1,14 @@
-# photos · 1860s · 189 条
+# photos · 1860s · 196 条
 
 | 年 | 标题 | 类型 | 主题 | 地域 | 来源 |
 | --- | --- | --- | --- | --- | --- |
 | 1860 | [Abraham Lincoln, candidate for U.S. president. Half-length portrait, seated, facing front](auto-622317c5.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
+| 1860 | [Album de l'Isthme de Suez - A. Couvreux entrepreneur à Vigneux (S&O) - Cuvier, photographe à El-Guisr (Egypte) - btv1b84514946 (01 of 48)](auto-292f5bcc.md) | photograph | 劳作 | 西亚·北非 | 维基共享资源 |
+| 1860 | [Album de l'Isthme de Suez - A. Couvreux entrepreneur à Vigneux (S&O) - Cuvier, photographe à El-Guisr (Egypte) - btv1b84514946 (15 of 48)](auto-e280aab3.md) | photograph | 劳作 | 西亚·北非 | 维基共享资源 |
+| 1860 | [Album de l'Isthme de Suez - A. Couvreux entrepreneur à Vigneux (S&O) - Cuvier, photographe à El-Guisr (Egypte) - btv1b84514946 (18 of 48)](auto-a41d2bec.md) | photograph | 劳作 | 西亚·北非 | 维基共享资源 |
+| 1860 | [Album de l'Isthme de Suez - A. Couvreux entrepreneur à Vigneux (S&O) - Cuvier, photographe à El-Guisr (Egypte) - btv1b84514946 (29 of 48)](auto-7c67e6e1.md) | photograph | 劳作 | 西亚·北非 | 维基共享资源 |
+| 1860 | [Album de l'Isthme de Suez - A. Couvreux entrepreneur à Vigneux (S&O) - Cuvier, photographe à El-Guisr (Egypte) - btv1b84514946 (35 of 48)](auto-7a477d2f.md) | photograph | 劳作 | 西亚·北非 | 维基共享资源 |
+| 1860 | [Album de l'Isthme de Suez - A. Couvreux entrepreneur à Vigneux (S&O) - Cuvier, photographe à El-Guisr (Egypte) - btv1b84514946 (43 of 48)](auto-a431c3f4.md) | photograph | 劳作 | 西亚·北非 | 维基共享资源 |
 | 1860 | [Ambrose Burnside](auto-9d51e82c.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
 | 1860 | [Arc de Triomphe de l'Etoile, Paris](cle-d5b9bac4.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
 | 1860 | [Church with Round Tower, Pompeii, Italy](cle-1ee8f09d.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
@@ -185,6 +191,7 @@
 | 1868 | [Matra Reinhard](cle-943653c1.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1869 | [East and West Shaking hands at the laying of last rail Union Pacific Railroad - Restoration](auto-d7ba2ffe.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
 | 1869 | [First Transcontinental Rail](auto-d1c6b22e.md) | photograph | 街巷 | 北美 | 维基共享资源 |
+| 1869 | [Inauguration et ouverture à la navigation du Canal de Suez, 17 novembre 1869, ND314](auto-cb475216.md) | photograph | 劳作 | 西亚·北非 | 维基共享资源 |
 | 1869 | [Joining the tracks for the first transcontinental railroad, Promontory, Utah, Terr., 1869 - NARA - 513341](auto-103d1c49.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1869 | [L'inauguration du canal de Suez, 17 November 1869 Gal18 riou 001f](auto-45676751.md) | photograph | 劳作 | 西亚·北非 | 维基共享资源 |
 | 1869 | [Landscape with Tree and Three Men, India](cle-73b1a8f6.md) | photograph | 风景 | 南亚 | 克利夫兰艺术博物馆 |

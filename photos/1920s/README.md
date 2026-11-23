@@ -1,4 +1,4 @@
-# photos · 1920s · 81 条
+# photos · 1920s · 135 条
 
 | 年 | 标题 | 类型 | 主题 | 地域 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -51,6 +51,12 @@
 | 1921 | [Le Bourget - expérience de parachute -](auto-42bdff18.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
 | 1921 | [Le Bourget - expérience de parachute -](auto-506d7e69.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
 | 1921 | [Petrov-Vodkin. Shah-i-Zinda](auto-a13cd7d7.md) | photograph | 街巷 | 中亚 | 维基共享资源 |
+| 1921 | [芝加哥劇院 · 影像 1](today-10-26-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1921 | [芝加哥劇院 · 影像 2](today-10-26-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1921 | [芝加哥劇院 · 影像 3](today-10-26-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1921 | [芝加哥劇院 · 影像 4](today-10-26-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1921 | [芝加哥劇院 · 影像 5](today-10-26-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1921 | [芝加哥劇院 · 影像 6](today-10-26-img6.md) | photograph | 事件 | 世界 | Commons |
 | 1922 | [In 1922 trouwt Lord Louis Mountbatten (1900-1979) met de destijds rijkste erfdochter van Engeland, SFA022002978](auto-ae21f7cb.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
 | 1922 | [Nymphéa](cle-6e5b54cb.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1923 | [1910 Fra Kongsvinger - no-nb digifoto 20150803 00232 bldsa PK28445](auto-dd7b1aa1.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
@@ -70,14 +76,62 @@
 | 1925 | [Views of WGY's radio station, 1925](auto-634ce834.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
 | 1925 | [WRNY, New York's Latest Broadcaster, 1925](auto-d9fad3f2.md) | photograph | 面孔 | 北美 | 维基共享资源 |
 | 1925 | [Wedding of Eleanor Margaret Jensen (1897-1987) and Mahlon Edward Shanahan (1900-1993) in 1925 in Chicago, Illinois](auto-9237eb27.md) | photograph | 战火 | 北美 | 维基共享资源 |
+| 1925 | [加拿大联合教会 · 影像 1](today-06-10-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1925 | [加拿大联合教会 · 影像 2](today-06-10-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1925 | [加拿大联合教会 · 影像 3](today-06-10-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1925 | [加拿大联合教会 · 影像 4](today-06-10-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1925 | [加拿大联合教会 · 影像 5](today-06-10-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1925 | [加拿大联合教会 · 影像 6](today-06-10-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1925 | [大奥普里 · 影像 1](today-11-28-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1925 | [大奥普里 · 影像 2](today-11-28-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1925 | [大奥普里 · 影像 3](today-11-28-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1925 | [大奥普里 · 影像 4](today-11-28-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1925 | [大奥普里 · 影像 5](today-11-28-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1925 | [大奥普里 · 影像 6](today-11-28-img6.md) | photograph | 事件 | 世界 | Commons |
 | 1927 | [(Mosquée de Paris) chez Brahim, chef du café maure et du hammam - btv1b53177294b](auto-3928550f.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
 | 1927 | [Mosquée de Paris, la salle du café et le fourneau : [photographie de presse] / [Agence Rol]](auto-0213c3fa.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
 | 1927 | [Mosquée de Paris, le café maure - btv1b53177286t](auto-9d0551b6.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
 | 1927 | [Mosquée de Paris, le café, au fond le fourneau : [photographie de presse] / [Agence Rol]](auto-b2bea56f.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
 | 1927 | [Mosquée de Paris, souk, café maure - btv1b531772984](auto-f83ef508.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
 | 1927 | [Sydney ferry KANIMBLA at Milson Point kept afloat by crane after collision with BALGOWLAH](auto-ddd0113a.md) | photograph | 街巷 | 大洋洲 | 维基共享资源 |
+| 1927 | [牛津大学 · 影像 1](today-03-15-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [牛津大学 · 影像 2](today-03-15-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [牛津大学 · 影像 3](today-03-15-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [牛津大学 · 影像 4](today-03-15-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [牛津大学 · 影像 5](today-03-15-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [牛津大学 · 影像 6](today-03-15-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [聖路易精神號 · 影像 1](today-05-21-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [聖路易精神號 · 影像 2](today-05-21-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [聖路易精神號 · 影像 3](today-05-21-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [聖路易精神號 · 影像 4](today-05-21-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [聖路易精神號 · 影像 5](today-05-21-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [聖路易精神號 · 影像 6](today-05-21-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [范朋克 · 影像 1](today-04-30-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [范朋克 · 影像 2](today-04-30-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [范朋克 · 影像 3](today-04-30-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [范朋克 · 影像 4](today-04-30-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [范朋克 · 影像 5](today-04-30-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [范朋克 · 影像 6](today-04-30-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [路易·B·梅耶 · 影像 1](today-01-11-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [路易·B·梅耶 · 影像 2](today-01-11-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [路易·B·梅耶 · 影像 3](today-01-11-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [路易·B·梅耶 · 影像 4](today-01-11-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [路易·B·梅耶 · 影像 5](today-01-11-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1927 | [路易·B·梅耶 · 影像 6](today-01-11-img6.md) | photograph | 事件 | 世界 | Commons |
 | 1928 | [Carter Family in the 1930s (retouched using Remini App)](auto-5e595794.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
 | 1928 | [Women's jazz band "Ingenues", Sydney, ca.1928](auto-3bf92179.md) | photograph | 面孔 | 大洋洲 | 维基共享资源 |
+| 1928 | [查尔斯·金斯福德·史密斯 · 影像 1](today-06-09-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1928 | [查尔斯·金斯福德·史密斯 · 影像 2](today-06-09-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1928 | [查尔斯·金斯福德·史密斯 · 影像 3](today-06-09-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1928 | [查尔斯·金斯福德·史密斯 · 影像 4](today-06-09-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1928 | [查尔斯·金斯福德·史密斯 · 影像 5](today-06-09-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1928 | [查尔斯·金斯福德·史密斯 · 影像 6](today-06-09-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1928 | [聖法蘭西斯水壩 · 影像 1](today-03-12-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1928 | [聖法蘭西斯水壩 · 影像 2](today-03-12-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1928 | [聖法蘭西斯水壩 · 影像 3](today-03-12-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1928 | [聖法蘭西斯水壩 · 影像 4](today-03-12-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1928 | [聖法蘭西斯水壩 · 影像 5](today-03-12-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1928 | [聖法蘭西斯水壩 · 影像 6](today-03-12-img6.md) | photograph | 事件 | 世界 | Commons |
 | 1929 | [Crowds gathering outside New York Stock Exchange](auto-0dcc1a55.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1929 | [Crowds gathering outside New York Stock Exchange](auto-320f69b5.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1929 | [Crowds gathering outside New York Stock Exchange](auto-be822754.md) | photograph | 街巷 | 北美 | 维基共享资源 |

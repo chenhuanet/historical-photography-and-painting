@@ -5,6 +5,8 @@ content_type: painting
 type_evidence: 源站描述：Oil on canvas
 review_status: clean
 title: Classroom 19th century English School
+title_zh: 十九世纪英国学校教室
+title_en: A Nineteenth-Century English Classroom
 year: 1850
 date_label: '1850'
 era: 19世纪
@@ -18,15 +20,25 @@ place: 欧洲
 china: false
 creator: 作者不详（源站未著录）
 creator_status: unknown
+creator_zh: 佚名
+creator_en: Unknown
+movement: 风俗画
+movement_en: Genre painting
+dimensions: 未著录
+dimensions_en: Not recorded
+holding: 未著录
+holding_en: Not recorded
 source: Wikimedia Commons
 source_short: 维基共享资源
 source_url: https://commons.wikimedia.org/wiki/File:Classroom_19th_century_English_School.jpg
 page_url: https://commons.wikimedia.org/wiki/File:Classroom_19th_century_English_School.jpg
 page_url_basis: 维基共享资源文件页
 license: Public domain
+license_status: pd
 license_raw: Public domain
 license_url: https://commons.wikimedia.org/wiki/Commons:Licensing
 tier: L0
+curation_tier: archive
 rights_status: PD
 commercial_ok: true
 usage_code: U1
@@ -75,4 +87,4 @@ image_processing: long-edge-1600-q82
 
 ![Classroom 19th century English School](https://19century.chenhua.net/paintings/1850s/auto-d713ad77-87c143a8.jpg)
 
-1850，欧洲。作者不详（源站未著录）；来源：维基共享资源，馆藏编号 File:Classroom 19th century English School.jpg。这是一幅油画作品。
+《十九世纪英国学校教室》是佚名画家约1850年的风俗画作品，现藏信息待考。画面以“十九世纪英国学校教室”为题，属于英国的油画传统，可作为同时代绘画的参照。

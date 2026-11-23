@@ -5,6 +5,8 @@ content_type: painting
 type_evidence: 画面为肖像绘画；题名/作者
 review_status: clean
 title: Leo Tolstoy by I.S. Kazakov (1900, Odessa)
+title_zh: 列夫·托尔斯泰肖像
+title_en: Leo Tolstoy
 year: 1900
 date_label: '1900'
 era: 20世纪
@@ -18,15 +20,25 @@ place: 欧洲
 china: false
 creator: Ivan Kazakov
 creator_status: named
+creator_zh: 伊万·卡扎科夫
+creator_en: Ivan Kazakov
+movement: 现实主义
+movement_en: Realism
+dimensions: 未著录
+dimensions_en: Not recorded
+holding: 未著录
+holding_en: Not recorded
 source: Wikimedia Commons
 source_short: 维基共享资源
 source_url: https://commons.wikimedia.org/wiki/File:Leo_Tolstoy_by_I.S.Kazakov_(1900,_Odessa).jpg
 page_url: https://commons.wikimedia.org/wiki/File:Leo_Tolstoy_by_I.S.Kazakov_(1900,_Odessa).jpg
 page_url_basis: 维基共享资源文件页
 license: Public domain
+license_status: pd
 license_raw: Public domain
 license_url: https://commons.wikimedia.org/wiki/Commons:Licensing
 tier: L0
+curation_tier: extension
 rights_status: PD
 commercial_ok: true
 usage_code: U1
@@ -76,4 +88,4 @@ title_note: 按源站文件名/题名补全
 
 ![Leo Tolstoy by I.S. Kazakov (1900, Odessa)](https://20century.chenhua.net/paintings/1900s/auto-580fb4aa-016f1d7f.jpg)
 
-1900，欧洲。Ivan Kazakov；来源：维基共享资源，馆藏编号 File:Leo Tolstoy by I.S.Kazakov (1900, Odessa).jpg。这是一张摄影影像。
+《列夫·托尔斯泰肖像》是伊万·卡扎科夫约1900年的现实主义作品，现藏信息待考。画面以“列夫·托尔斯泰肖像”为题，属于俄国的绘画传统，可作为同时代绘画的参照。

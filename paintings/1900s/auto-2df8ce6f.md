@@ -5,6 +5,8 @@ content_type: painting
 type_evidence: 画面为厚涂油画；题名/作者 George Benjamin Luks
 review_status: clean
 title: Portrait of a Boy, by George Benjamin Luks
+title_zh: 男孩肖像
+title_en: Portrait of a Boy
 year: 1900
 date_label: '1900'
 era: 20世纪
@@ -18,15 +20,25 @@ place: 跨地域
 china: false
 creator: George Benjamin Luks
 creator_status: named
+creator_zh: 乔治·本杰明·卢克斯
+creator_en: George Benjamin Luks
+movement: 垃圾箱画派
+movement_en: Ashcan School
+dimensions: 未著录
+dimensions_en: Not recorded
+holding: 未著录
+holding_en: Not recorded
 source: Wikimedia Commons
 source_short: 维基共享资源
 source_url: https://commons.wikimedia.org/wiki/File:Portrait_of_a_Boy,_by_George_Benjamin_Luks.png
 page_url: https://commons.wikimedia.org/wiki/File:Portrait_of_a_Boy,_by_George_Benjamin_Luks.png
 page_url_basis: 维基共享资源文件页
 license: Public domain
+license_status: pd
 license_raw: null
 license_url: https://commons.wikimedia.org/wiki/Commons:Licensing
 tier: L0
+curation_tier: extension
 rights_status: PD
 commercial_ok: true
 usage_code: U1
@@ -76,4 +88,4 @@ title_note: 题名按源站对象页清理
 
 ![Portrait of a Boy, by George Benjamin Luks](https://20century.chenhua.net/paintings/1900s/auto-2df8ce6f-c63d1c32.png)
 
-1900，跨地域。George Benjamin Luks；来源：维基共享资源，馆藏编号 File:Portrait of a Boy, by George Benjamin Luks.png。这是一幅绘画作品。（题名与作者指向绘画；源站未直接写出画种，标为待核。）
+《男孩肖像》是乔治·本杰明·卢克斯约1900年的垃圾箱画派作品，现藏信息待考。画面以“男孩肖像”为题，属于美国的油画传统，可作为同时代绘画的参照。

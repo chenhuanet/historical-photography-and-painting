@@ -5,6 +5,8 @@ content_type: painting
 type_evidence: 画面为油画；题名/作者
 review_status: clean
 title: Vilhelm Arnesen - Dampskibet Annam på Mekongfloden ved Saigon - 1900
+title_zh: 湄公河上的“安南号”
+title_en: The Steamer Annam on the Mekong near Saigon
 year: 1900
 date_label: '1900'
 era: 20世纪
@@ -18,15 +20,25 @@ place: 东南亚
 china: false
 creator: Vilhelm Arnesen
 creator_status: named
+creator_zh: 维尔赫尔姆·阿内森
+creator_en: Vilhelm Arnesen
+movement: 海洋画
+movement_en: Marine painting
+dimensions: 未著录
+dimensions_en: Not recorded
+holding: 未著录
+holding_en: Not recorded
 source: Wikimedia Commons
 source_short: 维基共享资源
 source_url: https://commons.wikimedia.org/wiki/File:Vilhelm_Arnesen_-_Dampskibet_Annam_p%C3%A5_Mekongfloden_ved_Saigon_-_1900.png
 page_url: https://commons.wikimedia.org/wiki/File:Vilhelm_Arnesen_-_Dampskibet_Annam_p%C3%A5_Mekongfloden_ved_Saigon_-_1900.png
 page_url_basis: 维基共享资源文件页
 license: Public domain
+license_status: pd
 license_raw: Public domain
 license_url: https://commons.wikimedia.org/wiki/Commons:Licensing
 tier: L0
+curation_tier: archive
 rights_status: PD
 commercial_ok: true
 usage_code: U1
@@ -81,4 +93,4 @@ title_note: 按源站文件名/题名补全
 
 ![Vilhelm Arnesen - Dampskibet Annam på Mekongfloden ved Saigon - 1900](https://20century.chenhua.net/paintings/1900s/auto-58575fef-2397eb14.png)
 
-1900，东南亚。Vilhelm Arnesen；来源：维基共享资源，馆藏编号 File:Vilhelm Arnesen - Dampskibet Annam på Mekongfloden ved Saigon - 1900.png。这是一张摄影影像。
+《湄公河上的“安南号”》是维尔赫尔姆·阿内森约1900年的海洋画作品，现藏信息待考。画面以“湄公河上的“安南号””为题，属于越南的油画传统，可作为同时代绘画的参照。

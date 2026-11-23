@@ -1,14 +1,18 @@
-# photos · 1930s · 86 条
+# photos · 1930s · 205 条
 
 | 年 | 标题 | 类型 | 主题 | 地域 | 来源 |
 | --- | --- | --- | --- | --- | --- |
 | 1930 | [1930 Shanghai](auto-6ff1dde2.md) | photograph | 街巷 | 中国 | 维基共享资源 |
+| 1930 | [Boulder Dam, detail of panel construction in overflow weir of Nevada spillway - NARA - 293899](auto-e9f07e3b.md) | photograph | 劳作 | 北美 | 维基共享资源 |
 | 1930 | [C. 1930s (family) group photo in Japan](auto-12a7833a.md) | photograph | 面孔 | 东亚 | 维基共享资源 |
 | 1930 | [Camille du Gast (Rol, 1930-04-30) cropped](auto-b2daa722.md) | photograph | 劳作 | 跨地域 | 维基共享资源 |
 | 1930 | [Copenhagen Airport aerial c. 1930](auto-4c936e44.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
 | 1930 | [Dance Hall at Yotsuya](auto-b038497d.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
+| 1930 | [Double-decked coach used in transporting Six Companies, Inc., workmen from Boulder City to dam, Capacity 150 men - NARA - 293924](auto-7a30fe9c.md) | photograph | 劳作 | 北美 | 维基共享资源 |
 | 1930 | [First Street of Honmachi Keijo Korea 1930s](auto-af7abfca.md) | photograph | 街巷 | 东亚 | 维基共享资源 |
 | 1930 | [Grand Rapids Airport hangar, 1930](auto-ded32eeb.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
+| 1930 | [Indian construction workers at Boulder Dam, Nevada - NARA - 298638](auto-ec62a2e9.md) | photograph | 劳作 | 北美 | 维基共享资源 |
+| 1930 | [Indian laborer at Boulder Dam during construction - NARA - 298637](auto-6102eedb.md) | photograph | 劳作 | 北美 | 维基共享资源 |
 | 1930 | [Kasumigaseki](auto-527e60fe.md) | photograph | 街巷 | 东亚 | 维基共享资源 |
 | 1930 | [Katharina Kuhn, Berlin 1930](auto-0870b18d.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
 | 1930 | [Kinza street](auto-416cd000.md) | photograph | 街巷 | 东亚 | 维基共享资源 |
@@ -40,16 +44,103 @@
 | 1930 | [Yagenborimachi](auto-1217b869.md) | photograph | 街巷 | 东亚 | 维基共享资源 |
 | 1930 | [ŌhashiRyōkai-1930-Street in Paris](auto-9729ecbc.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
 | 1930 | [南京路，1930 年代](commons-1930-shanghai.md) | photograph | 街巷 | 中国 | 维基共享资源 |
+| 1930 | [蒙得维的亚 · 影像 1](today-07-30-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1930 | [蒙得维的亚 · 影像 2](today-07-30-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1930 | [蒙得维的亚 · 影像 3](today-07-30-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1930 | [蒙得维的亚 · 影像 4](today-07-30-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1930 | [蒙得维的亚 · 影像 5](today-07-30-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1930 | [蒙得维的亚 · 影像 6](today-07-30-img6.md) | photograph | 事件 | 世界 | Commons |
 | 1931 | [Lily Bell Street in Kanda Jinbocho 1931](auto-08ff7fa1.md) | photograph | 街巷 | 东亚 | 维基共享资源 |
 | 1931 | [Meiji University memorial hall (the 3rd generation) in 1931](auto-b8808798.md) | photograph | 街巷 | 东亚 | 维基共享资源 |
+| 1931 | [喬治·華盛頓大橋 · 影像 1](today-10-24-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1931 | [喬治·華盛頓大橋 · 影像 2](today-10-24-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1931 | [喬治·華盛頓大橋 · 影像 3](today-10-24-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1931 | [喬治·華盛頓大橋 · 影像 4](today-10-24-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1931 | [喬治·華盛頓大橋 · 影像 5](today-10-24-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1931 | [喬治·華盛頓大橋 · 影像 6](today-10-24-img6.md) | photograph | 事件 | 世界 | Commons |
 | 1932 | [White Angel Breadline, San Francisco, 1932, by Dorothea Lange, 3](auto-66e78ded.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1932 | [White Angel Breadline, San Francisco, 1932, by Dorothea Lange, 4](auto-8af63f17.md) | photograph | 街巷 | 北美 | 维基共享资源 |
-| 1933 | [School for Aboriginal Children in Nanō](auto-f0880fcd.md) | photograph | 面孔 | 大洋洲 | 维基共享资源 |
+| 1932 | [加州理工學院 · 影像 1](today-08-02-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [加州理工學院 · 影像 2](today-08-02-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [加州理工學院 · 影像 3](today-08-02-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [加州理工學院 · 影像 4](today-08-02-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [加州理工學院 · 影像 5](today-08-02-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [加州理工學院 · 影像 6](today-08-02-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [无线电城音乐厅 · 影像 1](today-12-27-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [无线电城音乐厅 · 影像 2](today-12-27-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [无线电城音乐厅 · 影像 3](today-12-27-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [无线电城音乐厅 · 影像 4](today-12-27-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [无线电城音乐厅 · 影像 5](today-12-27-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [无线电城音乐厅 · 影像 6](today-12-27-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [澳大利亚国防军 · 影像 1](today-11-08-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [澳大利亚国防军 · 影像 2](today-11-08-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [澳大利亚国防军 · 影像 3](today-11-08-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [澳大利亚国防军 · 影像 4](today-11-08-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [澳大利亚国防军 · 影像 5](today-11-08-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1932 | [澳大利亚国防军 · 影像 6](today-11-08-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [Early construction of the Golden Gate Bridge over Fort Point](auto-06c36db3.md) | photograph | 街巷 | 北美 | 维基共享资源 |
+| 1933 | [First 8-cubic yard batch of concrete being placed in Boulder Dam - NARA - 293883](auto-2aca5425.md) | photograph | 劳作 | 北美 | 维基共享资源 |
+| 1933 | [School for Aboriginal Children in Nanō](auto-f0880fcd.md) | photograph | 面孔 | 中国 | 维基共享资源 |
 | 1933 | [View of Ginza in 1930s](auto-b1939810.md) | photograph | 风景 | 东亚 | 维基共享资源 |
+| 1933 | [德國國會大廈 · 影像 1](today-02-27-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [德國國會大廈 · 影像 2](today-02-27-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [德國國會大廈 · 影像 3](today-02-27-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [德國國會大廈 · 影像 4](today-02-27-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [德國國會大廈 · 影像 5](today-02-27-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [德國國會大廈 · 影像 6](today-02-27-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [破坏行动 · 影像 1](today-10-10-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [破坏行动 · 影像 2](today-10-10-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [破坏行动 · 影像 3](today-10-10-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [破坏行动 · 影像 4](today-10-10-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [破坏行动 · 影像 5](today-10-10-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [破坏行动 · 影像 6](today-10-10-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [遊騎兵號航空母艦 (CV-4) · 影像 1](today-02-25-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [遊騎兵號航空母艦 (CV-4) · 影像 2](today-02-25-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [遊騎兵號航空母艦 (CV-4) · 影像 3](today-02-25-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [遊騎兵號航空母艦 (CV-4) · 影像 4](today-02-25-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [遊騎兵號航空母艦 (CV-4) · 影像 5](today-02-25-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1933 | [遊騎兵號航空母艦 (CV-4) · 影像 6](today-02-25-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1934 | [Arizona Intake Towers Spillway 1934](auto-76855282.md) | photograph | 劳作 | 北美 | 维基共享资源 |
+| 1934 | [Construction Intake Towers Hoover Dam 1934](auto-7bf25fe9.md) | photograph | 劳作 | 北美 | 维基共享资源 |
 | 1934 | [Shanghai Bund seen from the French Concession](auto-3a8a56c0.md) | postcard | 街巷 | 中国 | 维基共享资源 |
+| 1934 | [恩里科·费米 · 影像 1](today-03-25-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1934 | [恩里科·费米 · 影像 2](today-03-25-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1934 | [恩里科·费米 · 影像 3](today-03-25-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1934 | [恩里科·费米 · 影像 4](today-03-25-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1934 | [恩里科·费米 · 影像 5](today-03-25-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1934 | [恩里科·费米 · 影像 6](today-03-25-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1934 | [纽约三角内衣工厂火灾 · 影像 1](today-03-25-alt1.md) | photograph | 事件 | 世界 | Commons |
+| 1934 | [纽约三角内衣工厂火灾 · 影像 2](today-03-25-alt2.md) | photograph | 事件 | 世界 | Commons |
+| 1934 | [纽约三角内衣工厂火灾 · 影像 3](today-03-25-alt3.md) | photograph | 事件 | 世界 | Commons |
+| 1934 | [纽约三角内衣工厂火灾 · 影像 4](today-03-25-alt4.md) | photograph | 事件 | 世界 | Commons |
+| 1934 | [纽约三角内衣工厂火灾 · 影像 5](today-03-25-alt5.md) | photograph | 事件 | 世界 | Commons |
+| 1934 | [纽约三角内衣工厂火灾 · 影像 6](today-03-25-alt6.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [Construction of the Golden Gate Bridge 3c22793u](auto-9da87c55.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1935 | [Dust-storm-Texas-1935 (cropped)](auto-72271429.md) | photograph | 街巷 | 北美 | 维基共享资源 |
+| 1935 | [Fort Point, the Golden Gate bridge construction, and Crissy Field](auto-b6b6526d.md) | photograph | 街巷 | 北美 | 维基共享资源 |
+| 1935 | [Hoover Dam 1935](auto-5cd23f0c.md) | photograph | 劳作 | 北美 | 维基共享资源 |
+| 1935 | [Hoover Dæmning, 1935](auto-7792a971.md) | photograph | 劳作 | 北美 | 维基共享资源 |
+| 1935 | [Intake Towers Hoover Dam Lake Mead 1935](auto-6450a0cf.md) | photograph | 劳作 | 北美 | 维基共享资源 |
 | 1935 | [Sikh gurdwara at Makindu, Kenya, 1935](auto-a217a815.md) | photograph | 战火 | 撒哈拉以南非洲 | 维基共享资源 |
 | 1935 | [Soba-Noodles-Deliveryman-Tokyo-1935](auto-5c9dcb88.md) | photograph | 街巷 | 东亚 | 维基共享资源 |
+| 1935 | [格蘭特公園音樂節 · 影像 1](today-07-01-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [格蘭特公園音樂節 · 影像 2](today-07-01-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [格蘭特公園音樂節 · 影像 3](today-07-01-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [格蘭特公園音樂節 · 影像 4](today-07-01-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [格蘭特公園音樂節 · 影像 5](today-07-01-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [格蘭特公園音樂節 · 影像 6](today-07-01-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [納粹德國 · 影像 1](today-09-15-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [納粹德國 · 影像 2](today-09-15-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [納粹德國 · 影像 3](today-09-15-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [納粹德國 · 影像 4](today-09-15-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [納粹德國 · 影像 5](today-09-15-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [納粹德國 · 影像 6](today-09-15-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [達文特里 · 影像 1](today-02-26-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [達文特里 · 影像 2](today-02-26-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [達文特里 · 影像 3](today-02-26-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [達文特里 · 影像 4](today-02-26-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [達文特里 · 影像 5](today-02-26-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1935 | [達文特里 · 影像 6](today-02-26-img6.md) | photograph | 事件 | 世界 | Commons |
 | 1936 | [Cafe Street, Kouenji, 01,1936](auto-fc9ad8cd.md) | photograph | 街巷 | 东亚 | 维基共享资源 |
 | 1936 | [Christian woman in a wedding dress, Palestine, 1936](auto-8be229b5.md) | photograph | 面孔 | 西亚·北非 | 维基共享资源 |
 | 1936 | [Dust Bowl - Dallas, South Dakota 1936](auto-2efbc131.md) | photograph | 灾变 | 北美 | 维基共享资源 |
@@ -57,15 +148,23 @@
 | 1936 | [Dust bowl, Texas Panhandle, TX fsa.8b27276 edit](auto-5a69c32f.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1936 | [Dust storm, Amarillo, Texas, 8b27554a (retouched)(2)](auto-83d17332.md) | photograph | 灾变 | 北美 | 维基共享资源 |
 | 1936 | [Farmer walking in dust storm Cimarron County Oklahoma2](auto-c448c198.md) | photograph | 灾变 | 北美 | 维基共享资源 |
+| 1936 | [Golden Gate Bridge under construction 3c00678u](auto-48d4bc0c.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1936 | [Heavy black clouds of dust rising over](auto-13ff8082.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1936 | [Horacio Coppola - Buenos Aires 1936 - Florida 2](auto-cb523fb7.md) | photograph | 街巷 | 中南美 | 维基共享资源 |
 | 1936 | [Horacio Coppola - Buenos Aires 1936 - Florida y Corrientes](auto-e1d85891.md) | photograph | 街巷 | 中南美 | 维基共享资源 |
 | 1936 | [Horacio Coppola - Buenos Aires 1936 - Rivadavia y Misiones](auto-c0dce706.md) | photograph | 街巷 | 中南美 | 维基共享资源 |
 | 1936 | [Oklahoman boy during the Dust Bowl era](auto-1c8b5c60.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
+| 1936 | [Photograph of Golden Gate Bridge construction](auto-d1332868.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1936 | [Photograph of Quinaielt Indian Johnnie](auto-c61b848f.md) | photograph | 街巷 | 南亚 | 维基共享资源 |
 | 1936 | [Son of farmer in dust bowl area, Cimarron County, Oklahoma, 8b38282](auto-51212dc0.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1936 | [Son of farmer in dust bowl area, Cimarron County, Oklahoma, 8b38282, original](auto-fb033607.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1936 | [Zanzibar 1900 to 1920](auto-54f2ff83.md) | photograph | 街巷 | 撒哈拉以南非洲 | 维基共享资源 |
+| 1936 | [加拿大國家維米紀念碑 · 影像 1](today-07-26-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1936 | [加拿大國家維米紀念碑 · 影像 2](today-07-26-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1936 | [加拿大國家維米紀念碑 · 影像 3](today-07-26-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1936 | [加拿大國家維米紀念碑 · 影像 4](today-07-26-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1936 | [加拿大國家維米紀念碑 · 影像 5](today-07-26-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1936 | [加拿大國家維米紀念碑 · 影像 6](today-07-26-img6.md) | photograph | 事件 | 世界 | Commons |
 | 1936 | [移民母亲](commons-1936-migrant.md) | photograph | 面孔 | 北美 | 维基共享资源 |
 | 1937 | [A full house, seen from the rear of the stage, at the Metropolitan Opera House for a concert by pianist Josef Hofmann, 1 - NARA - 541890](auto-310f603a.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
 | 1937 | [Broke, baby sick, and car trouble! - Dorothea Langes photo of a Missouri family of five in the vicinity of Tracy, California](auto-a7ed8682.md) | photograph | 面孔 | 北美 | 维基共享资源 |
@@ -79,10 +178,30 @@
 | 1937 | [Hindenburg disaster, 1937](auto-3275eb16.md) | photograph | 灾变 | 跨地域 | 维基共享资源 |
 | 1937 | [Hindenburg wreckage 1937](auto-a15ccda9.md) | photograph | 灾变 | 跨地域 | 维基共享资源 |
 | 1937 | [Hindenburg wreckage closeup 1937](auto-0943f0b8.md) | photograph | 灾变 | 跨地域 | 维基共享资源 |
+| 1937 | [Invitation to Golden Gate Bridge opening, 1937](auto-55483899.md) | photograph | 街巷 | 北美 | 维基共享资源 |
+| 1937 | [PBY-1 Catalinas of VP-9 over the Golden Gate Bridge in May 1937](auto-b060d10c.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1937 | [Scott's Run, West Virginia. (Unemployed miner.) - NARA - 518414](auto-d720c6f9.md) | photograph | 劳作 | 北美 | 维基共享资源 |
 | 1937 | [Some of the Hindenburg crew after the disaster 1937](auto-4a68fce2.md) | photograph | 灾变 | 跨地域 | 维基共享资源 |
+| 1937 | [牛津大学王后学院 · 影像 1](today-10-05-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1937 | [牛津大学王后学院 · 影像 2](today-10-05-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1937 | [牛津大学王后学院 · 影像 3](today-10-05-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1937 | [牛津大学王后学院 · 影像 4](today-10-05-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1937 | [牛津大学王后学院 · 影像 5](today-10-05-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1937 | [牛津大学王后学院 · 影像 6](today-10-05-img6.md) | photograph | 事件 | 世界 | Commons |
+| 1937 | [芝加哥公立學校 · 影像 1](today-09-13-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1937 | [芝加哥公立學校 · 影像 2](today-09-13-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1937 | [芝加哥公立學校 · 影像 3](today-09-13-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1937 | [芝加哥公立學校 · 影像 4](today-09-13-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1937 | [芝加哥公立學校 · 影像 5](today-09-13-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1937 | [芝加哥公立學校 · 影像 6](today-09-13-img6.md) | photograph | 事件 | 世界 | Commons |
 | 1938 | [(Dancers in a jazz club, Washington, D.C., between 1938 and 1948) (LOC) (4843739336) (cropped)](auto-41b6631c.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1938 | [Kennedy family portrait photograph (KFC-008-019-p0001)](auto-f3fa1dd6.md) | photograph | 面孔 | 跨地域 | 维基共享资源 |
+| 1938 | [英国广播公司 · 影像 1](today-02-11-img1.md) | photograph | 事件 | 世界 | Commons |
+| 1938 | [英国广播公司 · 影像 2](today-02-11-img2.md) | photograph | 事件 | 世界 | Commons |
+| 1938 | [英国广播公司 · 影像 3](today-02-11-img3.md) | photograph | 事件 | 世界 | Commons |
+| 1938 | [英国广播公司 · 影像 4](today-02-11-img4.md) | photograph | 事件 | 世界 | Commons |
+| 1938 | [英国广播公司 · 影像 5](today-02-11-img5.md) | photograph | 事件 | 世界 | Commons |
+| 1938 | [英国广播公司 · 影像 6](today-02-11-img6.md) | photograph | 事件 | 世界 | Commons |
 | 1939 | [Customer making a purchase in a grocery shop during the Second World War. D2374](auto-00199151.md) | photograph | 战火 | 跨地域 | 维基共享资源 |
 | 1939 | [Dummy landing craft used as decoys in south-eastern harbours in the period before D-Day, 1944. H42527](auto-832334b4.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
 | 1939 | [Francisco Franco 1930](auto-25d35913.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |

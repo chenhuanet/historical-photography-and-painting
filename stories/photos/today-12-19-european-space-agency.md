@@ -21,32 +21,28 @@ sources:
   url: https://commons.wikimedia.org/wiki/File:Columbus_module_delivered_to_KSC.jpg
 chapters:
 - title: 缘起
-  text: ESA目前共有19个成员国：奥地利、比利时、捷克、丹麦、芬兰、法国、德国、希腊、爱尔兰、意大利、卢森堡、荷兰、挪威、葡萄牙、西班牙、瑞典、瑞士、罗马尼亚以及英国；另外，加拿大是ESA的准成员国（Associate
-    Member）。法国是其主要贡献者（参见法国国家空间研究中心）。ESA并非隶属欧盟的机构。欧盟辖下另有欧盟卫星中心（European Union Satellite
-    Centre）。 ESA的航天发射中心位于南美洲北部大西洋海岸的法属圭亚那，占地约690平方公里，属法国国家空间研究中心领导，主要负责科学卫星、应用卫星和探空火箭的发射以及与此有关的一些运载火箭的试验和发射。由于此地靠近赤道，对火箭发射具有很大益处：纬度低，从发射点到入轨点的航程大大缩短，三子级不必二次启动；相同发射方位角的轨道倾角小，远地点变轨所需要的能量小，增加了同步轨道的有效载荷；向北和向东的海面上有一个很宽的发射弧度；人口、交通、气象条件理想等。目前，航天中心有阿里安第一、第二、第三发射场，是欧洲航天活动的主要基地。控制中心则位于德国的达姆施塔特。
-    中国大陆译为“欧洲空间局”；台湾则译为“欧洲太空总署”；香港主流使用“欧洲太空总署”译名，但有部分媒体译为“欧洲航天局”。
+  text: ESA目前共有19个成员国：奥地利、比利时、捷克、丹麦、芬兰、法国、德国、希腊、爱尔兰、意大利、卢森堡、荷兰、挪威、葡萄牙、西班牙、瑞典、瑞士、罗马尼亚以及英国；另外，加拿大是ESA的准成员国（Associate Member）。法国是其主要贡献者（参见法国国家空间研究中心）。ESA并非隶属欧盟的机构。欧盟辖下另有欧盟卫星中心（European Union Satellite Centre）。 ESA的航天发射中心位于南美洲北部大西洋海岸的法属圭亚那，占地约690平方公里，属法国国家空间研究中心领导，主要负责科学卫星、应用卫星和探空火箭的发射以及与此有关的一些运载火箭的试验和发射。由于此地靠近赤道，对火箭发射具有很大益处：纬度低，从发射点到入轨点的航程大大缩短，三子级不必二次启动；相同发射方位角的轨道倾角小，远地点变轨所需要的能量小，增加了同步轨道的有效载荷；向北和向东的海面上有一个很宽的发射弧度；人口、交通、气象条件理想等。目前，航天中心有阿里安第一、第二、第三发射场，是欧洲航天活动的主要基地。控制中心则位于德国的达姆施塔特。 中国大陆译为“欧洲空间局”；中国台湾地区则译为“欧洲太空总署”；香港主流使用“欧洲太空总署”译名，但有部分媒体译为“欧洲航天局”。
   items:
   - id: today-12-19-img1
     caption: 欧洲空间局 · 影像 1
   - id: today-12-19-img2
     caption: 欧洲空间局 · 影像 2
 - title: 现场
-  text: 哥伦布实验舱（Columbus orbital facility） - 国际空间站的一个科学实验室 ATV - 即自动运载飞船（Automated
-    Transfer vehicle），一种可与国际空间站的进步号航天器（Progress spacecraft）相比的空间货船。
+  text: 哥伦布实验舱（Columbus orbital facility） - 国际空间站的一个科学实验室 ATV - 即自动运载飞船（Automated Transfer vehicle），一种可与国际空间站的进步号航天器（Progress spacecraft）相比的空间货船。
   items:
   - id: today-12-19-img3
     caption: 欧洲空间局 · 影像 3
   - id: today-12-19-img4
     caption: 欧洲空间局 · 影像 4
 - title: 余波
-  text: 伽利略定位系统（Galileo positioning system） - 卫星定位系统 罗塞塔号航天探测器（Rosetta space probe）
-    - 2004年发射的彗星探测器
+  text: 伽利略定位系统（Galileo positioning system） - 卫星定位系统 罗塞塔号航天探测器（Rosetta space probe） - 2004年发射的彗星探测器
   items:
   - id: today-12-19-img5
     caption: 欧洲空间局 · 影像 5
   - id: today-12-19-img6
     caption: 欧洲空间局 · 影像 6
 ---
+
 
 欧洲空间局（法语：Agence spatiale européenne，缩写：ASE；英语：European Space Agency，缩写：ESA）是由欧洲数国政府组成的国际空间探测和开发组织，总部设在法国首都巴黎。 欧洲空间局的前身，欧洲航天研究组织（European Space Research Organization，ESRO）经过1962年6月14日签署的一项协议，于1964年3月20日建立。如今它仍旧是ESA的一部分，称为欧洲空间研究与技术中心，位于荷兰诺德韦克。
 

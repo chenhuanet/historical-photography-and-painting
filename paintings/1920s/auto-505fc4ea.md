@@ -5,6 +5,8 @@ content_type: painting
 type_evidence: 画面为油画；题名/作者
 review_status: clean
 title: Ivan Žabota - Portret starca
+title_zh: 老人肖像
+title_en: Portrait of an Old Man
 year: 1920
 date_label: '1920'
 era: 20世纪
@@ -18,15 +20,25 @@ place: 跨地域
 china: false
 creator: Ivan Žabota
 creator_status: named
+creator_zh: 伊万·扎博塔
+creator_en: Ivan Žabota
+movement: 现实主义
+movement_en: Realism
+dimensions: 未著录
+dimensions_en: Not recorded
+holding: 未著录
+holding_en: Not recorded
 source: Wikimedia Commons
 source_short: 维基共享资源
 source_url: https://commons.wikimedia.org/wiki/File:Ivan_%C5%BDabota_-_Portret_starca.jpg
 page_url: https://commons.wikimedia.org/wiki/File:Ivan_%C5%BDabota_-_Portret_starca.jpg
 page_url_basis: 维基共享资源文件页
 license: Public domain
+license_status: pd
 license_raw: null
 license_url: https://commons.wikimedia.org/wiki/Commons:Licensing
 tier: L0
+curation_tier: archive
 rights_status: PD
 commercial_ok: true
 usage_code: U1
@@ -78,4 +90,4 @@ topic_note: 人工按题名/画面复核校正
 
 ![Ivan Žabota - Portret starca](https://20century.chenhua.net/paintings/1920s/auto-505fc4ea-4c865374.jpg)
 
-1920，跨地域。Ivan Žabota；来源：维基共享资源，馆藏编号 File:Ivan Žabota - Portret starca.jpg。这是一张摄影影像。
+《老人肖像》是伊万·扎博塔约1920年的现实主义作品，现藏信息待考。画面以“老人肖像”为题，属于斯拉夫的油画传统，可作为同时代绘画的参照。

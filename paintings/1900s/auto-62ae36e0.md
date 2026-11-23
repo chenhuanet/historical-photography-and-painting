@@ -5,6 +5,8 @@ content_type: painting
 type_evidence: 画面为水彩；题名/作者
 review_status: clean
 title: Heinrich Hermann - Cape Town from the Top of Kloof Street
+title_zh: 从克洛夫街高处看开普敦
+title_en: Cape Town from the Top of Kloof Street
 year: 1900
 date_label: '1900'
 era: 20世纪
@@ -18,15 +20,25 @@ place: 撒哈拉以南非洲
 china: false
 creator: Heinrich Hermann (1842 - 1916)
 creator_status: named
+creator_zh: 海因里希·赫尔曼
+creator_en: Heinrich Hermann
+movement: 殖民地地形水彩
+movement_en: Colonial topographical watercolour
+dimensions: 未著录
+dimensions_en: Not recorded
+holding: 未著录
+holding_en: Not recorded
 source: Wikimedia Commons
 source_short: 维基共享资源
 source_url: https://commons.wikimedia.org/wiki/File:Heinrich_Hermann_-_Cape_Town_from_the_Top_of_Kloof_Street_-_Google_Art_Project.jpg
 page_url: https://commons.wikimedia.org/wiki/File:Heinrich_Hermann_-_Cape_Town_from_the_Top_of_Kloof_Street_-_Google_Art_Project.jpg
 page_url_basis: 维基共享资源文件页
 license: Public domain
+license_status: pd
 license_raw: Public domain
 license_url: https://commons.wikimedia.org/wiki/Commons:Licensing
 tier: L0
+curation_tier: archive
 rights_status: PD
 commercial_ok: true
 usage_code: U1
@@ -79,4 +91,4 @@ title_note: 按源站文件名/题名补全
 
 ![Heinrich Hermann - Cape Town from the Top of Kloof Street](https://20century.chenhua.net/paintings/1900s/auto-62ae36e0-847e524a.jpg)
 
-1900，撒哈拉以南非洲。Heinrich Hermann (1842 - 1916)；来源：维基共享资源，馆藏编号 File:Heinrich Hermann - Cape Town from the Top of Kloof Street - Google Art Project.jpg。这是一张摄影影像。
+《从克洛夫街高处看开普敦》是海因里希·赫尔曼约1900年的殖民地地形水彩作品，现藏信息待考。画面以“从克洛夫街高处看开普敦”为题，属于开普敦的水彩传统，可作为同时代绘画的参照。

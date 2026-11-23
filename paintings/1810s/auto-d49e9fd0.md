@@ -5,6 +5,8 @@ content_type: painting
 type_evidence: 题名 Still Life；作者 Raphaelle Peale 为画家；源站文件页
 review_status: clean
 title: Still life with orange and book
+title_zh: 《橙与书》静物
+title_en: Still Life with Orange and Book
 year: 1815
 date_label: '1815'
 era: 19世纪
@@ -18,15 +20,25 @@ place: 跨地域
 china: false
 creator: Raphaelle Peale
 creator_status: named
+creator_zh: 拉斐尔·皮尔
+creator_en: Raphaelle Peale
+movement: 美国静物画
+movement_en: American still life
+dimensions: 未著录
+dimensions_en: Not recorded
+holding: 未著录
+holding_en: Not recorded
 source: Wikimedia Commons
 source_short: 维基共享资源
 source_url: https://commons.wikimedia.org/wiki/File:Still_life_with_orange_and_book-raphaelle_peale.JPG
 page_url: https://commons.wikimedia.org/wiki/File:Still_life_with_orange_and_book-raphaelle_peale.JPG
 page_url_basis: 维基共享资源文件页
 license: Public domain
+license_status: pd
 license_raw: null
 license_url: https://commons.wikimedia.org/wiki/Commons:Licensing
 tier: L0
+curation_tier: extension
 rights_status: PD
 commercial_ok: true
 usage_code: U1
@@ -75,4 +87,4 @@ title_note: 题名按源站对象页清理
 
 ![Still life with orange and book](https://19century.chenhua.net/paintings/1810s/auto-d49e9fd0-31a6f0d2.jpg)
 
-1815，跨地域。Raphaelle Peale；来源：维基共享资源，馆藏编号 File:Still life with orange and book-raphaelle peale.JPG。这是一幅绘画作品。
+《橙与书》静物》是拉斐尔·皮尔约1815年的美国静物画作品，现藏信息待考。画面以“橙与书》静物”为题，属于美国的绘画传统，可作为同时代绘画的参照。

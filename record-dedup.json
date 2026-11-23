@@ -1,0 +1,1930 @@
+{
+ "version": 1,
+ "rule": "identical image URL; stable canonical by non-today id, sha256, id",
+ "stats": {
+  "groups": 157,
+  "duplicates": 409,
+  "canonical": 157
+ },
+ "groups": [
+  {
+   "canonical": "today-12-28-img2",
+   "duplicates": [
+    "today-01-15-alt2",
+    "today-01-15-img2",
+    "today-01-23-img5",
+    "today-02-02-img5",
+    "today-02-08-img1",
+    "today-02-16-img1",
+    "today-03-14-img1",
+    "today-03-19-img1",
+    "today-03-22-img2",
+    "today-05-03-img1",
+    "today-05-16-img3",
+    "today-06-12-img1",
+    "today-06-18-img4",
+    "today-07-06-img1",
+    "today-07-28-img4",
+    "today-08-12-img1",
+    "today-08-22-img1",
+    "today-08-27-img2",
+    "today-09-02-alt5",
+    "today-09-02-img4",
+    "today-09-16-img1",
+    "today-09-28-img3",
+    "today-11-24-img2",
+    "today-11-29-img1",
+    "today-12-01-img1"
+   ],
+   "title": "印尼亚洲航空8501号班机空难 · 影像 2",
+   "year": 2014
+  },
+  {
+   "canonical": "today-09-14-img1",
+   "duplicates": [
+    "today-01-05-img1",
+    "today-01-23-img1",
+    "today-01-26-img1",
+    "today-03-04-img3",
+    "today-03-07-img4",
+    "today-03-08-img3",
+    "today-03-13-img2",
+    "today-04-20-img1",
+    "today-05-10-img1",
+    "today-05-12-img1",
+    "today-05-17-img1",
+    "today-07-04-img1",
+    "today-08-05-img1",
+    "today-08-06-img1",
+    "today-08-20-img2",
+    "today-08-28-img1",
+    "today-09-09-img1"
+   ],
+   "title": "激光干涉引力波天文台 · 影像 1",
+   "year": 2015
+  },
+  {
+   "canonical": "today-12-12-img1",
+   "duplicates": [
+    "today-01-18-img1",
+    "today-02-19-img1",
+    "today-03-27-img1",
+    "today-04-09-img1",
+    "today-05-04-img1",
+    "today-05-05-img1",
+    "today-07-13-img1",
+    "today-08-09-img1",
+    "today-09-25-img1",
+    "today-10-19-img1",
+    "today-11-04-img1",
+    "today-11-14-img1",
+    "today-11-19-img1",
+    "today-11-27-img1",
+    "today-11-30-img1",
+    "today-12-02-img1",
+    "today-12-07-img1"
+   ],
+   "title": "第二次世界大战 · 影像 1",
+   "year": 1942
+  },
+  {
+   "canonical": "today-12-12-img2",
+   "duplicates": [
+    "today-01-18-img2",
+    "today-02-19-img2",
+    "today-03-27-img2",
+    "today-04-09-img2",
+    "today-05-04-img2",
+    "today-05-05-img2",
+    "today-07-13-img2",
+    "today-08-09-img2",
+    "today-09-25-img2",
+    "today-10-19-img2",
+    "today-11-04-img2",
+    "today-11-14-img2",
+    "today-11-19-img2",
+    "today-11-27-img2",
+    "today-11-30-img2",
+    "today-12-02-img2",
+    "today-12-07-img2"
+   ],
+   "title": "第二次世界大战 · 影像 2",
+   "year": 1942
+  },
+  {
+   "canonical": "today-12-12-img3",
+   "duplicates": [
+    "today-01-18-img3",
+    "today-02-19-img3",
+    "today-03-27-img3",
+    "today-04-09-img3",
+    "today-05-04-img3",
+    "today-05-05-img3",
+    "today-07-13-img3",
+    "today-08-09-img3",
+    "today-09-25-img3",
+    "today-10-19-img3",
+    "today-11-04-img3",
+    "today-11-14-img3",
+    "today-11-19-img3",
+    "today-11-27-img3",
+    "today-11-30-img3",
+    "today-12-02-img3",
+    "today-12-07-img3"
+   ],
+   "title": "第二次世界大战 · 影像 3",
+   "year": 1942
+  },
+  {
+   "canonical": "today-12-12-img4",
+   "duplicates": [
+    "today-01-18-img4",
+    "today-02-19-img4",
+    "today-03-27-img4",
+    "today-04-09-img4",
+    "today-05-04-img4",
+    "today-05-05-img4",
+    "today-07-13-img4",
+    "today-08-09-img4",
+    "today-09-25-img4",
+    "today-10-19-img4",
+    "today-11-04-img4",
+    "today-11-14-img4",
+    "today-11-19-img4",
+    "today-11-27-img4",
+    "today-11-30-img4",
+    "today-12-02-img4",
+    "today-12-07-img4"
+   ],
+   "title": "第二次世界大战 · 影像 4",
+   "year": 1942
+  },
+  {
+   "canonical": "today-12-12-img5",
+   "duplicates": [
+    "today-01-18-img5",
+    "today-02-19-img5",
+    "today-03-27-img5",
+    "today-04-09-img5",
+    "today-05-04-img5",
+    "today-05-05-img5",
+    "today-07-13-img5",
+    "today-08-09-img5",
+    "today-09-25-img5",
+    "today-10-19-img5",
+    "today-11-04-img5",
+    "today-11-14-img5",
+    "today-11-19-img5",
+    "today-11-27-img5",
+    "today-11-30-img5",
+    "today-12-02-img5",
+    "today-12-07-img5"
+   ],
+   "title": "第二次世界大战 · 影像 5",
+   "year": 1942
+  },
+  {
+   "canonical": "today-12-12-img6",
+   "duplicates": [
+    "today-01-18-img6",
+    "today-02-19-img6",
+    "today-03-27-img6",
+    "today-04-09-img6",
+    "today-05-04-img6",
+    "today-05-05-img6",
+    "today-07-13-img6",
+    "today-08-09-img6",
+    "today-09-25-img6",
+    "today-10-19-img6",
+    "today-11-04-img6",
+    "today-11-14-img6",
+    "today-11-19-img6",
+    "today-11-27-img6",
+    "today-11-30-img6",
+    "today-12-02-img6",
+    "today-12-07-img6"
+   ],
+   "title": "第二次世界大战 · 影像 6",
+   "year": 1942
+  },
+  {
+   "canonical": "today-11-05-img1",
+   "duplicates": [
+    "today-01-04-img5",
+    "today-01-05-img4",
+    "today-01-22-img2",
+    "today-01-26-img4",
+    "today-03-04-img6",
+    "today-03-08-img6",
+    "today-05-17-img2",
+    "today-06-27-img3",
+    "today-07-22-img2",
+    "today-08-05-img4",
+    "today-08-06-img2",
+    "today-08-28-img2",
+    "today-09-09-img3",
+    "today-09-14-img2",
+    "today-10-06-img6"
+   ],
+   "title": "印度空间研究组织 · 影像 1",
+   "year": 2013
+  },
+  {
+   "canonical": "today-11-16-img2",
+   "duplicates": [
+    "today-01-31-img3",
+    "today-02-14-img3",
+    "today-02-18-img3",
+    "today-03-10-img3",
+    "today-03-29-img3",
+    "today-04-07-img3",
+    "today-04-17-img3",
+    "today-07-19-img3",
+    "today-08-25-img3",
+    "today-09-05-img3",
+    "today-09-17-img3",
+    "today-09-22-img3"
+   ],
+   "title": "天空实验室4号 · 影像 2",
+   "year": 1973
+  },
+  {
+   "canonical": "today-12-21-img1",
+   "duplicates": [
+    "today-01-31-img1",
+    "today-02-14-img1",
+    "today-02-18-img1",
+    "today-03-10-img1",
+    "today-03-29-img1",
+    "today-04-07-img1",
+    "today-04-17-img1",
+    "today-07-19-img1",
+    "today-08-25-img1",
+    "today-09-05-img1",
+    "today-09-17-img1",
+    "today-09-22-img1"
+   ],
+   "title": "阿波罗8号 · 影像 1",
+   "year": 1968
+  },
+  {
+   "canonical": "today-09-22-img2",
+   "duplicates": [
+    "today-01-31-img2",
+    "today-02-14-img2",
+    "today-02-18-img2",
+    "today-03-10-img2",
+    "today-03-29-img2",
+    "today-04-07-img2",
+    "today-04-17-img2",
+    "today-07-19-img2",
+    "today-08-25-img2",
+    "today-09-05-img2",
+    "today-09-17-img2"
+   ],
+   "title": "美国国家航空航天局 · 影像 2",
+   "year": 2014
+  },
+  {
+   "canonical": "today-09-22-img4",
+   "duplicates": [
+    "today-01-31-img4",
+    "today-02-14-img4",
+    "today-02-18-img4",
+    "today-03-10-img4",
+    "today-03-29-img4",
+    "today-04-07-img4",
+    "today-04-17-img4",
+    "today-07-19-img4",
+    "today-08-25-img4",
+    "today-09-05-img4",
+    "today-09-17-img4"
+   ],
+   "title": "美国国家航空航天局 · 影像 4",
+   "year": 2014
+  },
+  {
+   "canonical": "today-09-22-img5",
+   "duplicates": [
+    "today-01-31-img5",
+    "today-02-14-img5",
+    "today-02-18-img5",
+    "today-03-10-img5",
+    "today-03-29-img5",
+    "today-04-07-img5",
+    "today-04-17-img5",
+    "today-07-19-img5",
+    "today-08-25-img5",
+    "today-09-05-img5",
+    "today-09-17-img5"
+   ],
+   "title": "美国国家航空航天局 · 影像 5",
+   "year": 2014
+  },
+  {
+   "canonical": "today-09-22-img6",
+   "duplicates": [
+    "today-01-31-img6",
+    "today-02-14-img6",
+    "today-02-18-img6",
+    "today-03-10-img6",
+    "today-03-29-img6",
+    "today-04-07-img6",
+    "today-04-17-img6",
+    "today-07-19-img6",
+    "today-08-25-img6",
+    "today-09-05-img6",
+    "today-09-17-img6"
+   ],
+   "title": "美国国家航空航天局 · 影像 6",
+   "year": 2014
+  },
+  {
+   "canonical": "today-10-29-img1",
+   "duplicates": [
+    "today-02-05-img1",
+    "today-06-05-img2",
+    "today-08-31-img3",
+    "today-09-10-img2",
+    "today-09-11-img2",
+    "today-09-20-img6",
+    "today-10-23-img2"
+   ],
+   "title": "颶風桑迪 · 影像 1",
+   "year": 2012
+  },
+  {
+   "canonical": "today-11-22-img3",
+   "duplicates": [
+    "today-03-06-img6",
+    "today-07-31-img6",
+    "today-08-23-img5",
+    "today-10-13-img6"
+   ],
+   "title": "玩具总动员 · 影像 3",
+   "year": 1995
+  },
+  {
+   "canonical": "today-04-01-img2",
+   "duplicates": [
+    "today-01-12-img3",
+    "today-02-03-img2"
+   ],
+   "title": "史蒂夫·乔布斯 · 影像 2",
+   "year": 1976
+  },
+  {
+   "canonical": "today-07-21-img6",
+   "duplicates": [
+    "today-03-18-img6",
+    "today-04-19-img4"
+   ],
+   "title": "第一次世界大战 · 影像 6",
+   "year": 1918
+  },
+  {
+   "canonical": "today-09-09-img2",
+   "duplicates": [
+    "today-01-22-img1",
+    "today-03-13-img3"
+   ],
+   "title": "利克天文台 · 影像 2",
+   "year": 1892
+  },
+  {
+   "canonical": "today-10-13-img1",
+   "duplicates": [
+    "today-03-06-img1",
+    "today-07-31-img1"
+   ],
+   "title": "北爱尔兰问题 · 影像 1",
+   "year": 1994
+  },
+  {
+   "canonical": "today-10-13-img2",
+   "duplicates": [
+    "today-03-06-img2",
+    "today-07-31-img2"
+   ],
+   "title": "北爱尔兰问题 · 影像 2",
+   "year": 1994
+  },
+  {
+   "canonical": "today-10-13-img3",
+   "duplicates": [
+    "today-03-06-img3",
+    "today-07-31-img3"
+   ],
+   "title": "北爱尔兰问题 · 影像 3",
+   "year": 1994
+  },
+  {
+   "canonical": "today-10-13-img4",
+   "duplicates": [
+    "today-03-06-img4",
+    "today-07-31-img4"
+   ],
+   "title": "北爱尔兰问题 · 影像 4",
+   "year": 1994
+  },
+  {
+   "canonical": "today-10-13-img5",
+   "duplicates": [
+    "today-03-06-img5",
+    "today-07-31-img5"
+   ],
+   "title": "北爱尔兰问题 · 影像 5",
+   "year": 1994
+  },
+  {
+   "canonical": "today-11-06-img1",
+   "duplicates": [
+    "today-02-23-img1",
+    "today-08-21-img1"
+   ],
+   "title": "叙利亚内战 · 影像 1",
+   "year": 2016
+  },
+  {
+   "canonical": "today-11-06-img2",
+   "duplicates": [
+    "today-02-23-img2",
+    "today-08-21-img2"
+   ],
+   "title": "叙利亚内战 · 影像 2",
+   "year": 2016
+  },
+  {
+   "canonical": "today-11-06-img3",
+   "duplicates": [
+    "today-02-23-img3",
+    "today-08-21-img3"
+   ],
+   "title": "叙利亚内战 · 影像 3",
+   "year": 2016
+  },
+  {
+   "canonical": "today-11-06-img4",
+   "duplicates": [
+    "today-02-23-img4",
+    "today-08-21-img4"
+   ],
+   "title": "叙利亚内战 · 影像 4",
+   "year": 2016
+  },
+  {
+   "canonical": "today-11-06-img5",
+   "duplicates": [
+    "today-02-23-img5",
+    "today-08-21-img5"
+   ],
+   "title": "叙利亚内战 · 影像 5",
+   "year": 2016
+  },
+  {
+   "canonical": "today-11-06-img6",
+   "duplicates": [
+    "today-02-23-img6",
+    "today-08-21-img6"
+   ],
+   "title": "叙利亚内战 · 影像 6",
+   "year": 2016
+  },
+  {
+   "canonical": "today-11-18-img2",
+   "duplicates": [
+    "today-10-04-img2",
+    "today-11-18-alt2"
+   ],
+   "title": "得克萨斯农工大学 · 影像 2",
+   "year": 1999
+  },
+  {
+   "canonical": "today-11-18-img3",
+   "duplicates": [
+    "today-10-04-img3",
+    "today-11-18-alt3"
+   ],
+   "title": "得克萨斯农工大学 · 影像 3",
+   "year": 1999
+  },
+  {
+   "canonical": "today-11-18-img4",
+   "duplicates": [
+    "today-10-04-img4",
+    "today-11-18-alt4"
+   ],
+   "title": "得克萨斯农工大学 · 影像 4",
+   "year": 1999
+  },
+  {
+   "canonical": "today-11-18-img5",
+   "duplicates": [
+    "today-10-04-img5",
+    "today-11-18-alt6"
+   ],
+   "title": "得克萨斯农工大学 · 影像 5",
+   "year": 1999
+  },
+  {
+   "canonical": "today-12-03-img1",
+   "duplicates": [
+    "today-01-14-img1",
+    "today-08-16-img1"
+   ],
+   "title": "艾維斯·皮禮士利 · 影像 1",
+   "year": 1968
+  },
+  {
+   "canonical": "today-12-03-img2",
+   "duplicates": [
+    "today-01-14-img2",
+    "today-08-16-img2"
+   ],
+   "title": "艾維斯·皮禮士利 · 影像 2",
+   "year": 1968
+  },
+  {
+   "canonical": "today-12-03-img3",
+   "duplicates": [
+    "today-01-14-img3",
+    "today-08-16-img3"
+   ],
+   "title": "艾維斯·皮禮士利 · 影像 3",
+   "year": 1968
+  },
+  {
+   "canonical": "today-12-03-img4",
+   "duplicates": [
+    "today-01-14-img4",
+    "today-08-16-img4"
+   ],
+   "title": "艾維斯·皮禮士利 · 影像 4",
+   "year": 1968
+  },
+  {
+   "canonical": "today-12-03-img5",
+   "duplicates": [
+    "today-01-14-img5",
+    "today-08-16-img5"
+   ],
+   "title": "艾維斯·皮禮士利 · 影像 5",
+   "year": 1968
+  },
+  {
+   "canonical": "today-12-03-img6",
+   "duplicates": [
+    "today-01-14-img6",
+    "today-08-16-img6"
+   ],
+   "title": "艾維斯·皮禮士利 · 影像 6",
+   "year": 1968
+  },
+  {
+   "canonical": "today-12-15-img1",
+   "duplicates": [
+    "today-10-18-img1",
+    "today-12-08-img1"
+   ],
+   "title": "金星7號 · 影像 1",
+   "year": 1970
+  },
+  {
+   "canonical": "today-12-15-img2",
+   "duplicates": [
+    "today-10-18-img2",
+    "today-12-08-img2"
+   ],
+   "title": "金星7號 · 影像 2",
+   "year": 1970
+  },
+  {
+   "canonical": "today-12-15-img6",
+   "duplicates": [
+    "today-10-18-img6",
+    "today-12-08-img5"
+   ],
+   "title": "金星7號 · 影像 6",
+   "year": 1970
+  },
+  {
+   "canonical": "today-12-18-img2",
+   "duplicates": [
+    "today-04-02-img3",
+    "today-11-10-img5"
+   ],
+   "title": "鐵金剛勇破雪山堡 · 影像 2",
+   "year": 1969
+  },
+  {
+   "canonical": "today-12-19-img2",
+   "duplicates": [
+    "today-01-23-img4",
+    "today-11-12-img2"
+   ],
+   "title": "欧洲空间局 · 影像 2",
+   "year": 2013
+  },
+  {
+   "canonical": "today-12-19-img4",
+   "duplicates": [
+    "today-01-23-img6",
+    "today-11-12-img4"
+   ],
+   "title": "欧洲空间局 · 影像 4",
+   "year": 2013
+  },
+  {
+   "canonical": "today-12-27-img2",
+   "duplicates": [
+    "today-06-28-img2",
+    "today-10-26-img1"
+   ],
+   "title": "无线电城音乐厅 · 影像 2",
+   "year": 1932
+  },
+  {
+   "canonical": "today-01-15-img1",
+   "duplicates": [
+    "today-01-15-alt1"
+   ],
+   "title": "全美航空1549號班機事故 · 影像 1",
+   "year": 2009
+  },
+  {
+   "canonical": "today-01-15-img3",
+   "duplicates": [
+    "today-01-15-alt3"
+   ],
+   "title": "全美航空1549號班機事故 · 影像 3",
+   "year": 2009
+  },
+  {
+   "canonical": "today-01-15-img4",
+   "duplicates": [
+    "today-01-15-alt4"
+   ],
+   "title": "全美航空1549號班機事故 · 影像 4",
+   "year": 2009
+  },
+  {
+   "canonical": "today-01-15-img5",
+   "duplicates": [
+    "today-01-15-alt5"
+   ],
+   "title": "全美航空1549號班機事故 · 影像 5",
+   "year": 2009
+  },
+  {
+   "canonical": "today-01-15-img6",
+   "duplicates": [
+    "today-01-15-alt6"
+   ],
+   "title": "全美航空1549號班機事故 · 影像 6",
+   "year": 2009
+  },
+  {
+   "canonical": "today-01-29-img6",
+   "duplicates": [
+    "today-01-29-img5"
+   ],
+   "title": "瓜達爾卡納爾島戰役 · 影像 6",
+   "year": 1943
+  },
+  {
+   "canonical": "today-03-08-img1",
+   "duplicates": [
+    "today-03-04-img1"
+   ],
+   "title": "旅行者1号 · 影像 1",
+   "year": 1979
+  },
+  {
+   "canonical": "today-03-08-img2",
+   "duplicates": [
+    "today-03-04-img2"
+   ],
+   "title": "旅行者1号 · 影像 2",
+   "year": 1979
+  },
+  {
+   "canonical": "today-03-08-img4",
+   "duplicates": [
+    "today-03-04-img4"
+   ],
+   "title": "旅行者1号 · 影像 4",
+   "year": 1979
+  },
+  {
+   "canonical": "today-03-08-img5",
+   "duplicates": [
+    "today-03-04-img5"
+   ],
+   "title": "旅行者1号 · 影像 5",
+   "year": 1979
+  },
+  {
+   "canonical": "today-04-01-img1",
+   "duplicates": [
+    "today-02-03-img1"
+   ],
+   "title": "史蒂夫·乔布斯 · 影像 1",
+   "year": 1976
+  },
+  {
+   "canonical": "today-04-01-img3",
+   "duplicates": [
+    "today-02-03-img3"
+   ],
+   "title": "史蒂夫·乔布斯 · 影像 3",
+   "year": 1976
+  },
+  {
+   "canonical": "today-04-01-img4",
+   "duplicates": [
+    "today-02-03-img4"
+   ],
+   "title": "史蒂夫·乔布斯 · 影像 4",
+   "year": 1976
+  },
+  {
+   "canonical": "today-04-01-img5",
+   "duplicates": [
+    "today-02-03-img5"
+   ],
+   "title": "史蒂夫·乔布斯 · 影像 5",
+   "year": 1976
+  },
+  {
+   "canonical": "today-04-01-img6",
+   "duplicates": [
+    "today-02-03-img6"
+   ],
+   "title": "史蒂夫·乔布斯 · 影像 6",
+   "year": 1976
+  },
+  {
+   "canonical": "today-04-04-img2",
+   "duplicates": [
+    "today-04-04-img1"
+   ],
+   "title": "世界貿易中心工程 · 影像 2",
+   "year": 1973
+  },
+  {
+   "canonical": "today-04-15-img1",
+   "duplicates": [
+    "today-01-21-img1"
+   ],
+   "title": "B-52同溫層堡壘戰略轟炸機 · 影像 1",
+   "year": 1952
+  },
+  {
+   "canonical": "today-04-15-img2",
+   "duplicates": [
+    "today-01-21-img2"
+   ],
+   "title": "B-52同溫層堡壘戰略轟炸機 · 影像 2",
+   "year": 1952
+  },
+  {
+   "canonical": "today-04-15-img3",
+   "duplicates": [
+    "today-01-21-img3"
+   ],
+   "title": "B-52同溫層堡壘戰略轟炸機 · 影像 3",
+   "year": 1952
+  },
+  {
+   "canonical": "today-04-15-img4",
+   "duplicates": [
+    "today-01-21-img4"
+   ],
+   "title": "B-52同溫層堡壘戰略轟炸機 · 影像 4",
+   "year": 1952
+  },
+  {
+   "canonical": "today-04-15-img5",
+   "duplicates": [
+    "today-01-21-img5"
+   ],
+   "title": "B-52同溫層堡壘戰略轟炸機 · 影像 5",
+   "year": 1952
+  },
+  {
+   "canonical": "today-04-15-img6",
+   "duplicates": [
+    "today-01-21-img6"
+   ],
+   "title": "B-52同溫層堡壘戰略轟炸機 · 影像 6",
+   "year": 1952
+  },
+  {
+   "canonical": "today-04-23-img6",
+   "duplicates": [
+    "today-01-10-img1"
+   ],
+   "title": "Sinclair ZX Spectrum · 影像 6",
+   "year": 1982
+  },
+  {
+   "canonical": "today-05-03-img2",
+   "duplicates": [
+    "today-03-14-img2"
+   ],
+   "title": "英國皇家空軍 · 影像 2",
+   "year": 1915
+  },
+  {
+   "canonical": "today-05-03-img3",
+   "duplicates": [
+    "today-03-14-img3"
+   ],
+   "title": "英國皇家空軍 · 影像 3",
+   "year": 1915
+  },
+  {
+   "canonical": "today-05-03-img4",
+   "duplicates": [
+    "today-03-14-img4"
+   ],
+   "title": "英國皇家空軍 · 影像 4",
+   "year": 1915
+  },
+  {
+   "canonical": "today-05-03-img5",
+   "duplicates": [
+    "today-03-14-img5"
+   ],
+   "title": "英國皇家空軍 · 影像 5",
+   "year": 1915
+  },
+  {
+   "canonical": "today-05-03-img6",
+   "duplicates": [
+    "today-03-14-img6"
+   ],
+   "title": "英國皇家空軍 · 影像 6",
+   "year": 1915
+  },
+  {
+   "canonical": "today-05-19-img1",
+   "duplicates": [
+    "today-03-16-img1"
+   ],
+   "title": "美国国会 · 影像 1",
+   "year": 1828
+  },
+  {
+   "canonical": "today-05-19-img2",
+   "duplicates": [
+    "today-03-16-img2"
+   ],
+   "title": "美国国会 · 影像 2",
+   "year": 1828
+  },
+  {
+   "canonical": "today-05-19-img3",
+   "duplicates": [
+    "today-03-16-img3"
+   ],
+   "title": "美国国会 · 影像 3",
+   "year": 1828
+  },
+  {
+   "canonical": "today-05-19-img4",
+   "duplicates": [
+    "today-03-16-img4"
+   ],
+   "title": "美国国会 · 影像 4",
+   "year": 1828
+  },
+  {
+   "canonical": "today-05-19-img5",
+   "duplicates": [
+    "today-03-16-img5"
+   ],
+   "title": "美国国会 · 影像 5",
+   "year": 1828
+  },
+  {
+   "canonical": "today-05-19-img6",
+   "duplicates": [
+    "today-03-16-img6"
+   ],
+   "title": "美国国会 · 影像 6",
+   "year": 1828
+  },
+  {
+   "canonical": "today-05-20-img1",
+   "duplicates": [
+    "today-05-20-alt3"
+   ],
+   "title": "2013年穆尔龙卷风 · 影像 1",
+   "year": 2013
+  },
+  {
+   "canonical": "today-05-20-img3",
+   "duplicates": [
+    "today-05-20-alt5"
+   ],
+   "title": "2013年穆尔龙卷风 · 影像 3",
+   "year": 2013
+  },
+  {
+   "canonical": "today-05-20-img4",
+   "duplicates": [
+    "today-05-20-alt6"
+   ],
+   "title": "2013年穆尔龙卷风 · 影像 4",
+   "year": 2013
+  },
+  {
+   "canonical": "today-06-08-img1",
+   "duplicates": [
+    "today-05-28-img1"
+   ],
+   "title": "福克兰战争 · 影像 1",
+   "year": 1982
+  },
+  {
+   "canonical": "today-06-08-img2",
+   "duplicates": [
+    "today-05-28-img2"
+   ],
+   "title": "福克兰战争 · 影像 2",
+   "year": 1982
+  },
+  {
+   "canonical": "today-06-08-img3",
+   "duplicates": [
+    "today-05-28-img3"
+   ],
+   "title": "福克兰战争 · 影像 3",
+   "year": 1982
+  },
+  {
+   "canonical": "today-06-08-img4",
+   "duplicates": [
+    "today-05-28-img4"
+   ],
+   "title": "福克兰战争 · 影像 4",
+   "year": 1982
+  },
+  {
+   "canonical": "today-06-08-img5",
+   "duplicates": [
+    "today-05-28-img5"
+   ],
+   "title": "福克兰战争 · 影像 5",
+   "year": 1982
+  },
+  {
+   "canonical": "today-06-08-img6",
+   "duplicates": [
+    "today-05-28-img6"
+   ],
+   "title": "福克兰战争 · 影像 6",
+   "year": 1982
+  },
+  {
+   "canonical": "today-06-18-img2",
+   "duplicates": [
+    "today-02-06-img2"
+   ],
+   "title": "F-117夜鷹攻擊機 · 影像 2",
+   "year": 1981
+  },
+  {
+   "canonical": "today-06-19-img1",
+   "duplicates": [
+    "today-04-13-img1"
+   ],
+   "title": "阿富汗戰爭 (2001年—2021年) · 影像 1",
+   "year": 2009
+  },
+  {
+   "canonical": "today-06-19-img2",
+   "duplicates": [
+    "today-04-13-img2"
+   ],
+   "title": "阿富汗戰爭 (2001年—2021年) · 影像 2",
+   "year": 2009
+  },
+  {
+   "canonical": "today-06-19-img3",
+   "duplicates": [
+    "today-04-13-img3"
+   ],
+   "title": "阿富汗戰爭 (2001年—2021年) · 影像 3",
+   "year": 2009
+  },
+  {
+   "canonical": "today-06-19-img4",
+   "duplicates": [
+    "today-04-13-img4"
+   ],
+   "title": "阿富汗戰爭 (2001年—2021年) · 影像 4",
+   "year": 2009
+  },
+  {
+   "canonical": "today-06-19-img5",
+   "duplicates": [
+    "today-04-13-img5"
+   ],
+   "title": "阿富汗戰爭 (2001年—2021年) · 影像 5",
+   "year": 2009
+  },
+  {
+   "canonical": "today-06-19-img6",
+   "duplicates": [
+    "today-04-13-img6"
+   ],
+   "title": "阿富汗戰爭 (2001年—2021年) · 影像 6",
+   "year": 2009
+  },
+  {
+   "canonical": "today-06-27-img1",
+   "duplicates": [
+    "today-01-02-img1"
+   ],
+   "title": "隼鸟2号 · 影像 1",
+   "year": 2018
+  },
+  {
+   "canonical": "today-07-03-img1",
+   "duplicates": [
+    "today-06-16-img1"
+   ],
+   "title": "大卫·鲍伊 · 影像 1",
+   "year": 1973
+  },
+  {
+   "canonical": "today-07-03-img2",
+   "duplicates": [
+    "today-06-16-img2"
+   ],
+   "title": "大卫·鲍伊 · 影像 2",
+   "year": 1973
+  },
+  {
+   "canonical": "today-07-03-img3",
+   "duplicates": [
+    "today-06-16-img3"
+   ],
+   "title": "大卫·鲍伊 · 影像 3",
+   "year": 1973
+  },
+  {
+   "canonical": "today-07-03-img4",
+   "duplicates": [
+    "today-06-16-img4"
+   ],
+   "title": "大卫·鲍伊 · 影像 4",
+   "year": 1973
+  },
+  {
+   "canonical": "today-07-03-img5",
+   "duplicates": [
+    "today-06-16-img5"
+   ],
+   "title": "大卫·鲍伊 · 影像 5",
+   "year": 1973
+  },
+  {
+   "canonical": "today-07-03-img6",
+   "duplicates": [
+    "today-06-16-img6"
+   ],
+   "title": "大卫·鲍伊 · 影像 6",
+   "year": 1973
+  },
+  {
+   "canonical": "today-07-04-img2",
+   "duplicates": [
+    "today-05-10-img2"
+   ],
+   "title": "中国天文学史 · 影像 2",
+   "year": 1054
+  },
+  {
+   "canonical": "today-07-04-img3",
+   "duplicates": [
+    "today-05-10-img3"
+   ],
+   "title": "中国天文学史 · 影像 3",
+   "year": 1054
+  },
+  {
+   "canonical": "today-07-04-img4",
+   "duplicates": [
+    "today-05-10-img4"
+   ],
+   "title": "中国天文学史 · 影像 4",
+   "year": 1054
+  },
+  {
+   "canonical": "today-07-04-img5",
+   "duplicates": [
+    "today-05-10-img5"
+   ],
+   "title": "中国天文学史 · 影像 5",
+   "year": 1054
+  },
+  {
+   "canonical": "today-07-04-img6",
+   "duplicates": [
+    "today-05-10-img6"
+   ],
+   "title": "中国天文学史 · 影像 6",
+   "year": 1054
+  },
+  {
+   "canonical": "today-07-06-img3",
+   "duplicates": [
+    "today-07-06-img2"
+   ],
+   "title": "波音777 · 影像 3",
+   "year": 2013
+  },
+  {
+   "canonical": "today-07-11-img4",
+   "duplicates": [
+    "today-07-11-img3"
+   ],
+   "title": "法国大革命 · 影像 4",
+   "year": 1789
+  },
+  {
+   "canonical": "today-07-21-img1",
+   "duplicates": [
+    "today-03-18-img1"
+   ],
+   "title": "第一次世界大战 · 影像 1",
+   "year": 1918
+  },
+  {
+   "canonical": "today-07-21-img2",
+   "duplicates": [
+    "today-03-18-img2"
+   ],
+   "title": "第一次世界大战 · 影像 2",
+   "year": 1918
+  },
+  {
+   "canonical": "today-07-21-img3",
+   "duplicates": [
+    "today-03-18-img3"
+   ],
+   "title": "第一次世界大战 · 影像 3",
+   "year": 1918
+  },
+  {
+   "canonical": "today-07-21-img4",
+   "duplicates": [
+    "today-03-18-img4"
+   ],
+   "title": "第一次世界大战 · 影像 4",
+   "year": 1918
+  },
+  {
+   "canonical": "today-07-21-img5",
+   "duplicates": [
+    "today-03-18-img5"
+   ],
+   "title": "第一次世界大战 · 影像 5",
+   "year": 1918
+  },
+  {
+   "canonical": "today-07-25-img3",
+   "duplicates": [
+    "today-01-04-img1"
+   ],
+   "title": "維京1號 · 影像 3",
+   "year": 1976
+  },
+  {
+   "canonical": "today-08-18-img6",
+   "duplicates": [
+    "today-08-18-img5"
+   ],
+   "title": "俄国内战 · 影像 6",
+   "year": 1919
+  },
+  {
+   "canonical": "today-08-20-img6",
+   "duplicates": [
+    "today-01-05-img2"
+   ],
+   "title": "冥王星 · 影像 6",
+   "year": 1909
+  },
+  {
+   "canonical": "today-08-23-img2",
+   "duplicates": [
+    "today-01-30-img3"
+   ],
+   "title": "万维网 · 影像 2",
+   "year": 1991
+  },
+  {
+   "canonical": "today-08-31-img5",
+   "duplicates": [
+    "today-08-31-img4"
+   ],
+   "title": "颱風鹿莎 · 影像 5",
+   "year": 2002
+  },
+  {
+   "canonical": "today-09-02-img1",
+   "duplicates": [
+    "today-09-02-alt1"
+   ],
+   "title": "瑞士航空111號班機空難 · 影像 1",
+   "year": 1998
+  },
+  {
+   "canonical": "today-09-02-img2",
+   "duplicates": [
+    "today-09-02-alt2"
+   ],
+   "title": "瑞士航空111號班機空難 · 影像 2",
+   "year": 1998
+  },
+  {
+   "canonical": "today-09-02-img3",
+   "duplicates": [
+    "today-09-02-alt3"
+   ],
+   "title": "瑞士航空111號班機空難 · 影像 3",
+   "year": 1998
+  },
+  {
+   "canonical": "today-09-02-img5",
+   "duplicates": [
+    "today-09-02-alt6"
+   ],
+   "title": "瑞士航空111號班機空難 · 影像 5",
+   "year": 1998
+  },
+  {
+   "canonical": "today-09-04-img1",
+   "duplicates": [
+    "today-06-04-img1"
+   ],
+   "title": "倫敦大火 · 影像 1",
+   "year": 1666
+  },
+  {
+   "canonical": "today-09-06-img1",
+   "duplicates": [
+    "today-02-15-img1"
+   ],
+   "title": "克里斯托弗·哥伦布 · 影像 1",
+   "year": 1492
+  },
+  {
+   "canonical": "today-09-06-img2",
+   "duplicates": [
+    "today-02-15-img2"
+   ],
+   "title": "克里斯托弗·哥伦布 · 影像 2",
+   "year": 1492
+  },
+  {
+   "canonical": "today-09-06-img3",
+   "duplicates": [
+    "today-02-15-img3"
+   ],
+   "title": "克里斯托弗·哥伦布 · 影像 3",
+   "year": 1492
+  },
+  {
+   "canonical": "today-09-06-img4",
+   "duplicates": [
+    "today-02-15-img4"
+   ],
+   "title": "克里斯托弗·哥伦布 · 影像 4",
+   "year": 1492
+  },
+  {
+   "canonical": "today-09-06-img5",
+   "duplicates": [
+    "today-02-15-img5"
+   ],
+   "title": "克里斯托弗·哥伦布 · 影像 5",
+   "year": 1492
+  },
+  {
+   "canonical": "today-09-06-img6",
+   "duplicates": [
+    "today-02-15-img6"
+   ],
+   "title": "克里斯托弗·哥伦布 · 影像 6",
+   "year": 1492
+  },
+  {
+   "canonical": "today-09-08-img5",
+   "duplicates": [
+    "today-08-24-img5"
+   ],
+   "title": "伊丽莎白二世 · 影像 5",
+   "year": 1966
+  },
+  {
+   "canonical": "today-10-22-img1",
+   "duplicates": [
+    "today-10-02-img1"
+   ],
+   "title": "约翰·库利奇·亚当斯 · 影像 1",
+   "year": 1987
+  },
+  {
+   "canonical": "today-10-22-img2",
+   "duplicates": [
+    "today-10-02-img2"
+   ],
+   "title": "约翰·库利奇·亚当斯 · 影像 2",
+   "year": 1987
+  },
+  {
+   "canonical": "today-10-28-img2",
+   "duplicates": [
+    "today-02-05-img5"
+   ],
+   "title": "圣路易斯 (密苏里州) · 影像 2",
+   "year": 1965
+  },
+  {
+   "canonical": "today-10-31-img3",
+   "duplicates": [
+    "today-08-20-img3"
+   ],
+   "title": "冥王星的衛星 · 影像 3",
+   "year": 2005
+  },
+  {
+   "canonical": "today-11-03-img4",
+   "duplicates": [
+    "today-09-01-img5"
+   ],
+   "title": "哥吉拉 (1954年) · 影像 4",
+   "year": 1954
+  },
+  {
+   "canonical": "today-11-13-img1",
+   "duplicates": [
+    "today-02-07-img1"
+   ],
+   "title": "華特·迪士尼 · 影像 1",
+   "year": 1940
+  },
+  {
+   "canonical": "today-11-13-img2",
+   "duplicates": [
+    "today-02-07-img2"
+   ],
+   "title": "華特·迪士尼 · 影像 2",
+   "year": 1940
+  },
+  {
+   "canonical": "today-11-13-img3",
+   "duplicates": [
+    "today-02-07-img3"
+   ],
+   "title": "華特·迪士尼 · 影像 3",
+   "year": 1940
+  },
+  {
+   "canonical": "today-11-13-img4",
+   "duplicates": [
+    "today-02-07-img4"
+   ],
+   "title": "華特·迪士尼 · 影像 4",
+   "year": 1940
+  },
+  {
+   "canonical": "today-11-13-img5",
+   "duplicates": [
+    "today-02-07-img5"
+   ],
+   "title": "華特·迪士尼 · 影像 5",
+   "year": 1940
+  },
+  {
+   "canonical": "today-11-13-img6",
+   "duplicates": [
+    "today-02-07-img6"
+   ],
+   "title": "華特·迪士尼 · 影像 6",
+   "year": 1940
+  },
+  {
+   "canonical": "today-11-18-img1",
+   "duplicates": [
+    "today-10-04-img1"
+   ],
+   "title": "得克萨斯农工大学 · 影像 1",
+   "year": 1999
+  },
+  {
+   "canonical": "today-11-18-img6",
+   "duplicates": [
+    "today-10-04-img6"
+   ],
+   "title": "得克萨斯农工大学 · 影像 6",
+   "year": 1999
+  },
+  {
+   "canonical": "today-12-19-img1",
+   "duplicates": [
+    "today-11-12-img1"
+   ],
+   "title": "欧洲空间局 · 影像 1",
+   "year": 2013
+  },
+  {
+   "canonical": "today-12-19-img3",
+   "duplicates": [
+    "today-11-12-img3"
+   ],
+   "title": "欧洲空间局 · 影像 3",
+   "year": 2013
+  },
+  {
+   "canonical": "today-12-19-img5",
+   "duplicates": [
+    "today-11-12-img5"
+   ],
+   "title": "欧洲空间局 · 影像 5",
+   "year": 2013
+  },
+  {
+   "canonical": "today-12-19-img6",
+   "duplicates": [
+    "today-11-12-img6"
+   ],
+   "title": "欧洲空间局 · 影像 6",
+   "year": 2013
+  },
+  {
+   "canonical": "today-12-31-img1",
+   "duplicates": [
+    "today-06-22-img1"
+   ],
+   "title": "愛爾蘭廣播電視 · 影像 1",
+   "year": 1961
+  },
+  {
+   "canonical": "today-12-31-img2",
+   "duplicates": [
+    "today-06-22-img2"
+   ],
+   "title": "愛爾蘭廣播電視 · 影像 2",
+   "year": 1961
+  },
+  {
+   "canonical": "today-12-31-img3",
+   "duplicates": [
+    "today-06-22-img3"
+   ],
+   "title": "愛爾蘭廣播電視 · 影像 3",
+   "year": 1961
+  },
+  {
+   "canonical": "today-12-31-img4",
+   "duplicates": [
+    "today-06-22-img4"
+   ],
+   "title": "愛爾蘭廣播電視 · 影像 4",
+   "year": 1961
+  },
+  {
+   "canonical": "today-12-31-img5",
+   "duplicates": [
+    "today-06-22-img5"
+   ],
+   "title": "愛爾蘭廣播電視 · 影像 5",
+   "year": 1961
+  },
+  {
+   "canonical": "today-12-31-img6",
+   "duplicates": [
+    "today-06-22-img6"
+   ],
+   "title": "愛爾蘭廣播電視 · 影像 6",
+   "year": 1961
+  }
+ ],
+ "duplicates": {
+  "today-01-02-img1": "today-06-27-img1",
+  "today-01-04-img1": "today-07-25-img3",
+  "today-01-04-img5": "today-11-05-img1",
+  "today-01-05-img1": "today-09-14-img1",
+  "today-01-05-img2": "today-08-20-img6",
+  "today-01-05-img4": "today-11-05-img1",
+  "today-01-10-img1": "today-04-23-img6",
+  "today-01-12-img3": "today-04-01-img2",
+  "today-01-14-img1": "today-12-03-img1",
+  "today-01-14-img2": "today-12-03-img2",
+  "today-01-14-img3": "today-12-03-img3",
+  "today-01-14-img4": "today-12-03-img4",
+  "today-01-14-img5": "today-12-03-img5",
+  "today-01-14-img6": "today-12-03-img6",
+  "today-01-15-alt1": "today-01-15-img1",
+  "today-01-15-alt2": "today-12-28-img2",
+  "today-01-15-alt3": "today-01-15-img3",
+  "today-01-15-alt4": "today-01-15-img4",
+  "today-01-15-alt5": "today-01-15-img5",
+  "today-01-15-alt6": "today-01-15-img6",
+  "today-01-15-img2": "today-12-28-img2",
+  "today-01-18-img1": "today-12-12-img1",
+  "today-01-18-img2": "today-12-12-img2",
+  "today-01-18-img3": "today-12-12-img3",
+  "today-01-18-img4": "today-12-12-img4",
+  "today-01-18-img5": "today-12-12-img5",
+  "today-01-18-img6": "today-12-12-img6",
+  "today-01-21-img1": "today-04-15-img1",
+  "today-01-21-img2": "today-04-15-img2",
+  "today-01-21-img3": "today-04-15-img3",
+  "today-01-21-img4": "today-04-15-img4",
+  "today-01-21-img5": "today-04-15-img5",
+  "today-01-21-img6": "today-04-15-img6",
+  "today-01-22-img1": "today-09-09-img2",
+  "today-01-22-img2": "today-11-05-img1",
+  "today-01-23-img1": "today-09-14-img1",
+  "today-01-23-img4": "today-12-19-img2",
+  "today-01-23-img5": "today-12-28-img2",
+  "today-01-23-img6": "today-12-19-img4",
+  "today-01-26-img1": "today-09-14-img1",
+  "today-01-26-img4": "today-11-05-img1",
+  "today-01-29-img5": "today-01-29-img6",
+  "today-01-30-img3": "today-08-23-img2",
+  "today-01-31-img1": "today-12-21-img1",
+  "today-01-31-img2": "today-09-22-img2",
+  "today-01-31-img3": "today-11-16-img2",
+  "today-01-31-img4": "today-09-22-img4",
+  "today-01-31-img5": "today-09-22-img5",
+  "today-01-31-img6": "today-09-22-img6",
+  "today-02-02-img5": "today-12-28-img2",
+  "today-02-03-img1": "today-04-01-img1",
+  "today-02-03-img2": "today-04-01-img2",
+  "today-02-03-img3": "today-04-01-img3",
+  "today-02-03-img4": "today-04-01-img4",
+  "today-02-03-img5": "today-04-01-img5",
+  "today-02-03-img6": "today-04-01-img6",
+  "today-02-05-img1": "today-10-29-img1",
+  "today-02-05-img5": "today-10-28-img2",
+  "today-02-06-img2": "today-06-18-img2",
+  "today-02-07-img1": "today-11-13-img1",
+  "today-02-07-img2": "today-11-13-img2",
+  "today-02-07-img3": "today-11-13-img3",
+  "today-02-07-img4": "today-11-13-img4",
+  "today-02-07-img5": "today-11-13-img5",
+  "today-02-07-img6": "today-11-13-img6",
+  "today-02-08-img1": "today-12-28-img2",
+  "today-02-14-img1": "today-12-21-img1",
+  "today-02-14-img2": "today-09-22-img2",
+  "today-02-14-img3": "today-11-16-img2",
+  "today-02-14-img4": "today-09-22-img4",
+  "today-02-14-img5": "today-09-22-img5",
+  "today-02-14-img6": "today-09-22-img6",
+  "today-02-15-img1": "today-09-06-img1",
+  "today-02-15-img2": "today-09-06-img2",
+  "today-02-15-img3": "today-09-06-img3",
+  "today-02-15-img4": "today-09-06-img4",
+  "today-02-15-img5": "today-09-06-img5",
+  "today-02-15-img6": "today-09-06-img6",
+  "today-02-16-img1": "today-12-28-img2",
+  "today-02-18-img1": "today-12-21-img1",
+  "today-02-18-img2": "today-09-22-img2",
+  "today-02-18-img3": "today-11-16-img2",
+  "today-02-18-img4": "today-09-22-img4",
+  "today-02-18-img5": "today-09-22-img5",
+  "today-02-18-img6": "today-09-22-img6",
+  "today-02-19-img1": "today-12-12-img1",
+  "today-02-19-img2": "today-12-12-img2",
+  "today-02-19-img3": "today-12-12-img3",
+  "today-02-19-img4": "today-12-12-img4",
+  "today-02-19-img5": "today-12-12-img5",
+  "today-02-19-img6": "today-12-12-img6",
+  "today-02-23-img1": "today-11-06-img1",
+  "today-02-23-img2": "today-11-06-img2",
+  "today-02-23-img3": "today-11-06-img3",
+  "today-02-23-img4": "today-11-06-img4",
+  "today-02-23-img5": "today-11-06-img5",
+  "today-02-23-img6": "today-11-06-img6",
+  "today-03-04-img1": "today-03-08-img1",
+  "today-03-04-img2": "today-03-08-img2",
+  "today-03-04-img3": "today-09-14-img1",
+  "today-03-04-img4": "today-03-08-img4",
+  "today-03-04-img5": "today-03-08-img5",
+  "today-03-04-img6": "today-11-05-img1",
+  "today-03-06-img1": "today-10-13-img1",
+  "today-03-06-img2": "today-10-13-img2",
+  "today-03-06-img3": "today-10-13-img3",
+  "today-03-06-img4": "today-10-13-img4",
+  "today-03-06-img5": "today-10-13-img5",
+  "today-03-06-img6": "today-11-22-img3",
+  "today-03-07-img4": "today-09-14-img1",
+  "today-03-08-img3": "today-09-14-img1",
+  "today-03-08-img6": "today-11-05-img1",
+  "today-03-10-img1": "today-12-21-img1",
+  "today-03-10-img2": "today-09-22-img2",
+  "today-03-10-img3": "today-11-16-img2",
+  "today-03-10-img4": "today-09-22-img4",
+  "today-03-10-img5": "today-09-22-img5",
+  "today-03-10-img6": "today-09-22-img6",
+  "today-03-13-img2": "today-09-14-img1",
+  "today-03-13-img3": "today-09-09-img2",
+  "today-03-14-img1": "today-12-28-img2",
+  "today-03-14-img2": "today-05-03-img2",
+  "today-03-14-img3": "today-05-03-img3",
+  "today-03-14-img4": "today-05-03-img4",
+  "today-03-14-img5": "today-05-03-img5",
+  "today-03-14-img6": "today-05-03-img6",
+  "today-03-16-img1": "today-05-19-img1",
+  "today-03-16-img2": "today-05-19-img2",
+  "today-03-16-img3": "today-05-19-img3",
+  "today-03-16-img4": "today-05-19-img4",
+  "today-03-16-img5": "today-05-19-img5",
+  "today-03-16-img6": "today-05-19-img6",
+  "today-03-18-img1": "today-07-21-img1",
+  "today-03-18-img2": "today-07-21-img2",
+  "today-03-18-img3": "today-07-21-img3",
+  "today-03-18-img4": "today-07-21-img4",
+  "today-03-18-img5": "today-07-21-img5",
+  "today-03-18-img6": "today-07-21-img6",
+  "today-03-19-img1": "today-12-28-img2",
+  "today-03-22-img2": "today-12-28-img2",
+  "today-03-27-img1": "today-12-12-img1",
+  "today-03-27-img2": "today-12-12-img2",
+  "today-03-27-img3": "today-12-12-img3",
+  "today-03-27-img4": "today-12-12-img4",
+  "today-03-27-img5": "today-12-12-img5",
+  "today-03-27-img6": "today-12-12-img6",
+  "today-03-29-img1": "today-12-21-img1",
+  "today-03-29-img2": "today-09-22-img2",
+  "today-03-29-img3": "today-11-16-img2",
+  "today-03-29-img4": "today-09-22-img4",
+  "today-03-29-img5": "today-09-22-img5",
+  "today-03-29-img6": "today-09-22-img6",
+  "today-04-02-img3": "today-12-18-img2",
+  "today-04-04-img1": "today-04-04-img2",
+  "today-04-07-img1": "today-12-21-img1",
+  "today-04-07-img2": "today-09-22-img2",
+  "today-04-07-img3": "today-11-16-img2",
+  "today-04-07-img4": "today-09-22-img4",
+  "today-04-07-img5": "today-09-22-img5",
+  "today-04-07-img6": "today-09-22-img6",
+  "today-04-09-img1": "today-12-12-img1",
+  "today-04-09-img2": "today-12-12-img2",
+  "today-04-09-img3": "today-12-12-img3",
+  "today-04-09-img4": "today-12-12-img4",
+  "today-04-09-img5": "today-12-12-img5",
+  "today-04-09-img6": "today-12-12-img6",
+  "today-04-13-img1": "today-06-19-img1",
+  "today-04-13-img2": "today-06-19-img2",
+  "today-04-13-img3": "today-06-19-img3",
+  "today-04-13-img4": "today-06-19-img4",
+  "today-04-13-img5": "today-06-19-img5",
+  "today-04-13-img6": "today-06-19-img6",
+  "today-04-17-img1": "today-12-21-img1",
+  "today-04-17-img2": "today-09-22-img2",
+  "today-04-17-img3": "today-11-16-img2",
+  "today-04-17-img4": "today-09-22-img4",
+  "today-04-17-img5": "today-09-22-img5",
+  "today-04-17-img6": "today-09-22-img6",
+  "today-04-19-img4": "today-07-21-img6",
+  "today-04-20-img1": "today-09-14-img1",
+  "today-05-03-img1": "today-12-28-img2",
+  "today-05-04-img1": "today-12-12-img1",
+  "today-05-04-img2": "today-12-12-img2",
+  "today-05-04-img3": "today-12-12-img3",
+  "today-05-04-img4": "today-12-12-img4",
+  "today-05-04-img5": "today-12-12-img5",
+  "today-05-04-img6": "today-12-12-img6",
+  "today-05-05-img1": "today-12-12-img1",
+  "today-05-05-img2": "today-12-12-img2",
+  "today-05-05-img3": "today-12-12-img3",
+  "today-05-05-img4": "today-12-12-img4",
+  "today-05-05-img5": "today-12-12-img5",
+  "today-05-05-img6": "today-12-12-img6",
+  "today-05-10-img1": "today-09-14-img1",
+  "today-05-10-img2": "today-07-04-img2",
+  "today-05-10-img3": "today-07-04-img3",
+  "today-05-10-img4": "today-07-04-img4",
+  "today-05-10-img5": "today-07-04-img5",
+  "today-05-10-img6": "today-07-04-img6",
+  "today-05-12-img1": "today-09-14-img1",
+  "today-05-16-img3": "today-12-28-img2",
+  "today-05-17-img1": "today-09-14-img1",
+  "today-05-17-img2": "today-11-05-img1",
+  "today-05-20-alt3": "today-05-20-img1",
+  "today-05-20-alt5": "today-05-20-img3",
+  "today-05-20-alt6": "today-05-20-img4",
+  "today-05-28-img1": "today-06-08-img1",
+  "today-05-28-img2": "today-06-08-img2",
+  "today-05-28-img3": "today-06-08-img3",
+  "today-05-28-img4": "today-06-08-img4",
+  "today-05-28-img5": "today-06-08-img5",
+  "today-05-28-img6": "today-06-08-img6",
+  "today-06-04-img1": "today-09-04-img1",
+  "today-06-05-img2": "today-10-29-img1",
+  "today-06-12-img1": "today-12-28-img2",
+  "today-06-16-img1": "today-07-03-img1",
+  "today-06-16-img2": "today-07-03-img2",
+  "today-06-16-img3": "today-07-03-img3",
+  "today-06-16-img4": "today-07-03-img4",
+  "today-06-16-img5": "today-07-03-img5",
+  "today-06-16-img6": "today-07-03-img6",
+  "today-06-18-img4": "today-12-28-img2",
+  "today-06-22-img1": "today-12-31-img1",
+  "today-06-22-img2": "today-12-31-img2",
+  "today-06-22-img3": "today-12-31-img3",
+  "today-06-22-img4": "today-12-31-img4",
+  "today-06-22-img5": "today-12-31-img5",
+  "today-06-22-img6": "today-12-31-img6",
+  "today-06-27-img3": "today-11-05-img1",
+  "today-06-28-img2": "today-12-27-img2",
+  "today-07-04-img1": "today-09-14-img1",
+  "today-07-06-img1": "today-12-28-img2",
+  "today-07-06-img2": "today-07-06-img3",
+  "today-07-11-img3": "today-07-11-img4",
+  "today-07-13-img1": "today-12-12-img1",
+  "today-07-13-img2": "today-12-12-img2",
+  "today-07-13-img3": "today-12-12-img3",
+  "today-07-13-img4": "today-12-12-img4",
+  "today-07-13-img5": "today-12-12-img5",
+  "today-07-13-img6": "today-12-12-img6",
+  "today-07-19-img1": "today-12-21-img1",
+  "today-07-19-img2": "today-09-22-img2",
+  "today-07-19-img3": "today-11-16-img2",
+  "today-07-19-img4": "today-09-22-img4",
+  "today-07-19-img5": "today-09-22-img5",
+  "today-07-19-img6": "today-09-22-img6",
+  "today-07-22-img2": "today-11-05-img1",
+  "today-07-28-img4": "today-12-28-img2",
+  "today-07-31-img1": "today-10-13-img1",
+  "today-07-31-img2": "today-10-13-img2",
+  "today-07-31-img3": "today-10-13-img3",
+  "today-07-31-img4": "today-10-13-img4",
+  "today-07-31-img5": "today-10-13-img5",
+  "today-07-31-img6": "today-11-22-img3",
+  "today-08-05-img1": "today-09-14-img1",
+  "today-08-05-img4": "today-11-05-img1",
+  "today-08-06-img1": "today-09-14-img1",
+  "today-08-06-img2": "today-11-05-img1",
+  "today-08-09-img1": "today-12-12-img1",
+  "today-08-09-img2": "today-12-12-img2",
+  "today-08-09-img3": "today-12-12-img3",
+  "today-08-09-img4": "today-12-12-img4",
+  "today-08-09-img5": "today-12-12-img5",
+  "today-08-09-img6": "today-12-12-img6",
+  "today-08-12-img1": "today-12-28-img2",
+  "today-08-16-img1": "today-12-03-img1",
+  "today-08-16-img2": "today-12-03-img2",
+  "today-08-16-img3": "today-12-03-img3",
+  "today-08-16-img4": "today-12-03-img4",
+  "today-08-16-img5": "today-12-03-img5",
+  "today-08-16-img6": "today-12-03-img6",
+  "today-08-18-img5": "today-08-18-img6",
+  "today-08-20-img2": "today-09-14-img1",
+  "today-08-20-img3": "today-10-31-img3",
+  "today-08-21-img1": "today-11-06-img1",
+  "today-08-21-img2": "today-11-06-img2",
+  "today-08-21-img3": "today-11-06-img3",
+  "today-08-21-img4": "today-11-06-img4",
+  "today-08-21-img5": "today-11-06-img5",
+  "today-08-21-img6": "today-11-06-img6",
+  "today-08-22-img1": "today-12-28-img2",
+  "today-08-23-img5": "today-11-22-img3",
+  "today-08-24-img5": "today-09-08-img5",
+  "today-08-25-img1": "today-12-21-img1",
+  "today-08-25-img2": "today-09-22-img2",
+  "today-08-25-img3": "today-11-16-img2",
+  "today-08-25-img4": "today-09-22-img4",
+  "today-08-25-img5": "today-09-22-img5",
+  "today-08-25-img6": "today-09-22-img6",
+  "today-08-27-img2": "today-12-28-img2",
+  "today-08-28-img1": "today-09-14-img1",
+  "today-08-28-img2": "today-11-05-img1",
+  "today-08-31-img3": "today-10-29-img1",
+  "today-08-31-img4": "today-08-31-img5",
+  "today-09-01-img5": "today-11-03-img4",
+  "today-09-02-alt1": "today-09-02-img1",
+  "today-09-02-alt2": "today-09-02-img2",
+  "today-09-02-alt3": "today-09-02-img3",
+  "today-09-02-alt5": "today-12-28-img2",
+  "today-09-02-alt6": "today-09-02-img5",
+  "today-09-02-img4": "today-12-28-img2",
+  "today-09-05-img1": "today-12-21-img1",
+  "today-09-05-img2": "today-09-22-img2",
+  "today-09-05-img3": "today-11-16-img2",
+  "today-09-05-img4": "today-09-22-img4",
+  "today-09-05-img5": "today-09-22-img5",
+  "today-09-05-img6": "today-09-22-img6",
+  "today-09-09-img1": "today-09-14-img1",
+  "today-09-09-img3": "today-11-05-img1",
+  "today-09-10-img2": "today-10-29-img1",
+  "today-09-11-img2": "today-10-29-img1",
+  "today-09-14-img2": "today-11-05-img1",
+  "today-09-16-img1": "today-12-28-img2",
+  "today-09-17-img1": "today-12-21-img1",
+  "today-09-17-img2": "today-09-22-img2",
+  "today-09-17-img3": "today-11-16-img2",
+  "today-09-17-img4": "today-09-22-img4",
+  "today-09-17-img5": "today-09-22-img5",
+  "today-09-17-img6": "today-09-22-img6",
+  "today-09-20-img6": "today-10-29-img1",
+  "today-09-22-img1": "today-12-21-img1",
+  "today-09-22-img3": "today-11-16-img2",
+  "today-09-25-img1": "today-12-12-img1",
+  "today-09-25-img2": "today-12-12-img2",
+  "today-09-25-img3": "today-12-12-img3",
+  "today-09-25-img4": "today-12-12-img4",
+  "today-09-25-img5": "today-12-12-img5",
+  "today-09-25-img6": "today-12-12-img6",
+  "today-09-28-img3": "today-12-28-img2",
+  "today-10-02-img1": "today-10-22-img1",
+  "today-10-02-img2": "today-10-22-img2",
+  "today-10-04-img1": "today-11-18-img1",
+  "today-10-04-img2": "today-11-18-img2",
+  "today-10-04-img3": "today-11-18-img3",
+  "today-10-04-img4": "today-11-18-img4",
+  "today-10-04-img5": "today-11-18-img5",
+  "today-10-04-img6": "today-11-18-img6",
+  "today-10-06-img6": "today-11-05-img1",
+  "today-10-13-img6": "today-11-22-img3",
+  "today-10-18-img1": "today-12-15-img1",
+  "today-10-18-img2": "today-12-15-img2",
+  "today-10-18-img6": "today-12-15-img6",
+  "today-10-19-img1": "today-12-12-img1",
+  "today-10-19-img2": "today-12-12-img2",
+  "today-10-19-img3": "today-12-12-img3",
+  "today-10-19-img4": "today-12-12-img4",
+  "today-10-19-img5": "today-12-12-img5",
+  "today-10-19-img6": "today-12-12-img6",
+  "today-10-23-img2": "today-10-29-img1",
+  "today-10-26-img1": "today-12-27-img2",
+  "today-11-04-img1": "today-12-12-img1",
+  "today-11-04-img2": "today-12-12-img2",
+  "today-11-04-img3": "today-12-12-img3",
+  "today-11-04-img4": "today-12-12-img4",
+  "today-11-04-img5": "today-12-12-img5",
+  "today-11-04-img6": "today-12-12-img6",
+  "today-11-10-img5": "today-12-18-img2",
+  "today-11-12-img1": "today-12-19-img1",
+  "today-11-12-img2": "today-12-19-img2",
+  "today-11-12-img3": "today-12-19-img3",
+  "today-11-12-img4": "today-12-19-img4",
+  "today-11-12-img5": "today-12-19-img5",
+  "today-11-12-img6": "today-12-19-img6",
+  "today-11-14-img1": "today-12-12-img1",
+  "today-11-14-img2": "today-12-12-img2",
+  "today-11-14-img3": "today-12-12-img3",
+  "today-11-14-img4": "today-12-12-img4",
+  "today-11-14-img5": "today-12-12-img5",
+  "today-11-14-img6": "today-12-12-img6",
+  "today-11-18-alt2": "today-11-18-img2",
+  "today-11-18-alt3": "today-11-18-img3",
+  "today-11-18-alt4": "today-11-18-img4",
+  "today-11-18-alt6": "today-11-18-img5",
+  "today-11-19-img1": "today-12-12-img1",
+  "today-11-19-img2": "today-12-12-img2",
+  "today-11-19-img3": "today-12-12-img3",
+  "today-11-19-img4": "today-12-12-img4",
+  "today-11-19-img5": "today-12-12-img5",
+  "today-11-19-img6": "today-12-12-img6",
+  "today-11-24-img2": "today-12-28-img2",
+  "today-11-27-img1": "today-12-12-img1",
+  "today-11-27-img2": "today-12-12-img2",
+  "today-11-27-img3": "today-12-12-img3",
+  "today-11-27-img4": "today-12-12-img4",
+  "today-11-27-img5": "today-12-12-img5",
+  "today-11-27-img6": "today-12-12-img6",
+  "today-11-29-img1": "today-12-28-img2",
+  "today-11-30-img1": "today-12-12-img1",
+  "today-11-30-img2": "today-12-12-img2",
+  "today-11-30-img3": "today-12-12-img3",
+  "today-11-30-img4": "today-12-12-img4",
+  "today-11-30-img5": "today-12-12-img5",
+  "today-11-30-img6": "today-12-12-img6",
+  "today-12-01-img1": "today-12-28-img2",
+  "today-12-02-img1": "today-12-12-img1",
+  "today-12-02-img2": "today-12-12-img2",
+  "today-12-02-img3": "today-12-12-img3",
+  "today-12-02-img4": "today-12-12-img4",
+  "today-12-02-img5": "today-12-12-img5",
+  "today-12-02-img6": "today-12-12-img6",
+  "today-12-07-img1": "today-12-12-img1",
+  "today-12-07-img2": "today-12-12-img2",
+  "today-12-07-img3": "today-12-12-img3",
+  "today-12-07-img4": "today-12-12-img4",
+  "today-12-07-img5": "today-12-12-img5",
+  "today-12-07-img6": "today-12-12-img6",
+  "today-12-08-img1": "today-12-15-img1",
+  "today-12-08-img2": "today-12-15-img2",
+  "today-12-08-img5": "today-12-15-img6"
+ }
+}

@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "note": "主题页编辑串读：每条 5—7 篇，先读这条线，再回到完整主题。故事 id 必须存在于 next/content/stories。",
+  "trails": [
+    {
+      "key": "space",
+      "title": "太空探索",
+      "title_en": "Space Exploration",
+      "intro": "从第一次出舱到空间站：人类怎样把身体、工具和目光一点点送出大气层。",
+      "intro_en": "From the first spacewalk to the Space Station: how the body, tools and gaze were sent beyond the atmosphere, one step at a time.",
+      "stories": [
+        "gemini-4-1965",
+        "apollo-11-1969",
+        "apollo-soyuz-1975",
+        "sts-1-1981",
+        "challenger-1986",
+        "hubble-1990",
+        "iss-1998"
+      ]
+    },
+    {
+      "key": "disaster",
+      "title": "灾难与调查",
+      "title_en": "Disaster & Investigation",
+      "intro": "从旧金山地震到切尔诺贝利：灾难不是瞬间，而是预警、判断、救援和调查组成的长链。",
+      "intro_en": "From the San Francisco earthquake to Chernobyl: a disaster is not a moment but a chain of warning, judgment, rescue and investigation.",
+      "stories": [
+        "san-francisco-1906",
+        "titanic-1912",
+        "hindenburg-1937",
+        "today-05-18-mount-st-helens",
+        "today-08-12-japan-air-lines-flight-123",
+        "today-04-26-chernobyl-nuclear-power-plant-2",
+        "today-01-15-us-airways-flight-1549-2"
+      ]
+    },
+    {
+      "key": "engineering",
+      "title": "工程与城市",
+      "title_en": "Engineering & City",
+      "intro": "从运河、铁塔到金门大桥：现代城市不是自然长出来的，是一次次工程决策把水、人和速度重新安排。",
+      "intro_en": "From canals and towers to the Golden Gate: the modern city is not natural; it is a series of engineering decisions that rearrange water, people and speed.",
+      "stories": [
+        "suez-1869",
+        "brooklyn-bridge-1883",
+        "eiffel-1889",
+        "wright-1903",
+        "panama-canal-1914",
+        "hoover-dam-1935",
+        "golden-gate-1937"
+      ]
+    },
+    {
+      "key": "rail",
+      "title": "铁路与工业",
+      "title_en": "Rail & Industry",
+      "intro": "从机车一号到伦敦地铁：钢轨把时间表写进城市，也把事故写进公共记忆；工业则把机器送进日常。",
+      "intro_en": "From Locomotion No. 1 to the London Underground: rails write timetables into the city and accidents into public memory; industry brings machines into daily life.",
+      "stories": [
+        "today-09-27-locomotion-no-1",
+        "today-10-01-st-pancras-railway-station",
+        "today-12-29-ashtabula-river-railroad-disaster",
+        "today-08-07-ibm",
+        "today-05-14-talyllyn-railway",
+        "today-02-28-london-underground-2",
+        "today-05-06-channel-tunnel-alt"
+      ]
+    },
+    {
+      "key": "art",
+      "title": "艺术与图像",
+      "title_en": "Art & Image",
+      "intro": "从摄影术的前五十年到街头与无名者：图像不只是作品，也是谁被看见、谁被留下的证据。",
+      "intro_en": "From photography's first fifty years to the street and the unnamed: an image is not only a work but evidence of who was seen and who was left out.",
+      "stories": [
+        "china-1850-1930",
+        "first-fifty-years",
+        "hands-at-work",
+        "street-a-day",
+        "unnamed-faces",
+        "today-06-15-eadweard-muybridge",
+        "today-10-14-louis-le-prince"
+      ]
+    }
+  ]
+}

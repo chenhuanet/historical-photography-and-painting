@@ -4,7 +4,7 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: A special coach of Taiwan Railway 1910
+title: A special coach of Taiwan, China Railway 1910
 year: 1910
 date_label: '1910'
 era: 20世纪
@@ -37,15 +37,14 @@ license_snapshot:
   fetched_at: '2026-11-09T12:20:35'
   raw_license: Public domain
   credit: Unknown author Unknown author
-  description: A special coach of Taiwan Railway 1910 | ​臺灣鐵路特別客車。 | 臺灣總督府交通局鐵道部.《臺灣鐵道史》下卷.
-    東京：近藤商店活版部. 1910. | 1910-09
+  description: A special coach of Taiwan, China Railway 1910 | ​中国台湾铁路特别客车。 | 中国台湾地区总督府交通局铁道部.《中国台湾铁路史》下卷. 東京：近藤商店活版部. 1910. | 1910-09
   date_original: '1910'
-  source_ref: File:A special coach of Taiwan Railway 1910.jpg
-  file_or_record: File:A special coach of Taiwan Railway 1910.jpg
+  source_ref: File:A special coach of Taiwan, China Railway 1910.jpg
+  file_or_record: File:A special coach of Taiwan, China Railway 1910.jpg
 evidence:
-  claim: 1910 《A special coach of Taiwan Railway 1910》，维基共享资源 文件页著录
+  claim: 1910 《A special coach of Taiwan, China Railway 1910》，维基共享资源 文件页著录
   basis: Wikimedia Commons 文件页著录（题名、年代、许可逐项核对）
-  catalog_id: File:A special coach of Taiwan Railway 1910.jpg
+  catalog_id: File:A special coach of Taiwan, China Railway 1910.jpg
   reference_url: https://commons.wikimedia.org/wiki/File:A_special_coach_of_Taiwan_Railway_1910.jpg
   checked_at: '2026-11-08'
   status: 已核对源站著录
@@ -71,6 +70,10 @@ image_original_sha256: f0a825bad60655343a19696b31591d0cd7bc31deeaaf3395c4d5466c2
 image_processing: long-edge-1600-q82
 ---
 
-![A special coach of Taiwan Railway 1910](https://20century.chenhua.net/photos/1910s/auto-f3069fb3-f0a825ba.jpg)
 
-1910，中国。作者不详（源站未著录）；来源：维基共享资源，馆藏编号 File:A special coach of Taiwan Railway 1910.jpg。这是一张摄影影像。
+
+
+
+![A special coach of Taiwan, China Railway 1910](https://20century.chenhua.net/photos/1910s/auto-f3069fb3-f0a825ba.jpg)
+
+1910，中国。作者不详（源站未著录）；来源：维基共享资源，馆藏编号 File:A special coach of Taiwan, China Railway 1910.jpg。这是一张摄影影像。

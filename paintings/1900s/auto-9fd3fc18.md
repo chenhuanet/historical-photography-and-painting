@@ -5,6 +5,8 @@ content_type: print
 type_evidence: 画面有蚀刻线条与签名；Zorn 版画
 review_status: clean
 title: Anders Zorn - Billy Mason (1900)
+title_zh: 比利·梅森
+title_en: Billy Mason
 year: 1900
 date_label: '1900'
 era: 20世纪
@@ -18,15 +20,25 @@ place: 大洋洲
 china: false
 creator: Anders Zorn
 creator_status: named
+creator_zh: 安德斯·佐恩
+creator_en: Anders Zorn
+movement: 现实主义
+movement_en: Realism
+dimensions: 未著录
+dimensions_en: Not recorded
+holding: 未著录
+holding_en: Not recorded
 source: Wikimedia Commons
 source_short: 维基共享资源
 source_url: https://commons.wikimedia.org/wiki/File:Anders_Zorn_-_Billy_Mason_1900_-_Museum_of_New_Zealand_1971-0012-48.jpg
 page_url: https://commons.wikimedia.org/wiki/File:Anders_Zorn_-_Billy_Mason_1900_-_Museum_of_New_Zealand_1971-0012-48.jpg
 page_url_basis: 维基共享资源文件页
 license: Public domain
+license_status: pd
 license_raw: null
 license_url: https://commons.wikimedia.org/wiki/Commons:Licensing
 tier: L0
+curation_tier: archive
 rights_status: PD
 commercial_ok: true
 usage_code: U1
@@ -73,6 +85,8 @@ title_original: Anders Zorn - Billy Mason 1900 - Museu
 title_note: 按源站文件名/题名补全
 ---
 
-![Anders Zorn - Billy Mason (1900)](https://20century.chenhua.net/paintings/1900s/auto-9fd3fc18-e4dd26e8.jpg)
+![《女史箴图》](https://19century.chenhua.net/paintings/400s/gu-kaizhi-admonitions-scroll-400-030252b7.jpg)
 
-1900，大洋洲。Anders Zorn；来源：维基共享资源，馆藏编号 File:Anders Zorn - Billy Mason 1900 - Museum of New Zealand 1971-0012-48.jpg。这是一张摄影影像。
+《女史箴图》是现存最早的中国绢本人物长卷之一，通常被认为是东晋顾恺之的原作、唐代摹本。画卷根据张华《女史箴》的十二段箴文绘制，现存九段：有冯媛挡熊、班姬辞辇，也有宫中女子对镜梳妆、围坐交谈的日常场景。人物衣带飘举，线条细而不断，像春蚕吐丝。
+
+画面没有透视，也没有阴影，却用线条的节奏、人物之间的距离和空白来组织叙事。它既是道德教科书，也是一部宫廷女性生活的图像史。1900年庚子事变后流入英国，现藏大英博物馆。

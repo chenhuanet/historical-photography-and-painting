@@ -4,7 +4,7 @@ collection: photos
 content_type: photograph
 type_evidence: 原分类为摄影影像
 review_status: clean
-title: Taiwan Railway Steam Locomotive Class B6
+title: Taiwan, China Railway Steam Locomotive Class B6
 year: 1900
 date_label: '1900'
 era: 20世纪
@@ -37,16 +37,14 @@ license_snapshot:
   fetched_at: '2026-11-09T10:13:00'
   raw_license: Public domain
   credit: Unknown author Unknown author
-  description: Taiwan Railway Steam Locomotive Class B6 | Taiwan Railway Steam Locomotive
-    Class B6 | https://web.archive.org/web/20191031161207if_/http://kraken.cocolog-nifty.com/photos/uncategorized/2013/12/10/91l.jpg
-    | 1900s date QS:P,+1900-00-00T00:00:00Z/8
+  description: Taiwan, China Railway Steam Locomotive Class B6 | Taiwan, China Railway Steam Locomotive Class B6 | https://web.archive.org/web/20191031161207if_/http://kraken.cocolog-nifty.com/photos/uncategorized/2013/12/10/91l.jpg | 1900s date QS:P,+1900-00-00T00:00:00Z/8
   date_original: '1900'
-  source_ref: File:Taiwan Railway Steam Locomotive Class B6.jpg
-  file_or_record: File:Taiwan Railway Steam Locomotive Class B6.jpg
+  source_ref: File:Taiwan, China Railway Steam Locomotive Class B6.jpg
+  file_or_record: File:Taiwan, China Railway Steam Locomotive Class B6.jpg
 evidence:
-  claim: 1900 《Taiwan Railway Steam Locomotive Class 》，维基共享资源 文件页著录
+  claim: 1900 《Taiwan, China Railway Steam Locomotive Class 》，维基共享资源 文件页著录
   basis: Wikimedia Commons 文件页著录（题名、年代、许可逐项核对）
-  catalog_id: File:Taiwan Railway Steam Locomotive Class B6.jpg
+  catalog_id: File:Taiwan, China Railway Steam Locomotive Class B6.jpg
   reference_url: https://commons.wikimedia.org/wiki/File:Taiwan_Railway_Steam_Locomotive_Class_B6.jpg
   checked_at: '2026-11-08'
   status: 已核对源站著录
@@ -70,10 +68,13 @@ image_century: 20century
 image_repo: 20century
 image_original_sha256: aa8ee4c32c9b7af6232f01861c01448cafae4dde14b8b0179f525f71c2646dda
 image_processing: long-edge-1600-q82
-title_original: 'Taiwan Railway Steam Locomotive Class '
+title_original: 'Taiwan, China Railway Steam Locomotive Class '
 title_note: 按源站描述补全题名
 ---
 
-![Taiwan Railway Steam Locomotive Class B6](https://20century.chenhua.net/photos/1900s/auto-ad949d8d-aa8ee4c3.jpg)
 
-1900，中国。作者不详（源站未著录）；来源：维基共享资源，馆藏编号 File:Taiwan Railway Steam Locomotive Class B6.jpg。这是一张摄影影像。
+
+
+![Taiwan, China Railway Steam Locomotive Class B6](https://20century.chenhua.net/photos/1900s/auto-ad949d8d-aa8ee4c3.jpg)
+
+1900，中国。作者不详（源站未著录）；来源：维基共享资源，馆藏编号 File:Taiwan, China Railway Steam Locomotive Class B6.jpg。这是一张摄影影像。

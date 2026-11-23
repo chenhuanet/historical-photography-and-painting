@@ -5,6 +5,8 @@ content_type: painting
 type_evidence: 画面为油画；题名/作者
 review_status: clean
 title: Ivan Konstantinovich Aivazovsky - Shipwreck off the Black Sea Coast
+title_zh: 黑海海岸沉船
+title_en: Shipwreck off the Black Sea Coast
 year: 1887
 date_label: '1887'
 era: 19世纪
@@ -18,15 +20,25 @@ place: 跨地域
 china: false
 creator: Ivan Aivazovsky
 creator_status: named
+creator_zh: 伊凡·艾瓦佐夫斯基
+creator_en: Ivan Aivazovsky
+movement: 浪漫主义
+movement_en: Romanticism
+dimensions: 未著录
+dimensions_en: Not recorded
+holding: 未著录
+holding_en: Not recorded
 source: Wikimedia Commons
 source_short: 维基共享资源
 source_url: https://commons.wikimedia.org/wiki/File:Ivan_Konstantinovich_Aivazovsky_-_Shipwreck_off_the_Black_Sea_Coast.jpg
 page_url: https://commons.wikimedia.org/wiki/File:Ivan_Konstantinovich_Aivazovsky_-_Shipwreck_off_the_Black_Sea_Coast.jpg
 page_url_basis: 维基共享资源文件页
 license: Public domain
+license_status: pd
 license_raw: null
 license_url: https://commons.wikimedia.org/wiki/Commons:Licensing
 tier: L0
+curation_tier: extension
 rights_status: PD
 commercial_ok: true
 usage_code: U1
@@ -77,4 +89,4 @@ title_note: 按源站文件名/题名补全
 
 ![Ivan Konstantinovich Aivazovsky - Shipwreck off the Black Sea Coast](https://19century.chenhua.net/paintings/1880s/auto-aed4a918-6ade0e9d.jpg)
 
-1887，跨地域。Ivan Aivazovsky；来源：维基共享资源，馆藏编号 File:Ivan Konstantinovich Aivazovsky - Shipwreck off the Black Sea Coast.jpg。这是一张摄影影像。
+《黑海海岸沉船》是伊凡·艾瓦佐夫斯基约1887年的浪漫主义作品，现藏信息待考。画面以“黑海海岸沉船”为题，属于黑海的油画传统，可作为同时代绘画的参照。

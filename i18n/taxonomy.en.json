@@ -15,7 +15,10 @@
     "灾变": "Disaster",
     "痕迹": "Traces",
     "馆藏": "Collections",
-    "权利": "Rights"
+    "权利": "Rights",
+    "身体": "Body",
+    "日常": "Daily life",
+    "信仰": "Faith"
   },
   "region": {
     "跨地域": "Cross-regional",
@@ -58,7 +61,9 @@
     "石版画": "Lithograph",
     "木刻插图": "Woodcut illustration",
     "素描": "Drawing",
-    "文书": "Document"
+    "文书": "Document",
+    "蛋彩与金箔（木板）": "Tempera and gold leaf on panel",
+    "油画（布面）": "Oil on canvas"
   },
   "kind": {
     "尘世": "Everyday",
@@ -70,7 +75,9 @@
     "18世纪": "18th century",
     "19世纪": "19th century",
     "20世纪": "20th century",
-    "21世纪": "21st century"
+    "21世纪": "21st century",
+    "14世纪": "14th century",
+    "16世纪": "16th century"
   },
   "content_type": {
     "photograph": "Photograph",

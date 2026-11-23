@@ -1,0 +1,292 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chenhua.net/schema/early-painting.schema.json",
+  "title": "尘画 · 19 世纪前绘画记录",
+  "type": "object",
+  "required": [
+    "id",
+    "collection",
+    "content_type",
+    "type_evidence",
+    "title",
+    "title_en",
+    "year",
+    "date_label",
+    "era",
+    "period",
+    "region",
+    "medium",
+    "topic",
+    "curation_theme",
+    "license",
+    "license_url",
+    "rights_status",
+    "image",
+    "image_credit",
+    "attribution_status",
+    "version_status",
+    "evidence",
+    "audit"
+  ],
+  "allowed_collections": [
+    "paintings"
+  ],
+  "allowed_content_types": [
+    "painting",
+    "print",
+    "drawing"
+  ],
+  "allowed_mediums": [
+    "油画",
+    "水彩",
+    "绘画",
+    "版画",
+    "素描",
+    "绢本设色",
+    "纸本水墨",
+    "壁画",
+    "湿壁画",
+    "蛋彩",
+    "木板油画",
+    "金箔",
+    "手抄本",
+    "细密画",
+    "木刻",
+    "铜版",
+    "绢本水墨",
+    "纸本设色"
+  ],
+  "allowed_topics": [
+    "面孔",
+    "街巷",
+    "劳作",
+    "战火",
+    "灾变",
+    "权利",
+    "远方",
+    "风景",
+    "痕迹",
+    "馆藏",
+    "信仰",
+    "神话",
+    "山水",
+    "文字",
+    "装饰",
+    "日常"
+  ],
+  "allowed_curation_themes": [
+    "信仰与图像",
+    "山水与自然",
+    "人物与自我",
+    "城市与日常",
+    "文字与观看",
+    "材料与技法"
+  ],
+  "allowed_attribution_status": [
+    "confirmed",
+    "attributed",
+    "workshop",
+    "circle",
+    "copy",
+    "uncertain"
+  ],
+  "allowed_version_status": [
+    "original",
+    "copy",
+    "later-version",
+    "unknown"
+  ],
+  "allowed_rights_status": [
+    "PD",
+    "CC0",
+    "CC-BY",
+    "CC-BY-SA",
+    "NONCOMMERCIAL",
+    "LINK_ONLY"
+  ],
+  "allowed_image_roles": [
+    "hero",
+    "detail-left",
+    "detail-mid",
+    "detail-right",
+    "recto",
+    "verso",
+    "panel"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    },
+    "collection": {
+      "const": "paintings"
+    },
+    "content_type": {
+      "enum": [
+        "painting",
+        "print",
+        "drawing"
+      ]
+    },
+    "type_evidence": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title_en": {
+      "type": "string",
+      "minLength": 1
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 300,
+      "maximum": 1799
+    },
+    "date_label": {
+      "type": "string",
+      "minLength": 1
+    },
+    "era": {
+      "type": "string",
+      "minLength": 1
+    },
+    "period": {
+      "type": "string",
+      "pattern": "^\\d{3,4}s$"
+    },
+    "region": {
+      "type": "string",
+      "minLength": 1
+    },
+    "medium": {
+      "type": "string",
+      "minLength": 1
+    },
+    "topic": {
+      "type": "string",
+      "minLength": 1
+    },
+    "curation_theme": {
+      "type": "string",
+      "minLength": 1
+    },
+    "license": {
+      "type": "string",
+      "minLength": 1
+    },
+    "license_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "rights_status": {
+      "enum": [
+        "PD",
+        "CC0",
+        "CC-BY",
+        "CC-BY-SA",
+        "NONCOMMERCIAL",
+        "LINK_ONLY"
+      ]
+    },
+    "image": {
+      "type": "string",
+      "format": "uri"
+    },
+    "image_credit": {
+      "type": "string",
+      "minLength": 1
+    },
+    "attribution_status": {
+      "enum": [
+        "confirmed",
+        "attributed",
+        "workshop",
+        "circle",
+        "copy",
+        "uncertain"
+      ]
+    },
+    "version_status": {
+      "enum": [
+        "original",
+        "copy",
+        "later-version",
+        "unknown"
+      ]
+    },
+    "object_year": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "year_basis": {
+      "enum": [
+        "original",
+        "object",
+        "unknown"
+      ]
+    },
+    "provenance_note": {
+      "type": "string"
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "role",
+          "path",
+          "alt_zh",
+          "alt_en"
+        ],
+        "properties": {
+          "role": {
+            "enum": [
+              "hero",
+              "detail-left",
+              "detail-mid",
+              "detail-right",
+              "recto",
+              "verso",
+              "panel"
+            ]
+          },
+          "path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "caption_zh": {
+            "type": "string"
+          },
+          "caption_en": {
+            "type": "string"
+          },
+          "alt_zh": {
+            "type": "string",
+            "minLength": 1
+          },
+          "alt_en": {
+            "type": "string",
+            "minLength": 1
+          },
+          "width": {
+            "type": "integer"
+          },
+          "height": {
+            "type": "integer"
+          }
+        }
+      }
+    },
+    "evidence": {
+      "type": "object"
+    },
+    "audit": {
+      "type": "object"
+    }
+  }
+}

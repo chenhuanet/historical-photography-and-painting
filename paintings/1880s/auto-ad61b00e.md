@@ -4,8 +4,9 @@ collection: paintings
 content_type: painting
 type_evidence: 画面为油画；题名/作者
 review_status: clean
-title: Victor Meirelles - Estudo para Panorama do Rio de Janeiro - Ilha das Cobras
-  e Morro de Santo Antônio, c. 1885
+title: Victor Meirelles - Estudo para Panorama do Rio de Janeiro e Morro de Santo Antônio, c. 1885
+title_zh: 里约全景习作：蛇岛
+title_en: "Study for Panorama of Rio de Janeiro: Ilha das Cobras and Morro de Santo Antônio"
 year: 1885
 date_label: '1885'
 era: 19世纪
@@ -19,15 +20,25 @@ place: 中南美
 china: false
 creator: Victor Meirelles
 creator_status: named
+creator_zh: 维克托·梅雷莱斯
+creator_en: Victor Meirelles
+movement: 学院派
+movement_en: Academic painting
+dimensions: 未著录
+dimensions_en: Not recorded
+holding: 未著录
+holding_en: Not recorded
 source: Wikimedia Commons
 source_short: 维基共享资源
 source_url: https://commons.wikimedia.org/wiki/File:Victor_Meirelles_-_Estudo_para_Panorama_do_Rio_de_Janeiro_-_Ilha_das_Cobras_e_Morro_de_Santo_Ant%C3%B4nio_-_c._1885.jpg
 page_url: https://commons.wikimedia.org/wiki/File:Victor_Meirelles_-_Estudo_para_Panorama_do_Rio_de_Janeiro_-_Ilha_das_Cobras_e_Morro_de_Santo_Ant%C3%B4nio_-_c._1885.jpg
 page_url_basis: 维基共享资源文件页
 license: Public domain
+license_status: pd
 license_raw: null
 license_url: https://commons.wikimedia.org/wiki/Commons:Licensing
 tier: L0
+curation_tier: archive
 rights_status: PD
 commercial_ok: true
 usage_code: U1
@@ -79,6 +90,6 @@ title_original: Victor Meirelles - Estudo para Panoram
 title_note: 按源站文件名/题名补全
 ---
 
-![Victor Meirelles - Estudo para Panorama do Rio de Janeiro - Ilha das Cobras e Morro de Santo Antônio, c. 1885](https://19century.chenhua.net/paintings/1880s/auto-ad61b00e-6db830e6.jpg)
+![Victor Meirelles - Estudo para Panorama do Rio de Janeiro e Morro de Santo Antônio, c. 1885](https://19century.chenhua.net/paintings/1880s/auto-ad61b00e-6db830e6.jpg)
 
-1885，中南美。Victor Meirelles；来源：维基共享资源，馆藏编号 File:Victor Meirelles - Estudo para Panorama do Rio de Janeiro - Ilha das Cobras e Morro de Santo Antônio - c. 1885.jpg。这是一张摄影影像。
+《里约全景习作：蛇岛》是维克托·梅雷莱斯约1885年的学院派作品，现藏信息待考。画面以“里约全景习作：蛇岛”为题，属于巴西的油画传统，可作为同时代绘画的参照。

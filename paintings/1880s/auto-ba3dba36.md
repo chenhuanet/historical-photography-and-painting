@@ -5,6 +5,8 @@ content_type: painting
 type_evidence: 画面为油画；题名/作者
 review_status: clean
 title: Giovanni Battista Castagneto - Porto do Rio de Janeiro (2)
+title_zh: 里约港（其二）
+title_en: Port of Rio de Janeiro II
 year: 1884
 date_label: '1884'
 era: 19世纪
@@ -18,15 +20,25 @@ place: 中南美
 china: false
 creator: Giovanni Battista Castagneto
 creator_status: named
+creator_zh: 乔瓦尼·巴蒂斯塔·卡斯塔涅托
+creator_en: Giovanni Battista Castagneto
+movement: 印象主义
+movement_en: Impressionism
+dimensions: 未著录
+dimensions_en: Not recorded
+holding: 未著录
+holding_en: Not recorded
 source: Wikimedia Commons
 source_short: 维基共享资源
 source_url: https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Castagneto_-_Porto_do_Rio_de_Janeiro_(2).jpg
 page_url: https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Castagneto_-_Porto_do_Rio_de_Janeiro_(2).jpg
 page_url_basis: 维基共享资源文件页
 license: Public domain
+license_status: pd
 license_raw: null
 license_url: https://commons.wikimedia.org/wiki/Commons:Licensing
 tier: L0
+curation_tier: archive
 rights_status: PD
 commercial_ok: true
 usage_code: U1
@@ -76,4 +88,4 @@ title_note: 按源站文件名/题名补全
 
 ![Giovanni Battista Castagneto - Porto do Rio de Janeiro (2)](https://19century.chenhua.net/paintings/1880s/auto-ba3dba36-9cc30217.jpg)
 
-1884，中南美。Giovanni Battista Castagneto；来源：维基共享资源，馆藏编号 File:Giovanni Battista Castagneto - Porto do Rio de Janeiro (2).jpg。这是一张摄影影像。
+《里约港（其二）》是乔瓦尼·巴蒂斯塔·卡斯塔涅托约1884年的印象主义作品，现藏信息待考。画面以“里约港（其二）”为题，属于巴西的油画传统，可作为同时代绘画的参照。

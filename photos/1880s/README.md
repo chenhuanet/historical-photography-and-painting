@@ -1,10 +1,12 @@
-# photos · 1880s · 108 条
+# photos · 1880s · 124 条
 
 | 年 | 标题 | 类型 | 主题 | 地域 | 来源 |
 | --- | --- | --- | --- | --- | --- |
 | 1880 | [A Commercial Street in Guangzhou](cle-93c7b623.md) | photograph | 街巷 | 中国 | 克利夫兰艺术博物馆 |
 | 1880 | [Ceylonese Woman](cle-6055fcce.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1880 | [Cinnabar Mountain, Devil Slide](cle-e8e9fca8.md) | photograph | 风景 | 跨地域 | 克利夫兰艺术博物馆 |
+| 1880 | [Construction of Brooklyn Bridge, ca. 1872-1887. (5832930865)](auto-96275ba6.md) | photograph | 街巷 | 北美 | 维基共享资源 |
+| 1880 | [Construction work on Brooklyn Bridge, from Robert N. Dennis collection of stereoscopic views](auto-09790f09.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1880 | [Edmond Hébert Reutlinger BNF Gallica](auto-ee0d5151.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
 | 1880 | [Femmes musulmanes Syriennes à Beyrouth, Costume de Ville (Man on a Donkey)](cle-6f6b304c.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1880 | [Ginza in 1880s](auto-14b0f8a3.md) | photograph | 街巷 | 东亚 | 维基共享资源 |
@@ -82,6 +84,13 @@
 | 1882 | [The Viceregal Council](cle-30f13fe4.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1882 | [Untitled (verso, bottom)](cle-bf009189.md) | photograph | 街巷 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1882 | [Untitled: Woman on horse (verso, right)](cle-4b056336.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
+| 1883 | [Brooklyn Museum - Bird's-Eye View of the Great New York and Brooklyn Bridge and Grand Display of Fire Works on Opening Night](auto-dc312b4f.md) | print | 街巷 | 北美 | 维基共享资源 |
+| 1883 | [Currier and Ives Brooklyn Bridge2](auto-c804a5a8.md) | print | 街巷 | 北美 | 维基共享资源 |
+| 1883 | [Excelsior Poster 1883 Brooklyn Bridge New York City](auto-c4d62e3c.md) | print | 街巷 | 北美 | 维基共享资源 |
+| 1883 | [New York and Brooklyn Bridge (1883) - Plate 2](auto-3e3e514d.md) | print | 街巷 | 北美 | 维基共享资源 |
+| 1883 | [New York and Brooklyn Bridge (1883) - Plate 9](auto-b00a3f45.md) | print | 街巷 | 北美 | 维基共享资源 |
+| 1883 | [The Deadly Stampede on the Brooklyn Bridge](auto-f42bbd37.md) | print | 街巷 | 北美 | 维基共享资源 |
+| 1883 | [The wonderful East-River suspension bridge connecting the great cities of New York and Brooklyn LCCN2006677695](auto-43a68795.md) | print | 街巷 | 北美 | 维基共享资源 |
 | 1884 | [Lavanderas, Mexico City, ca. 1900](auto-f7762b5f.md) | print | 街巷 | 中南美 | 维基共享资源 |
 | 1885 | [Panorama dalla Cupola di S. Pietro, Rome](cle-fcbab09e.md) | photograph | 街巷 | 欧洲 | 克利夫兰艺术博物馆 |
 | 1885 | [Worker on his knees picking lemons in an orchard, San Fernando Valley, ca.1900 (CHS-1775)](auto-f36fb88c.md) | photograph | 劳作 | 跨地域 | 维基共享资源 |
@@ -104,8 +113,15 @@
 | 1887 | [Portrait of a Gentleman](cle-51c58299.md) | photograph | 面孔 | 跨地域 | 克利夫兰艺术博物馆 |
 | 1887 | [Shimla 17th May 1887: Viceregal party. Lord William Beresford, Military Secretary, Captain Leonard Gordon A.D.C., Mademoiselle Clerc, The Honorable Basit Blackwood, Major F.R. Hamilton A.D.C., Mr. Oglivie Grant, Sir Donald Mackenzie Wallace K.C.E., Private Secretary, Dr. J. Findlay, Mrs. F.R. Hamilton, Master G. Hamilton, Lady Victoria Blackwood, H.E. The Countess of Dufferin, H.E. The Earl of Dufferin, Lady Hermione Blackwood, Lord Herbrand Russell, A.D.C. (recto); Viceregal Party Shimla (verso)](cle-5f7dcee1.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
 | 1887 | [Viceregal Party Shimla (verso)](cle-6134d956.md) | photograph | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
+| 1888 | [Construction de la tour Eiffel, 7ème arrondissement, Paris. 14 septembre 1888, PH9114-12](auto-ddd38311.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
+| 1888 | [Decauville railway on the construction site of the Eiffel Tower](auto-cbe05d5a.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
+| 1888 | [Eiffel Tower 1888-04-10](auto-12c0c20c.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
+| 1888 | [Eiffel Tower 1888-11-14](auto-f732a491.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
+| 1888 | [Eiffel Tower 1888-12-26](auto-c31b8c07.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
 | 1888 | [Frances Benjamin Johnston on a balcony](auto-a97cba5d.md) | photograph | 战火 | 跨地域 | 维基共享资源 |
 | 1888 | [Interior of the café in the opera house, T'bilisi, Georgia (Republic)](auto-c4c32260.md) | photograph | 街巷 | 跨地域 | 维基共享资源 |
+| 1888 | [Louis-Emile Durandelle, The Eiffel Tower - State of the Construction, 1888](auto-bdf8d9f7.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
+| 1888 | [Vue de la tour Eiffel en construction le 10 février 1888 en vue de l'Exposition universelle de 1889, 7ème arrondissement, PH73441](auto-fcd97dac.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
 | 1888 | [铁塔长到一半的时候](1888-eiffel-construction.md) | photograph | 劳作 | 欧洲 | 维基共享资源 |
 | 1889 | [Eiffel Tower and Exposition Universelle at night, Paris, 1889](auto-283d03c3.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
 | 1889 | [Eiffel tower at Exposition Universelle](auto-fd19f903.md) | photograph | 街巷 | 欧洲 | 维基共享资源 |
