@@ -80,7 +80,7 @@
 | 1932 | [澳大利亚国防军 · 影像 6](today-11-08-img6.md) | photograph | 事件 | 世界 | Commons |
 | 1933 | [Early construction of the Golden Gate Bridge over Fort Point](auto-06c36db3.md) | photograph | 街巷 | 北美 | 维基共享资源 |
 | 1933 | [First 8-cubic yard batch of concrete being placed in Boulder Dam - NARA - 293883](auto-2aca5425.md) | photograph | 劳作 | 北美 | 维基共享资源 |
-| 1933 | [School for Aboriginal Children in Nanō](auto-f0880fcd.md) | photograph | 面孔 | 中国 | 维基共享资源 |
+| 1933 | [School for Aboriginal Children in Nanō, Taiwan, China](auto-f0880fcd.md) | photograph | 面孔 | 中国台湾 | 维基共享资源 |
 | 1933 | [View of Ginza in 1930s](auto-b1939810.md) | photograph | 风景 | 东亚 | 维基共享资源 |
 | 1933 | [德國國會大廈 · 影像 1](today-02-27-img1.md) | photograph | 事件 | 世界 | Commons |
 | 1933 | [德國國會大廈 · 影像 2](today-02-27-img2.md) | photograph | 事件 | 世界 | Commons |

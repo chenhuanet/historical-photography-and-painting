@@ -1,0 +1,35 @@
+# paintings · 1550s · 31 条
+
+| 年 | 标题 | 类型 | 主题 | 地域 | 来源 |
+| --- | --- | --- | --- | --- | --- |
+| 1550 | [《哀悼基督》](cle-1982-170-1550.md) | print | 痕迹 | 欧洲 | 克利夫兰艺术博物馆 |
+| 1550 | [《圣母子与圣凯瑟琳的神圣婚礼》](holy-family-with-the-mystic-marriage-of-saint-catherine-1550.md) | painting | 信仰 | 欧洲 | 克利夫兰艺术博物馆 |
+| 1550 | [《女子肖像》](bronzino-portrait-woman-1550.md) | painting | 面孔 | 欧洲 | 克利夫兰艺术博物馆 |
+| 1550 | [《妇女肖像》](portrait-of-a-woman-1550.md) | painting | 面孔 | 欧洲 | 克利夫兰艺术博物馆 |
+| 1553 | [《风景中的猎鹰狩猎（正面）》](hunting-with-falcons-in-a-landscape-recto-1553.md) | painting | 风景 | 南亚 | 克利夫兰艺术博物馆 |
+| 1553 | [《风景中的猎鹰狩猎；背面：苏丹·穆罕默德·努尔（波斯，约》](hunting-with-falcons-in-a-landscape-verso-calligraphy-of-chagh-1553.md) | painting | 文字 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《假曼苏尔受审逐城（《鹦鹉故事》）》](cle-1962-279-129-b-1555.md) | painting | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《占星师预言，新生的王子将在十三岁时遭遇一场灾难，但他将能够克服这场灾难，出自图提·纳玛（鹦鹉记）》](the-astrologer-predicts-a-calamity-for-the-newly-born-prince-i-1555.md) | painting | 面孔 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《厨娘扮侍女求恕（《鹦鹉故事》）》](cle-1962-279-30-a-1555.md) | painting | 面孔 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《受伤的猴子在众宾客面前咬了王子（他的棋友）的手，出自鹦鹉记（Tuti-nama）：第五夜》](the-wounded-monkey-bites-the-hand-of-the-prince-his-chessmate--1555.md) | painting | 面孔 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《圣凯瑟琳肖像》](portrait-of-a-woman-as-saint-catherine-1555.md) | painting | 信仰 | 欧洲 | 克利夫兰艺术博物馆 |
+| 1555 | [《女仆再次恳求处死王子，选自鹦鹉记（Tuti-nama）：第八夜》](the-handmaiden-again-pleads-for-the-death-of-the-prince-from-a-1555.md) | painting | 面孔 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《宰相之子的妻子将神奇的木鹦鹉带给她的情人——僧侣，后者用仿制品与她交换，出自鹦鹉记（鹦鹉的故事）：》](the-wife-of-the-son-of-the-vizier-brings-the-magic-wooden-parr-1555.md) | painting | 装饰 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《年轻的王子加冕，邪恶的女仆被处决，选自鹦鹉记（鹦鹉的故事）：第八夜》](the-young-prince-is-crowned-and-the-wicked-handmaiden-is-execu-1555.md) | painting | 面孔 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《年轻的王子向他的父亲（国王）讲述自己的经历，选自鹦鹉记（鹦鹉的故事）：第八夜》](the-young-prince-recounts-his-experiences-to-his-father-the-ki-1555.md) | painting | 面孔 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《弃妻于沙漠（《鹦鹉故事》）》](cle-1962-279-328-a-1555.md) | painting | 远方 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《弃家入林遇豹的女子（《鹦鹉故事》）》](cle-1962-279-200-b-1555.md) | painting | 面孔 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《披着虎皮的驴子大声嘶鸣，暴露了自己的身份，选自鹦鹉记（鹦鹉的故事）：第三十一夜》](the-donkey-in-a-tiger-s-skin-reveals-his-identity-by-braying-a-1555.md) | painting | 馆藏 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《猎人将母鹦鹉献给卡玛鲁帕国王，选自鹦鹉传奇（Tuti-nama）：第五夜》](the-hunter-offers-the-mother-parrot-to-the-king-of-kamarupa-fr-1555.md) | painting | 面孔 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《猴子被杀，其血液将用于医治被它咬伤的病弱王子，选自鹦鹉记（鹦鹉的故事）：第五夜》](the-monkey-slain-his-blood-to-be-used-as-medicine-for-the-aili-1555.md) | painting | 面孔 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《王子的磨难仍在继续，他被下令第五次去处决，选自鹦鹉记（Tuti-nama）：第八夜》](the-prince-s-ordeal-continues-he-is-ordered-away-to-be-execute-1555.md) | painting | 面孔 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《苦行僧以金象为聘（《鹦鹉故事》）》](cle-1962-279-45-a-1555.md) | painting | 装饰 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《街吏树下遭窃（《鹦鹉故事》）》](cle-1962-279-97-a-1555.md) | painting | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《跪着的圣人肖像，选自萨利姆王子画册》](portrait-of-a-kneeling-holy-man-from-the-prince-salim-album-1555.md) | painting | 文字 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《马赫鲁萨嫁城尹（《鹦鹉故事》）》](cle-1962-279-240-b-1555.md) | painting | 街巷 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《鹦鹉妈妈告诫幼鸟不要与狐狸玩耍，来自鹦鹉记（鹦鹉的故事）：第五夜》](the-parrot-mother-cautions-her-young-on-the-danger-of-playing--1555.md) | painting | 面孔 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《鹦鹉记（Tuti-nama）：第三十二夜，三个人被滚落的巨石困在洞穴中的故事》](the-tale-of-the-three-men-trapped-in-a-cave-by-a-rolling-bould-1555.md) | painting | 馆藏 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《鹦鹉记（Tuti-nama）：第八夜——狡诈的妻子将媒婆的脸涂黑后将她赶走》](the-deceitful-wife-ejects-the-procuress-after-blackening-her-f-1555.md) | painting | 馆藏 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《鹦鹉记（鹦鹉的故事）中鹦鹉在第十一夜开始时对胡贾斯塔（Khujasta）说的话》](the-parrot-addresses-khujasta-at-the-beginning-of-the-eleventh-1555.md) | painting | 馆藏 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《鹦鹉记（鹦鹉的故事）中鹦鹉在第十夜开始时对胡贾斯塔（Khujasta）说的话》](the-parrot-addresses-khujasta-at-the-beginning-of-the-tenth-ni-1555.md) | painting | 装饰 | 南亚 | 克利夫兰艺术博物馆 |
+| 1555 | [《鹦鹉记（鹦鹉的故事）：第八夜，背信弃义的妻子在抚摸情人后回到露台上》](the-deceitful-wife-returns-to-her-terrace-after-caressing-her--1555.md) | painting | 面孔 | 南亚 | 克利夫兰艺术博物馆 |

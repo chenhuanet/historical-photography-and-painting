@@ -1,5 +1,9 @@
 ---
 id: bronzino-portrait-woman-1550
+duplicate_of: portrait-of-a-woman-1550
+canonical_record: portrait-of-a-woman-1550
+duplicate_reason: 同一馆藏对象页与同一 image_sha256；2026-11-25 合并
+duplicate_checked_at: 2026-11-25
 collection: paintings
 content_type: painting
 type_evidence: 克利夫兰艺术博物馆开放数据著录为绘画（oil on wood）

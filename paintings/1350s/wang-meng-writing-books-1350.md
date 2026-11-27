@@ -1,5 +1,9 @@
 ---
 id: wang-meng-writing-books-1350
+duplicate_of: writing-books-under-the-pine-trees-1303
+canonical_record: writing-books-under-the-pine-trees-1303
+duplicate_reason: 同一馆藏对象页与同一 image_sha256；2026-11-25 合并
+duplicate_checked_at: 2026-11-25
 collection: paintings
 content_type: painting
 type_evidence: 克利夫兰艺术博物馆开放数据著录为绘画（Album leaf; ink and color on paper）

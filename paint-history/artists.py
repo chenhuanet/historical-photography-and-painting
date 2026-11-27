@@ -32,7 +32,7 @@ ARTISTS = [
     },
     {
         "slug": "ni-zan", "zh": "倪瓒", "en": "Ni Zan", "years": "1301–1374", "country_zh": "中国", "country_en": "China", "movement": "yuan-literati",
-        "hero": "ni-zan-woods-valleys-1355", "works": ["ni-zan-woods-valleys-1355", "ni-zan-bamboo-rock-1350"],
+        "hero": "ni-zan-woods-valleys-1355", "works": ["ni-zan-woods-valleys-1355", "bamboo-rock-and-tall-tree-1300"],
         "bio_zh": ["倪瓒是元代最“冷”的画家。他家境富裕，晚年散尽家财，泛舟太湖，画于是变得极简：几棵树、一个空亭、一片水、一段远山。他不画人，也不画云，留白就是水与天。", "《渔庄秋霁图》用侧锋干笔，线条轻而松，几乎不染。倪瓒的“逸笔草草”不是草率，而是拒绝：拒绝繁复、拒绝讨好、拒绝把山水画成地图。他的空亭像一个邀请，也像一个拒绝——你可以进入，但那里没有人。"],
         "bio_en": ["Ni Zan is the coldest of the Yuan painters. Born into wealth, he dispersed his estate in later life and lived on a boat on Lake Tai; his paintings become extremely spare: a few trees, an empty pavilion, a stretch of water, a distant ridge. He paints no people and no clouds; blank silk is water and sky.", "*Woods and Valleys* uses dry side-brush strokes, light and loose, with almost no wash. Ni Zan's 'careless brush' is not carelessness but refusal: refusal of complexity, flattery, and landscape-as-map. His empty pavilion is an invitation and a refusal — you may enter, but no one is there."],
         "note_zh": "看空亭：它在等谁？看留白：那是水，还是拒绝？", "note_en": "Read the empty pavilion: whom is it waiting for? Read the blank: water, or refusal?"
@@ -81,7 +81,7 @@ ARTISTS = [
     },
     {
         "slug": "titian", "zh": "提香", "en": "Titian (Tiziano Vecellio)", "years": "约1488–1576", "country_zh": "意大利", "country_en": "Italy", "movement": "high-renaissance",
-        "hero": "titian-adoration-magi-1520", "works": ["titian-adoration-magi-1520", "titian-submersion-pharaoh-1549"],
+        "hero": "adoration-of-the-magi-1500", "works": ["adoration-of-the-magi-1500", "titian-submersion-pharaoh-1549"],
         "bio_zh": ["提香是威尼斯画派的中心人物，也是16世纪欧洲最抢手的肖像画家。他不相信佛罗伦萨的“素描优先”，他相信颜色：皮肤、丝绸和盔甲都由半透明的色层叠出来，边缘融进阴影，人物因此有温度和重量。", "他画宗教题材像在搭剧场：光从云层落下，人物在暗处等待；他也画肖像，让赞助人的权力、疲倦和欲望都留在颜色里。"],
         "bio_en": ["Titian is the central figure of the Venetian school and the most sought-after portraitist in sixteenth-century Europe. He did not believe in Florentine 'drawing first'; he believed in colour: skin, silk and armour are built from translucent layers, edges dissolve into shadow, and figures gain temperature and weight.", "He staged religious subjects like theatre: light falls from clouds, figures wait in shadow; he also painted portraits, leaving patrons' power, fatigue and appetite in colour."],
         "note_zh": "看颜色：它是在描述物体，还是在制造温度？", "note_en": "Read colour: does it describe an object, or create warmth?"

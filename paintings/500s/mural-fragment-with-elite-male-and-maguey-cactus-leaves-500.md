@@ -20,7 +20,7 @@ theme_en: All Things
 topic: 装饰
 topic_en: ornament
 curation_theme: 材料与技法
-curation_theme_en: 材料与技法
+curation_theme_en: Material and Technique
 region: 中南美
 region_en: Central and South America
 place: 中南美
@@ -116,6 +116,12 @@ images:
   width: 1600
   height: 1103
   sha256: 2ddc82c6c3919e71ed41461f1ce9fb5ac1ecd93bec9609ae053bce57f7af38cc
+subtheme: 壁画
+subtheme_en: Mural
+themes_secondary:
+- 壁画
+why_included: 补足「材料与技法 / 壁画」子线索：《描绘贵族男子和龙舌兰叶的壁画残片》以壁画残片进入材料与墙面尺度的讨论。
+why_included_en: 'Fills the “Material and Technique / Mural” thread: Mural Fragment with Elite Male and Maguey Cactus Leaves enters through a wall-painting fragment and the scale of the wall.'
 ---
 
 ![描绘贵族男子和龙舌兰叶的壁画残片，壁画，500–550](https://pre19century.chenhua.net/paintings/500s/mural-fragment-with-elite-male-and-maguey-cactus-leaves-500-d7f10ab5.jpg)

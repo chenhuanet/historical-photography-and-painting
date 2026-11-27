@@ -29,7 +29,9 @@ chapters:
 - 一张图可以出现在多个专题；照片记录不写 `stories` 字段。
 - 专题页是精选，集合页是全量，两者不混。
 
-已刊：
+当前：主站发布 **380** 篇故事，另有 **4** 篇归档在 `_archive/`；366 天日历全覆盖。主题轴与编辑串读见 [`../story-axes.json`](../story-axes.json) 与 [`../story-trails.json`](../story-trails.json)。
+
+代表性长文：
 
 - [摄影术的前五十年](photos/first-fifty-years.md)
 - [没有留下名字的人](photos/unnamed-faces.md)

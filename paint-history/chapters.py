@@ -14,7 +14,7 @@ CHAPTERS = [
         "thesis_zh": "中国早期绘画先解决的，不是解剖和透视，而是一根线如何在绢上同时承载时间、身份与空间。顾恺之的线是伦理的，范宽的线是地质的，张择端的线是社会的；到了王希孟，线又被青绿颜色接住，变成一整个王朝的江山想象。",
         "thesis_en": "Early Chinese painting did not first solve anatomy or perspective. It asked how a single line on silk could carry time, status and space at once. Gu Kaizhi's line is ethical, Fan Kuan's is geological, Zhang Zeduan's is social; by Wang Ximeng, line is caught by mineral blue-green and becomes an empire's imagination of landscape.",
         "hero": "gu-kaizhi-admonitions-scroll-400",
-        "anchors": ["gu-kaizhi-admonitions-scroll-400", "fan-kuan-travelers-1025", "zhang-zeduan-qingming-scroll-1100", "wang-ximeng-thousand-li-1113", "juran-buddhist-retreat-975", "muqi-dragon-1260"],
+        "anchors": ["gu-kaizhi-admonitions-scroll-400", "fan-kuan-travelers-1025", "zhang-zeduan-qingming-scroll-1100", "wang-ximeng-thousand-li-1113", "buddhist-retreat-by-stream-and-mountains-960", "muqi-dragon-1260"],
         "movements": ["yuan-literati", "song-landscape", "song-genre", "song-bluegreen"],
         "sections": [
             {
@@ -65,7 +65,7 @@ CHAPTERS = [
         "thesis_zh": "文艺复兴不是一次“画得更像”的技术升级，而是一场关于谁有资格被看见的重新谈判。杜乔让圣像开始呼吸，乔托让哀悼有了重量，马萨乔把亚当和夏娃赶进真实空间，达·芬奇让微笑变成谜，米开朗基罗让身体成为建筑，拉斐尔把整个知识界请进一间厅堂。威尼斯则把颜色变成另一种温度：不是靠轮廓，而是靠色层。",
         "thesis_en": "The Renaissance was not a technical upgrade called 'more realistic painting'. It was a renegotiation of who deserved to be seen. Duccio lets an icon breathe, Giotto gives grief weight, Masaccio pushes Adam and Eve into real space, Leonardo turns a smile into an enigma, Michelangelo turns the body into architecture, Raphael invites the whole Republic of Letters into one room. Venice gives colour its own warmth: not through contour, but through layers.",
         "hero": "duccio-maesta-1308",
-        "anchors": ["duccio-maesta-1308", "giotto-lamentation-1305", "masaccio-expulsion-1427", "botticelli-birth-of-venus-1485", "leonardo-mona-lisa-1503", "michelangelo-creation-of-adam-1511", "raphael-school-of-athens-1511", "titian-adoration-magi-1520", "bronzino-portrait-woman-1550", "parmigianino-entombment-1529"],
+        "anchors": ["duccio-maesta-1308", "giotto-lamentation-1305", "masaccio-expulsion-1427", "botticelli-birth-of-venus-1485", "leonardo-mona-lisa-1503", "michelangelo-creation-of-adam-1511", "raphael-school-of-athens-1511", "adoration-of-the-magi-1500", "portrait-of-a-woman-1550", "parmigianino-entombment-1529"],
         "movements": ["early-renaissance", "high-renaissance", "mannerism"],
         "sections": [
             {
@@ -575,7 +575,7 @@ CHAPTERS = [
         "thesis_zh": "元明清的绘画把“画什么”退到第二位，“怎么画”成为主角。黄公望用披麻皴画富春江的土坡，倪瓒用极少的墨画空亭和疏林，沈周把庐山变成一座可游的高山，徐渭把葡萄画成一团泼墨的愤怒，石涛把黄山画成不断变化的墨点。文人画不是逃避社会，而是用笔墨建立另一种社会：师友、题跋、收藏和观看。",
         "thesis_en": "In Yuan, Ming and Qing painting, 'what' recedes and 'how' becomes the protagonist. Huang Gongwang uses hemp-fibre texture strokes for the earth of the Fuchun River, Ni Zan paints an empty pavilion and sparse trees with the least ink, Shen Zhou turns Mount Lu into a mountain you can travel through, Xu Wei turns grapes into a splash of ink anger, Shitao turns Yellow Mountain into changing ink dots. Literati painting is not an escape from society; it builds another society through brush, inscription, collecting and viewing.",
         "hero": "huang-gongwang-fuchun-1350",
-        "anchors": ["huang-gongwang-fuchun-1350", "ni-zan-woods-valleys-1355", "shen-zhou-loft-mount-lu-1467", "xu-wei-grapes-1580", "shitao-thirty-six-peaks-1705", "castiglione-hundred-horses-1728", "wang-meng-writing-books-1350", "ni-zan-bamboo-rock-1350", "huang-gongwang-summer-mountains-1350"],
+        "anchors": ["huang-gongwang-fuchun-1350", "ni-zan-woods-valleys-1355", "shen-zhou-loft-mount-lu-1467", "xu-wei-grapes-1580", "shitao-thirty-six-peaks-1705", "castiglione-hundred-horses-1728", "writing-books-under-the-pine-trees-1303", "bamboo-rock-and-tall-tree-1300", "huang-gongwang-summer-mountains-1350"],
         "movements": ["yuan-literati", "wu-school", "qing-individualists", "qing-court"],
         "sections": [
             {

@@ -19,8 +19,8 @@ theme: 信仰
 theme_en: Faith
 topic: 信仰
 topic_en: faith
-curation_theme: 信仰与图像
-curation_theme_en: 信仰与图像
+curation_theme: 材料与技法
+curation_theme_en: Material and Technique
 region: 中国
 region_en: China
 place: 中国
@@ -106,6 +106,13 @@ audit:
   reason: 开放数据公版图像；题名、年代、材质、馆藏逐项核对；不代替馆藏研究
   checks_passed: 6
   checks_applicable: 6
+subtheme: 壁画
+subtheme_en: Mural
+themes_secondary:
+- 壁画
+- 佛与菩萨
+why_included: 补足「材料与技法 / 壁画」子线索：《说法佛像》以壁画残片进入材料与墙面尺度的讨论。
+why_included_en: 'Fills the “Material and Technique / Mural” thread: Buddha in the Preaching Attitude enters through a wall-painting fragment and the scale of the wall.'
 ---
 
 ![说法佛像，壁画，618–1279](https://pre19century.chenhua.net/paintings/610s/buddha-in-the-preaching-attitude-618-3822f45c.jpg)
